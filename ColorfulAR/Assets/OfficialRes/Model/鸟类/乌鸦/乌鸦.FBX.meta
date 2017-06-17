@@ -1,0 +1,458 @@
+fileFormatVersion: 2
+guid: c3ff006afa3eefa47bf34e378061ef43
+timeCreated: 1476091504
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Back_Wing
+    100002: Back_Wing_Left
+    100004: Back_Wing_Mid
+    100006: Back_Wing_Right
+    100008: Beak
+    100010: Head
+    100012: Hips
+    100014: LeftArm
+    100016: LeftFoot
+    100018: LeftFootIndex1
+    100020: LeftFootIndex2
+    100022: LeftFootMiddle1
+    100024: LeftFootMiddle2
+    100026: LeftFootPinky1
+    100028: LeftFootPinky2
+    100030: LeftFootRing1
+    100032: LeftFootRing2
+    100034: LeftForeArm
+    100036: LeftHand
+    100038: LeftLeg
+    100040: LeftShoulder
+    100042: LeftToeBase
+    100044: LeftUpLeg
+    100046: LeftWing1
+    100048: LeftWing2
+    100050: LeftWing3
+    100052: Neck
+    100054: Neck1
+    100056: Neck2
+    100058: raven_hi_skeleton
+    100060: RightArm
+    100062: RightFoot
+    100064: RightFootIndex1
+    100066: RightFootIndex2
+    100068: RightFootMiddle1
+    100070: RightFootMiddle2
+    100072: RightFootPinky1
+    100074: RightFootPinky2
+    100076: RightFootThumb1
+    100078: RightFootThumb2
+    100080: RightForeArm
+    100082: RightHand
+    100084: RightLeg
+    100086: RightShoulder
+    100088: RightToeBase
+    100090: RightUpLeg
+    100092: RightWing1
+    100094: RightWing2
+    100096: RightWing3
+    100098: Root
+    100100: Spine
+    100102: //RootNode
+    400000: Back_Wing
+    400002: Back_Wing_Left
+    400004: Back_Wing_Mid
+    400006: Back_Wing_Right
+    400008: Beak
+    400010: Head
+    400012: Hips
+    400014: LeftArm
+    400016: LeftFoot
+    400018: LeftFootIndex1
+    400020: LeftFootIndex2
+    400022: LeftFootMiddle1
+    400024: LeftFootMiddle2
+    400026: LeftFootPinky1
+    400028: LeftFootPinky2
+    400030: LeftFootRing1
+    400032: LeftFootRing2
+    400034: LeftForeArm
+    400036: LeftHand
+    400038: LeftLeg
+    400040: LeftShoulder
+    400042: LeftToeBase
+    400044: LeftUpLeg
+    400046: LeftWing1
+    400048: LeftWing2
+    400050: LeftWing3
+    400052: Neck
+    400054: Neck1
+    400056: Neck2
+    400058: raven_hi_skeleton
+    400060: RightArm
+    400062: RightFoot
+    400064: RightFootIndex1
+    400066: RightFootIndex2
+    400068: RightFootMiddle1
+    400070: RightFootMiddle2
+    400072: RightFootPinky1
+    400074: RightFootPinky2
+    400076: RightFootThumb1
+    400078: RightFootThumb2
+    400080: RightForeArm
+    400082: RightHand
+    400084: RightLeg
+    400086: RightShoulder
+    400088: RightToeBase
+    400090: RightUpLeg
+    400092: RightWing1
+    400094: RightWing2
+    400096: RightWing3
+    400098: Root
+    400100: Spine
+    400102: //RootNode
+    4300000: raven_hi_skeleton
+    7400000: Take 001
+    7400002: Take 002
+    9500000: //RootNode
+    13700000: raven_hi_skeleton
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 200
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: raven_hi_skeleton
+        weight: 1
+      - path: Root
+        weight: 1
+      - path: Root/Hips
+        weight: 1
+      - path: Root/Hips/Back_Wing
+        weight: 1
+      - path: Root/Hips/Back_Wing/Back_Wing_Left
+        weight: 1
+      - path: Root/Hips/Back_Wing/Back_Wing_Mid
+        weight: 1
+      - path: Root/Hips/Back_Wing/Back_Wing_Right
+        weight: 1
+      - path: Root/Hips/LeftUpLeg
+        weight: 1
+      - path: Root/Hips/LeftUpLeg/LeftLeg
+        weight: 1
+      - path: Root/Hips/LeftUpLeg/LeftLeg/LeftFoot
+        weight: 1
+      - path: Root/Hips/LeftUpLeg/LeftLeg/LeftFoot/LeftToeBase
+        weight: 1
+      - path: Root/Hips/LeftUpLeg/LeftLeg/LeftFoot/LeftToeBase/LeftFootIndex1
+        weight: 1
+      - path: Root/Hips/LeftUpLeg/LeftLeg/LeftFoot/LeftToeBase/LeftFootIndex1/LeftFootIndex2
+        weight: 1
+      - path: Root/Hips/LeftUpLeg/LeftLeg/LeftFoot/LeftToeBase/LeftFootMiddle1
+        weight: 1
+      - path: Root/Hips/LeftUpLeg/LeftLeg/LeftFoot/LeftToeBase/LeftFootMiddle1/LeftFootMiddle2
+        weight: 1
+      - path: Root/Hips/LeftUpLeg/LeftLeg/LeftFoot/LeftToeBase/LeftFootPinky1
+        weight: 1
+      - path: Root/Hips/LeftUpLeg/LeftLeg/LeftFoot/LeftToeBase/LeftFootPinky1/LeftFootPinky2
+        weight: 1
+      - path: Root/Hips/LeftUpLeg/LeftLeg/LeftFoot/LeftToeBase/LeftFootRing1
+        weight: 1
+      - path: Root/Hips/LeftUpLeg/LeftLeg/LeftFoot/LeftToeBase/LeftFootRing1/LeftFootRing2
+        weight: 1
+      - path: Root/Hips/RightUpLeg
+        weight: 1
+      - path: Root/Hips/RightUpLeg/RightLeg
+        weight: 1
+      - path: Root/Hips/RightUpLeg/RightLeg/RightFoot
+        weight: 1
+      - path: Root/Hips/RightUpLeg/RightLeg/RightFoot/RightToeBase
+        weight: 1
+      - path: Root/Hips/RightUpLeg/RightLeg/RightFoot/RightToeBase/RightFootIndex1
+        weight: 1
+      - path: Root/Hips/RightUpLeg/RightLeg/RightFoot/RightToeBase/RightFootIndex1/RightFootIndex2
+        weight: 1
+      - path: Root/Hips/RightUpLeg/RightLeg/RightFoot/RightToeBase/RightFootMiddle1
+        weight: 1
+      - path: Root/Hips/RightUpLeg/RightLeg/RightFoot/RightToeBase/RightFootMiddle1/RightFootMiddle2
+        weight: 1
+      - path: Root/Hips/RightUpLeg/RightLeg/RightFoot/RightToeBase/RightFootPinky1
+        weight: 1
+      - path: Root/Hips/RightUpLeg/RightLeg/RightFoot/RightToeBase/RightFootPinky1/RightFootPinky2
+        weight: 1
+      - path: Root/Hips/RightUpLeg/RightLeg/RightFoot/RightToeBase/RightFootThumb1
+        weight: 1
+      - path: Root/Hips/RightUpLeg/RightLeg/RightFoot/RightToeBase/RightFootThumb1/RightFootThumb2
+        weight: 1
+      - path: Root/Hips/Spine
+        weight: 1
+      - path: Root/Hips/Spine/LeftShoulder
+        weight: 1
+      - path: Root/Hips/Spine/LeftShoulder/LeftArm
+        weight: 1
+      - path: Root/Hips/Spine/LeftShoulder/LeftArm/LeftForeArm
+        weight: 1
+      - path: Root/Hips/Spine/LeftShoulder/LeftArm/LeftForeArm/LeftHand
+        weight: 1
+      - path: Root/Hips/Spine/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftWing3
+        weight: 1
+      - path: Root/Hips/Spine/LeftShoulder/LeftArm/LeftWing1
+        weight: 1
+      - path: Root/Hips/Spine/LeftShoulder/LeftArm/LeftWing2
+        weight: 1
+      - path: Root/Hips/Spine/Neck
+        weight: 1
+      - path: Root/Hips/Spine/Neck/Neck1
+        weight: 1
+      - path: Root/Hips/Spine/Neck/Neck1/Neck2
+        weight: 1
+      - path: Root/Hips/Spine/Neck/Neck1/Neck2/Head
+        weight: 1
+      - path: Root/Hips/Spine/Neck/Neck1/Neck2/Head/Beak
+        weight: 1
+      - path: Root/Hips/Spine/RightShoulder
+        weight: 1
+      - path: Root/Hips/Spine/RightShoulder/RightArm
+        weight: 1
+      - path: Root/Hips/Spine/RightShoulder/RightArm/RightForeArm
+        weight: 1
+      - path: Root/Hips/Spine/RightShoulder/RightArm/RightForeArm/RightHand
+        weight: 1
+      - path: Root/Hips/Spine/RightShoulder/RightArm/RightForeArm/RightHand/RightWing3
+        weight: 1
+      - path: Root/Hips/Spine/RightShoulder/RightArm/RightWing1
+        weight: 1
+      - path: Root/Hips/Spine/RightShoulder/RightArm/RightWing2
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Take 002
+      takeName: Take 001
+      firstFrame: 200
+      lastFrame: 264
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 1
+        functionName: Stop
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0
+        functionName: PlayAudio
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: raven_hi_skeleton
+        weight: 1
+      - path: Root
+        weight: 1
+      - path: Root/Hips
+        weight: 1
+      - path: Root/Hips/Back_Wing
+        weight: 1
+      - path: Root/Hips/Back_Wing/Back_Wing_Left
+        weight: 1
+      - path: Root/Hips/Back_Wing/Back_Wing_Mid
+        weight: 1
+      - path: Root/Hips/Back_Wing/Back_Wing_Right
+        weight: 1
+      - path: Root/Hips/LeftUpLeg
+        weight: 1
+      - path: Root/Hips/LeftUpLeg/LeftLeg
+        weight: 1
+      - path: Root/Hips/LeftUpLeg/LeftLeg/LeftFoot
+        weight: 1
+      - path: Root/Hips/LeftUpLeg/LeftLeg/LeftFoot/LeftToeBase
+        weight: 1
+      - path: Root/Hips/LeftUpLeg/LeftLeg/LeftFoot/LeftToeBase/LeftFootIndex1
+        weight: 1
+      - path: Root/Hips/LeftUpLeg/LeftLeg/LeftFoot/LeftToeBase/LeftFootIndex1/LeftFootIndex2
+        weight: 1
+      - path: Root/Hips/LeftUpLeg/LeftLeg/LeftFoot/LeftToeBase/LeftFootMiddle1
+        weight: 1
+      - path: Root/Hips/LeftUpLeg/LeftLeg/LeftFoot/LeftToeBase/LeftFootMiddle1/LeftFootMiddle2
+        weight: 1
+      - path: Root/Hips/LeftUpLeg/LeftLeg/LeftFoot/LeftToeBase/LeftFootPinky1
+        weight: 1
+      - path: Root/Hips/LeftUpLeg/LeftLeg/LeftFoot/LeftToeBase/LeftFootPinky1/LeftFootPinky2
+        weight: 1
+      - path: Root/Hips/LeftUpLeg/LeftLeg/LeftFoot/LeftToeBase/LeftFootRing1
+        weight: 1
+      - path: Root/Hips/LeftUpLeg/LeftLeg/LeftFoot/LeftToeBase/LeftFootRing1/LeftFootRing2
+        weight: 1
+      - path: Root/Hips/RightUpLeg
+        weight: 1
+      - path: Root/Hips/RightUpLeg/RightLeg
+        weight: 1
+      - path: Root/Hips/RightUpLeg/RightLeg/RightFoot
+        weight: 1
+      - path: Root/Hips/RightUpLeg/RightLeg/RightFoot/RightToeBase
+        weight: 1
+      - path: Root/Hips/RightUpLeg/RightLeg/RightFoot/RightToeBase/RightFootIndex1
+        weight: 1
+      - path: Root/Hips/RightUpLeg/RightLeg/RightFoot/RightToeBase/RightFootIndex1/RightFootIndex2
+        weight: 1
+      - path: Root/Hips/RightUpLeg/RightLeg/RightFoot/RightToeBase/RightFootMiddle1
+        weight: 1
+      - path: Root/Hips/RightUpLeg/RightLeg/RightFoot/RightToeBase/RightFootMiddle1/RightFootMiddle2
+        weight: 1
+      - path: Root/Hips/RightUpLeg/RightLeg/RightFoot/RightToeBase/RightFootPinky1
+        weight: 1
+      - path: Root/Hips/RightUpLeg/RightLeg/RightFoot/RightToeBase/RightFootPinky1/RightFootPinky2
+        weight: 1
+      - path: Root/Hips/RightUpLeg/RightLeg/RightFoot/RightToeBase/RightFootThumb1
+        weight: 1
+      - path: Root/Hips/RightUpLeg/RightLeg/RightFoot/RightToeBase/RightFootThumb1/RightFootThumb2
+        weight: 1
+      - path: Root/Hips/Spine
+        weight: 1
+      - path: Root/Hips/Spine/LeftShoulder
+        weight: 1
+      - path: Root/Hips/Spine/LeftShoulder/LeftArm
+        weight: 1
+      - path: Root/Hips/Spine/LeftShoulder/LeftArm/LeftForeArm
+        weight: 1
+      - path: Root/Hips/Spine/LeftShoulder/LeftArm/LeftForeArm/LeftHand
+        weight: 1
+      - path: Root/Hips/Spine/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftWing3
+        weight: 1
+      - path: Root/Hips/Spine/LeftShoulder/LeftArm/LeftWing1
+        weight: 1
+      - path: Root/Hips/Spine/LeftShoulder/LeftArm/LeftWing2
+        weight: 1
+      - path: Root/Hips/Spine/Neck
+        weight: 1
+      - path: Root/Hips/Spine/Neck/Neck1
+        weight: 1
+      - path: Root/Hips/Spine/Neck/Neck1/Neck2
+        weight: 1
+      - path: Root/Hips/Spine/Neck/Neck1/Neck2/Head
+        weight: 1
+      - path: Root/Hips/Spine/Neck/Neck1/Neck2/Head/Beak
+        weight: 1
+      - path: Root/Hips/Spine/RightShoulder
+        weight: 1
+      - path: Root/Hips/Spine/RightShoulder/RightArm
+        weight: 1
+      - path: Root/Hips/Spine/RightShoulder/RightArm/RightForeArm
+        weight: 1
+      - path: Root/Hips/Spine/RightShoulder/RightArm/RightForeArm/RightHand
+        weight: 1
+      - path: Root/Hips/Spine/RightShoulder/RightArm/RightForeArm/RightHand/RightWing3
+        weight: 1
+      - path: Root/Hips/Spine/RightShoulder/RightArm/RightWing1
+        weight: 1
+      - path: Root/Hips/Spine/RightShoulder/RightArm/RightWing2
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

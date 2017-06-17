@@ -1,0 +1,271 @@
+fileFormatVersion: 2
+guid: d1b048b48d8fe7f43b2e7aded4e33a86
+timeCreated: 1475919615
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: BEAR
+    100002: BEAR_
+    100004: BEAR_ Head
+    100006: BEAR_ L Calf
+    100008: BEAR_ L Clavicle
+    100010: BEAR_ L Finger0
+    100012: BEAR_ L Finger01
+    100014: BEAR_ L Foot
+    100016: BEAR_ L Forearm
+    100018: BEAR_ L Hand
+    100020: BEAR_ L Thigh
+    100022: BEAR_ L Toe0
+    100024: BEAR_ L Toe01
+    100026: BEAR_ L Toe02
+    100028: BEAR_ L UpperArm
+    100030: BEAR_ Neck
+    100032: BEAR_ Neck1
+    100034: BEAR_ Pelvis
+    100036: BEAR_ Queue de cheval 1
+    100038: BEAR_ R Calf
+    100040: BEAR_ R Clavicle
+    100042: BEAR_ R Finger0
+    100044: BEAR_ R Finger01
+    100046: BEAR_ R Foot
+    100048: BEAR_ R Forearm
+    100050: BEAR_ R Hand
+    100052: BEAR_ R Thigh
+    100054: BEAR_ R Toe0
+    100056: BEAR_ R Toe01
+    100058: BEAR_ R Toe02
+    100060: BEAR_ R UpperArm
+    100062: BEAR_ Spine
+    100064: BEAR_ Spine1
+    100066: //RootNode
+    400000: BEAR
+    400002: BEAR_
+    400004: BEAR_ Head
+    400006: BEAR_ L Calf
+    400008: BEAR_ L Clavicle
+    400010: BEAR_ L Finger0
+    400012: BEAR_ L Finger01
+    400014: BEAR_ L Foot
+    400016: BEAR_ L Forearm
+    400018: BEAR_ L Hand
+    400020: BEAR_ L Thigh
+    400022: BEAR_ L Toe0
+    400024: BEAR_ L Toe01
+    400026: BEAR_ L Toe02
+    400028: BEAR_ L UpperArm
+    400030: BEAR_ Neck
+    400032: BEAR_ Neck1
+    400034: BEAR_ Pelvis
+    400036: BEAR_ Queue de cheval 1
+    400038: BEAR_ R Calf
+    400040: BEAR_ R Clavicle
+    400042: BEAR_ R Finger0
+    400044: BEAR_ R Finger01
+    400046: BEAR_ R Foot
+    400048: BEAR_ R Forearm
+    400050: BEAR_ R Hand
+    400052: BEAR_ R Thigh
+    400054: BEAR_ R Toe0
+    400056: BEAR_ R Toe01
+    400058: BEAR_ R Toe02
+    400060: BEAR_ R UpperArm
+    400062: BEAR_ Spine
+    400064: BEAR_ Spine1
+    400066: //RootNode
+    4300000: BEAR
+    7400000: Take 002
+    9500000: //RootNode
+    13700000: BEAR
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 002
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 96
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0
+        functionName: PlayAudio
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 1
+        functionName: Stop
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: BEAR
+        weight: 1
+      - path: BEAR_
+        weight: 1
+      - path: BEAR_/BEAR_ Pelvis
+        weight: 1
+      - path: BEAR_/BEAR_ Pelvis/BEAR_ Spine
+        weight: 1
+      - path: BEAR_/BEAR_ Pelvis/BEAR_ Spine/BEAR_ L Thigh
+        weight: 1
+      - path: BEAR_/BEAR_ Pelvis/BEAR_ Spine/BEAR_ L Thigh/BEAR_ L Calf
+        weight: 1
+      - path: BEAR_/BEAR_ Pelvis/BEAR_ Spine/BEAR_ L Thigh/BEAR_ L Calf/BEAR_ L Foot
+        weight: 1
+      - path: BEAR_/BEAR_ Pelvis/BEAR_ Spine/BEAR_ L Thigh/BEAR_ L Calf/BEAR_ L Foot/BEAR_
+          L Toe0
+        weight: 1
+      - path: BEAR_/BEAR_ Pelvis/BEAR_ Spine/BEAR_ L Thigh/BEAR_ L Calf/BEAR_ L Foot/BEAR_
+          L Toe0/BEAR_ L Toe01
+        weight: 1
+      - path: BEAR_/BEAR_ Pelvis/BEAR_ Spine/BEAR_ L Thigh/BEAR_ L Calf/BEAR_ L Foot/BEAR_
+          L Toe0/BEAR_ L Toe01/BEAR_ L Toe02
+        weight: 1
+      - path: BEAR_/BEAR_ Pelvis/BEAR_ Spine/BEAR_ R Thigh
+        weight: 1
+      - path: BEAR_/BEAR_ Pelvis/BEAR_ Spine/BEAR_ R Thigh/BEAR_ R Calf
+        weight: 1
+      - path: BEAR_/BEAR_ Pelvis/BEAR_ Spine/BEAR_ R Thigh/BEAR_ R Calf/BEAR_ R Foot
+        weight: 1
+      - path: BEAR_/BEAR_ Pelvis/BEAR_ Spine/BEAR_ R Thigh/BEAR_ R Calf/BEAR_ R Foot/BEAR_
+          R Toe0
+        weight: 1
+      - path: BEAR_/BEAR_ Pelvis/BEAR_ Spine/BEAR_ R Thigh/BEAR_ R Calf/BEAR_ R Foot/BEAR_
+          R Toe0/BEAR_ R Toe01
+        weight: 1
+      - path: BEAR_/BEAR_ Pelvis/BEAR_ Spine/BEAR_ R Thigh/BEAR_ R Calf/BEAR_ R Foot/BEAR_
+          R Toe0/BEAR_ R Toe01/BEAR_ R Toe02
+        weight: 1
+      - path: BEAR_/BEAR_ Pelvis/BEAR_ Spine/BEAR_ Spine1
+        weight: 1
+      - path: BEAR_/BEAR_ Pelvis/BEAR_ Spine/BEAR_ Spine1/BEAR_ Neck
+        weight: 1
+      - path: BEAR_/BEAR_ Pelvis/BEAR_ Spine/BEAR_ Spine1/BEAR_ Neck/BEAR_ L Clavicle
+        weight: 1
+      - path: BEAR_/BEAR_ Pelvis/BEAR_ Spine/BEAR_ Spine1/BEAR_ Neck/BEAR_ L Clavicle/BEAR_
+          L UpperArm
+        weight: 1
+      - path: BEAR_/BEAR_ Pelvis/BEAR_ Spine/BEAR_ Spine1/BEAR_ Neck/BEAR_ L Clavicle/BEAR_
+          L UpperArm/BEAR_ L Forearm
+        weight: 1
+      - path: BEAR_/BEAR_ Pelvis/BEAR_ Spine/BEAR_ Spine1/BEAR_ Neck/BEAR_ L Clavicle/BEAR_
+          L UpperArm/BEAR_ L Forearm/BEAR_ L Hand
+        weight: 1
+      - path: BEAR_/BEAR_ Pelvis/BEAR_ Spine/BEAR_ Spine1/BEAR_ Neck/BEAR_ L Clavicle/BEAR_
+          L UpperArm/BEAR_ L Forearm/BEAR_ L Hand/BEAR_ L Finger0
+        weight: 1
+      - path: BEAR_/BEAR_ Pelvis/BEAR_ Spine/BEAR_ Spine1/BEAR_ Neck/BEAR_ L Clavicle/BEAR_
+          L UpperArm/BEAR_ L Forearm/BEAR_ L Hand/BEAR_ L Finger0/BEAR_ L Finger01
+        weight: 1
+      - path: BEAR_/BEAR_ Pelvis/BEAR_ Spine/BEAR_ Spine1/BEAR_ Neck/BEAR_ Neck1
+        weight: 1
+      - path: BEAR_/BEAR_ Pelvis/BEAR_ Spine/BEAR_ Spine1/BEAR_ Neck/BEAR_ Neck1/BEAR_
+          Head
+        weight: 1
+      - path: BEAR_/BEAR_ Pelvis/BEAR_ Spine/BEAR_ Spine1/BEAR_ Neck/BEAR_ Neck1/BEAR_
+          Head/BEAR_ Queue de cheval 1
+        weight: 1
+      - path: BEAR_/BEAR_ Pelvis/BEAR_ Spine/BEAR_ Spine1/BEAR_ Neck/BEAR_ R Clavicle
+        weight: 1
+      - path: BEAR_/BEAR_ Pelvis/BEAR_ Spine/BEAR_ Spine1/BEAR_ Neck/BEAR_ R Clavicle/BEAR_
+          R UpperArm
+        weight: 1
+      - path: BEAR_/BEAR_ Pelvis/BEAR_ Spine/BEAR_ Spine1/BEAR_ Neck/BEAR_ R Clavicle/BEAR_
+          R UpperArm/BEAR_ R Forearm
+        weight: 1
+      - path: BEAR_/BEAR_ Pelvis/BEAR_ Spine/BEAR_ Spine1/BEAR_ Neck/BEAR_ R Clavicle/BEAR_
+          R UpperArm/BEAR_ R Forearm/BEAR_ R Hand
+        weight: 1
+      - path: BEAR_/BEAR_ Pelvis/BEAR_ Spine/BEAR_ Spine1/BEAR_ Neck/BEAR_ R Clavicle/BEAR_
+          R UpperArm/BEAR_ R Forearm/BEAR_ R Hand/BEAR_ R Finger0
+        weight: 1
+      - path: BEAR_/BEAR_ Pelvis/BEAR_ Spine/BEAR_ Spine1/BEAR_ Neck/BEAR_ R Clavicle/BEAR_
+          R UpperArm/BEAR_ R Forearm/BEAR_ R Hand/BEAR_ R Finger0/BEAR_ R Finger01
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

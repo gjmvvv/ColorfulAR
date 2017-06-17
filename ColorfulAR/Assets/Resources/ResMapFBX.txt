@@ -1,0 +1,8 @@
+Mammal_Elephant_fbx=TYPE_Mammal/Elephant/Mammal_Elephant_fbx
+Mammal_Koalas_fbx=TYPE_Mammal/Koalas/Mammal_Koalas_fbx
+Mammal_Rabbit_fbx=TYPE_Mammal/Rabbit/Mammal_Rabbit_fbx
+Mammal_Seals_fbx=TYPE_Mammal/Seals/Mammal_Seals_fbx
+Mammal_Sikadeer_fbx=TYPE_Mammal/Sikadeer/Mammal_Sikadeer_fbx
+Mammal_Squirrel_fbx=TYPE_Mammal/Squirrel/Mammal_Squirrel_fbx
+Mammal_Wildebeest_fbx=TYPE_Mammal/Wildebeest/Mammal_Wildebeest_fbx
+Mammal_zebra_fbx=TYPE_Mammal/zebra/Mammal_zebra_fbx

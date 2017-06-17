@@ -1,0 +1,337 @@
+fileFormatVersion: 2
+guid: bd654c5253e986e44b77ec1cef182af9
+timeCreated: 1476091502
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: AN_NPC_MOB_GEagle_A01_SK_IRS
+    100002: Bip01
+    100004: Bip01-Head
+    100006: Bip01-L-Calf
+    100008: Bip01-L-Foot
+    100010: Bip01-L-HorseLink
+    100012: Bip01-L-Thigh
+    100014: Bip01-L-Toe0
+    100016: Bip01-Neck
+    100018: Bip01-Neck1
+    100020: Bip01-Neck2
+    100022: Bip01-Pelvis
+    100024: Bip01-R-Calf
+    100026: Bip01-R-Foot
+    100028: Bip01-R-HorseLink
+    100030: Bip01-R-Thigh
+    100032: Bip01-R-Toe0
+    100034: Bip01-Spine
+    100036: Bip01-Spine1
+    100038: BN_Jaw
+    100040: BN_Tai_01
+    100042: BN_Tai_L_01
+    100044: BN_Tai_L_02
+    100046: BN_Tai_R_01
+    100048: BN_Tai_R_02
+    100050: BN_Toe_L_00
+    100052: BN_Toe_L_01
+    100054: BN_Toe_L_10
+    100056: BN_Toe_L_11
+    100058: BN_Toe_L_20
+    100060: BN_Toe_L_21
+    100062: BN_Toe_L_30
+    100064: BN_Toe_L_31
+    100066: BN_Toe_R_00
+    100068: BN_Toe_R_01
+    100070: BN_Toe_R_10
+    100072: BN_Toe_R_11
+    100074: BN_Toe_R_20
+    100076: BN_Toe_R_21
+    100078: BN_Toe_R_30
+    100080: BN_Toe_R_31
+    100082: BN_Wing_L_01
+    100084: BN_Wing_L_02
+    100086: BN_Wing_L_03
+    100088: BN_Wing_L_04
+    100090: BN_Wing_L_05
+    100092: BN_Wing_L_06
+    100094: BN_Wing_R_01
+    100096: BN_Wing_R_02
+    100098: BN_Wing_R_03
+    100100: BN_Wing_R_04
+    100102: BN_Wing_R_05
+    100104: BN_Wing_R_06
+    100106: Sky001
+    100108: //RootNode
+    400000: AN_NPC_MOB_GEagle_A01_SK_IRS
+    400002: Bip01
+    400004: Bip01-Head
+    400006: Bip01-L-Calf
+    400008: Bip01-L-Foot
+    400010: Bip01-L-HorseLink
+    400012: Bip01-L-Thigh
+    400014: Bip01-L-Toe0
+    400016: Bip01-Neck
+    400018: Bip01-Neck1
+    400020: Bip01-Neck2
+    400022: Bip01-Pelvis
+    400024: Bip01-R-Calf
+    400026: Bip01-R-Foot
+    400028: Bip01-R-HorseLink
+    400030: Bip01-R-Thigh
+    400032: Bip01-R-Toe0
+    400034: Bip01-Spine
+    400036: Bip01-Spine1
+    400038: BN_Jaw
+    400040: BN_Tai_01
+    400042: BN_Tai_L_01
+    400044: BN_Tai_L_02
+    400046: BN_Tai_R_01
+    400048: BN_Tai_R_02
+    400050: BN_Toe_L_00
+    400052: BN_Toe_L_01
+    400054: BN_Toe_L_10
+    400056: BN_Toe_L_11
+    400058: BN_Toe_L_20
+    400060: BN_Toe_L_21
+    400062: BN_Toe_L_30
+    400064: BN_Toe_L_31
+    400066: BN_Toe_R_00
+    400068: BN_Toe_R_01
+    400070: BN_Toe_R_10
+    400072: BN_Toe_R_11
+    400074: BN_Toe_R_20
+    400076: BN_Toe_R_21
+    400078: BN_Toe_R_30
+    400080: BN_Toe_R_31
+    400082: BN_Wing_L_01
+    400084: BN_Wing_L_02
+    400086: BN_Wing_L_03
+    400088: BN_Wing_L_04
+    400090: BN_Wing_L_05
+    400092: BN_Wing_L_06
+    400094: BN_Wing_R_01
+    400096: BN_Wing_R_02
+    400098: BN_Wing_R_03
+    400100: BN_Wing_R_04
+    400102: BN_Wing_R_05
+    400104: BN_Wing_R_06
+    400106: Sky001
+    400108: //RootNode
+    4300000: AN_NPC_MOB_GEagle_A01_SK_IRS
+    7400000: Take 002
+    9500000: //RootNode
+    13700000: AN_NPC_MOB_GEagle_A01_SK_IRS
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 002
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 180
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 1
+        functionName: Stop
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0
+        functionName: PlayAudio
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: AN_NPC_MOB_GEagle_A01_SK_IRS
+        weight: 1
+      - path: Bip01
+        weight: 1
+      - path: Bip01/Bip01-Pelvis
+        weight: 1
+      - path: Bip01/Bip01-Pelvis/Bip01-Spine
+        weight: 1
+      - path: Bip01/Bip01-Pelvis/Bip01-Spine/Bip01-L-Thigh
+        weight: 1
+      - path: Bip01/Bip01-Pelvis/Bip01-Spine/Bip01-L-Thigh/Bip01-L-Calf
+        weight: 1
+      - path: Bip01/Bip01-Pelvis/Bip01-Spine/Bip01-L-Thigh/Bip01-L-Calf/Bip01-L-HorseLink
+        weight: 1
+      - path: Bip01/Bip01-Pelvis/Bip01-Spine/Bip01-L-Thigh/Bip01-L-Calf/Bip01-L-HorseLink/Bip01-L-Foot
+        weight: 1
+      - path: Bip01/Bip01-Pelvis/Bip01-Spine/Bip01-L-Thigh/Bip01-L-Calf/Bip01-L-HorseLink/Bip01-L-Foot/Bip01-L-Toe0
+        weight: 1
+      - path: Bip01/Bip01-Pelvis/Bip01-Spine/Bip01-L-Thigh/Bip01-L-Calf/Bip01-L-HorseLink/Bip01-L-Foot/BN_Toe_L_00
+        weight: 1
+      - path: Bip01/Bip01-Pelvis/Bip01-Spine/Bip01-L-Thigh/Bip01-L-Calf/Bip01-L-HorseLink/Bip01-L-Foot/BN_Toe_L_00/BN_Toe_L_01
+        weight: 1
+      - path: Bip01/Bip01-Pelvis/Bip01-Spine/Bip01-L-Thigh/Bip01-L-Calf/Bip01-L-HorseLink/Bip01-L-Foot/BN_Toe_L_10
+        weight: 1
+      - path: Bip01/Bip01-Pelvis/Bip01-Spine/Bip01-L-Thigh/Bip01-L-Calf/Bip01-L-HorseLink/Bip01-L-Foot/BN_Toe_L_10/BN_Toe_L_11
+        weight: 1
+      - path: Bip01/Bip01-Pelvis/Bip01-Spine/Bip01-L-Thigh/Bip01-L-Calf/Bip01-L-HorseLink/Bip01-L-Foot/BN_Toe_L_20
+        weight: 1
+      - path: Bip01/Bip01-Pelvis/Bip01-Spine/Bip01-L-Thigh/Bip01-L-Calf/Bip01-L-HorseLink/Bip01-L-Foot/BN_Toe_L_20/BN_Toe_L_21
+        weight: 1
+      - path: Bip01/Bip01-Pelvis/Bip01-Spine/Bip01-L-Thigh/Bip01-L-Calf/Bip01-L-HorseLink/Bip01-L-Foot/BN_Toe_L_30
+        weight: 1
+      - path: Bip01/Bip01-Pelvis/Bip01-Spine/Bip01-L-Thigh/Bip01-L-Calf/Bip01-L-HorseLink/Bip01-L-Foot/BN_Toe_L_30/BN_Toe_L_31
+        weight: 1
+      - path: Bip01/Bip01-Pelvis/Bip01-Spine/Bip01-R-Thigh
+        weight: 1
+      - path: Bip01/Bip01-Pelvis/Bip01-Spine/Bip01-R-Thigh/Bip01-R-Calf
+        weight: 1
+      - path: Bip01/Bip01-Pelvis/Bip01-Spine/Bip01-R-Thigh/Bip01-R-Calf/Bip01-R-HorseLink
+        weight: 1
+      - path: Bip01/Bip01-Pelvis/Bip01-Spine/Bip01-R-Thigh/Bip01-R-Calf/Bip01-R-HorseLink/Bip01-R-Foot
+        weight: 1
+      - path: Bip01/Bip01-Pelvis/Bip01-Spine/Bip01-R-Thigh/Bip01-R-Calf/Bip01-R-HorseLink/Bip01-R-Foot/Bip01-R-Toe0
+        weight: 1
+      - path: Bip01/Bip01-Pelvis/Bip01-Spine/Bip01-R-Thigh/Bip01-R-Calf/Bip01-R-HorseLink/Bip01-R-Foot/BN_Toe_R_00
+        weight: 1
+      - path: Bip01/Bip01-Pelvis/Bip01-Spine/Bip01-R-Thigh/Bip01-R-Calf/Bip01-R-HorseLink/Bip01-R-Foot/BN_Toe_R_00/BN_Toe_R_01
+        weight: 1
+      - path: Bip01/Bip01-Pelvis/Bip01-Spine/Bip01-R-Thigh/Bip01-R-Calf/Bip01-R-HorseLink/Bip01-R-Foot/BN_Toe_R_10
+        weight: 1
+      - path: Bip01/Bip01-Pelvis/Bip01-Spine/Bip01-R-Thigh/Bip01-R-Calf/Bip01-R-HorseLink/Bip01-R-Foot/BN_Toe_R_10/BN_Toe_R_11
+        weight: 1
+      - path: Bip01/Bip01-Pelvis/Bip01-Spine/Bip01-R-Thigh/Bip01-R-Calf/Bip01-R-HorseLink/Bip01-R-Foot/BN_Toe_R_20
+        weight: 1
+      - path: Bip01/Bip01-Pelvis/Bip01-Spine/Bip01-R-Thigh/Bip01-R-Calf/Bip01-R-HorseLink/Bip01-R-Foot/BN_Toe_R_20/BN_Toe_R_21
+        weight: 1
+      - path: Bip01/Bip01-Pelvis/Bip01-Spine/Bip01-R-Thigh/Bip01-R-Calf/Bip01-R-HorseLink/Bip01-R-Foot/BN_Toe_R_30
+        weight: 1
+      - path: Bip01/Bip01-Pelvis/Bip01-Spine/Bip01-R-Thigh/Bip01-R-Calf/Bip01-R-HorseLink/Bip01-R-Foot/BN_Toe_R_30/BN_Toe_R_31
+        weight: 1
+      - path: Bip01/Bip01-Pelvis/Bip01-Spine/Bip01-Spine1
+        weight: 1
+      - path: Bip01/Bip01-Pelvis/Bip01-Spine/Bip01-Spine1/Bip01-Neck
+        weight: 1
+      - path: Bip01/Bip01-Pelvis/Bip01-Spine/Bip01-Spine1/Bip01-Neck/Bip01-Neck1
+        weight: 1
+      - path: Bip01/Bip01-Pelvis/Bip01-Spine/Bip01-Spine1/Bip01-Neck/Bip01-Neck1/Bip01-Neck2
+        weight: 1
+      - path: Bip01/Bip01-Pelvis/Bip01-Spine/Bip01-Spine1/Bip01-Neck/Bip01-Neck1/Bip01-Neck2/Bip01-Head
+        weight: 1
+      - path: Bip01/Bip01-Pelvis/Bip01-Spine/Bip01-Spine1/Bip01-Neck/Bip01-Neck1/Bip01-Neck2/Bip01-Head/BN_Jaw
+        weight: 1
+      - path: Bip01/Bip01-Pelvis/Bip01-Spine/Bip01-Spine1/BN_Wing_L_01
+        weight: 1
+      - path: Bip01/Bip01-Pelvis/Bip01-Spine/Bip01-Spine1/BN_Wing_L_01/BN_Wing_L_02
+        weight: 1
+      - path: Bip01/Bip01-Pelvis/Bip01-Spine/Bip01-Spine1/BN_Wing_L_01/BN_Wing_L_02/BN_Wing_L_03
+        weight: 1
+      - path: Bip01/Bip01-Pelvis/Bip01-Spine/Bip01-Spine1/BN_Wing_L_01/BN_Wing_L_02/BN_Wing_L_03/BN_Wing_L_04
+        weight: 1
+      - path: Bip01/Bip01-Pelvis/Bip01-Spine/Bip01-Spine1/BN_Wing_L_01/BN_Wing_L_02/BN_Wing_L_03/BN_Wing_L_05
+        weight: 1
+      - path: Bip01/Bip01-Pelvis/Bip01-Spine/Bip01-Spine1/BN_Wing_L_01/BN_Wing_L_02/BN_Wing_L_03/BN_Wing_L_05/BN_Wing_L_06
+        weight: 1
+      - path: Bip01/Bip01-Pelvis/Bip01-Spine/Bip01-Spine1/BN_Wing_R_01
+        weight: 1
+      - path: Bip01/Bip01-Pelvis/Bip01-Spine/Bip01-Spine1/BN_Wing_R_01/BN_Wing_R_02
+        weight: 1
+      - path: Bip01/Bip01-Pelvis/Bip01-Spine/Bip01-Spine1/BN_Wing_R_01/BN_Wing_R_02/BN_Wing_R_03
+        weight: 1
+      - path: Bip01/Bip01-Pelvis/Bip01-Spine/Bip01-Spine1/BN_Wing_R_01/BN_Wing_R_02/BN_Wing_R_03/BN_Wing_R_04
+        weight: 1
+      - path: Bip01/Bip01-Pelvis/Bip01-Spine/Bip01-Spine1/BN_Wing_R_01/BN_Wing_R_02/BN_Wing_R_03/BN_Wing_R_05
+        weight: 1
+      - path: Bip01/Bip01-Pelvis/Bip01-Spine/Bip01-Spine1/BN_Wing_R_01/BN_Wing_R_02/BN_Wing_R_03/BN_Wing_R_05/BN_Wing_R_06
+        weight: 1
+      - path: Bip01/Bip01-Pelvis/BN_Tai_01
+        weight: 1
+      - path: Bip01/Bip01-Pelvis/BN_Tai_01/BN_Tai_L_01
+        weight: 1
+      - path: Bip01/Bip01-Pelvis/BN_Tai_01/BN_Tai_L_01/BN_Tai_L_02
+        weight: 1
+      - path: Bip01/Bip01-Pelvis/BN_Tai_01/BN_Tai_R_01
+        weight: 1
+      - path: Bip01/Bip01-Pelvis/BN_Tai_01/BN_Tai_R_01/BN_Tai_R_02
+        weight: 1
+      - path: Sky001
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

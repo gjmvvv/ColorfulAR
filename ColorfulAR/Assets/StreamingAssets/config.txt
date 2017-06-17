@@ -1,0 +1,24 @@
+﻿[Login]
+Account = 账号都不输入，我怎么给你保存数据呀，你丫这智商，基本不适合这款游戏，直接关闭吧~
+Password = 没密码，资源共享吗？你丫是不是傻，是不是傻，是不是傻~，建议关闭游戏，别自虐啦~
+Success = 账号注册成功，赶紧登陆游戏爽去吧~
+Faild = 账号创建失败，赶快重新创建去吧，一会服务器满了，你就不能和其他小伙伴愉快玩耍啦~
+Successful = 登陆成功
+LoginFaild = 账号或密码错误，请重新输入！！！
+Name = 游戏名都不输入，别人怎么称呼你呢？
+
+
+[Scene]
+LoadFailed = 场景加载失败，重新加载~
+LoadGameStart = GameStart
+LoadEasyAR = EasyAR
+LoadLogin = Loading
+
+[UI]
+Verify = 当前未解锁，体验资源较少，建议前往解锁页面解锁之后体验更多精彩内容！
+VerifyOK = 验证成功,返回主页开启精彩之旅!
+VerifyNO = 验证失败，请输入正确验证码或连接客服!
+VerifyNetWorkNo = 连接服务器错误，请检查网络情况!
+VerifyUrl = http://time180.taodapai.net/colorfular/regcode.php?h=
+MainUrl = http://www.baidu001.cn
+DonwnloadUrl = http://www.baidu001.cn/demo.pdf

@@ -1,0 +1,308 @@
+fileFormatVersion: 2
+guid: 1312664ce83579b479e0fa01bf4b69b8
+timeCreated: 1475919601
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: chest
+    100002: group1
+    100004: head
+    100006: lEye
+    100008: lFlipperBack1
+    100010: lFlipperBack2
+    100012: lFlipperBack3
+    100014: lFlipperFront1
+    100016: lFlipperFront2
+    100018: lFlipperFront3
+    100020: neck1
+    100022: neck2
+    100024: rEye
+    100026: rFlipperBack1
+    100028: rFlipperBack2
+    100030: rFlipperBack3
+    100032: rFlipperFront1
+    100034: rFlipperFront2
+    100036: rFlipperFront3
+    100038: Seal_SubD
+    100040: Seal_SubD 1
+    100042: Tail1
+    100044: Tail2
+    100046: Tail3
+    100048: Tail4
+    100050: Tail5
+    100052: //RootNode
+    400000: chest
+    400002: group1
+    400004: head
+    400006: lEye
+    400008: lFlipperBack1
+    400010: lFlipperBack2
+    400012: lFlipperBack3
+    400014: lFlipperFront1
+    400016: lFlipperFront2
+    400018: lFlipperFront3
+    400020: neck1
+    400022: neck2
+    400024: rEye
+    400026: rFlipperBack1
+    400028: rFlipperBack2
+    400030: rFlipperBack3
+    400032: rFlipperFront1
+    400034: rFlipperFront2
+    400036: rFlipperFront3
+    400038: Seal_SubD
+    400040: Seal_SubD 1
+    400042: Tail1
+    400044: Tail2
+    400046: Tail3
+    400048: Tail4
+    400050: Tail5
+    400052: //RootNode
+    4300000: Seal_SubD
+    7400000: Take 001
+    7400002: Take 002
+    9500000: //RootNode
+    13700000: Seal_SubD 1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 150
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: group1
+        weight: 1
+      - path: group1/Seal_SubD 1
+        weight: 1
+      - path: Seal_SubD
+        weight: 1
+      - path: Seal_SubD/chest
+        weight: 1
+      - path: Seal_SubD/chest/lFlipperFront1
+        weight: 1
+      - path: Seal_SubD/chest/lFlipperFront1/lFlipperFront2
+        weight: 1
+      - path: Seal_SubD/chest/lFlipperFront1/lFlipperFront2/lFlipperFront3
+        weight: 1
+      - path: Seal_SubD/chest/neck1
+        weight: 1
+      - path: Seal_SubD/chest/neck1/neck2
+        weight: 1
+      - path: Seal_SubD/chest/neck1/neck2/head
+        weight: 1
+      - path: Seal_SubD/chest/neck1/neck2/head/lEye
+        weight: 1
+      - path: Seal_SubD/chest/neck1/neck2/head/rEye
+        weight: 1
+      - path: Seal_SubD/chest/rFlipperFront1
+        weight: 1
+      - path: Seal_SubD/chest/rFlipperFront1/rFlipperFront2
+        weight: 1
+      - path: Seal_SubD/chest/rFlipperFront1/rFlipperFront2/rFlipperFront3
+        weight: 1
+      - path: Seal_SubD/chest/Tail1
+        weight: 1
+      - path: Seal_SubD/chest/Tail1/Tail2
+        weight: 1
+      - path: Seal_SubD/chest/Tail1/Tail2/Tail3
+        weight: 1
+      - path: Seal_SubD/chest/Tail1/Tail2/Tail3/Tail4
+        weight: 1
+      - path: Seal_SubD/chest/Tail1/Tail2/Tail3/Tail4/lFlipperBack1
+        weight: 1
+      - path: Seal_SubD/chest/Tail1/Tail2/Tail3/Tail4/lFlipperBack1/lFlipperBack2
+        weight: 1
+      - path: Seal_SubD/chest/Tail1/Tail2/Tail3/Tail4/lFlipperBack1/lFlipperBack2/lFlipperBack3
+        weight: 1
+      - path: Seal_SubD/chest/Tail1/Tail2/Tail3/Tail4/rFlipperBack1
+        weight: 1
+      - path: Seal_SubD/chest/Tail1/Tail2/Tail3/Tail4/rFlipperBack1/rFlipperBack2
+        weight: 1
+      - path: Seal_SubD/chest/Tail1/Tail2/Tail3/Tail4/rFlipperBack1/rFlipperBack2/rFlipperBack3
+        weight: 1
+      - path: Seal_SubD/chest/Tail1/Tail2/Tail3/Tail4/Tail5
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Take 002
+      takeName: Take 001
+      firstFrame: 200
+      lastFrame: 250
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 1
+        functionName: Stop
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0
+        functionName: PlayAudio
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: group1
+        weight: 1
+      - path: group1/Seal_SubD 1
+        weight: 1
+      - path: Seal_SubD
+        weight: 1
+      - path: Seal_SubD/chest
+        weight: 1
+      - path: Seal_SubD/chest/lFlipperFront1
+        weight: 1
+      - path: Seal_SubD/chest/lFlipperFront1/lFlipperFront2
+        weight: 1
+      - path: Seal_SubD/chest/lFlipperFront1/lFlipperFront2/lFlipperFront3
+        weight: 1
+      - path: Seal_SubD/chest/neck1
+        weight: 1
+      - path: Seal_SubD/chest/neck1/neck2
+        weight: 1
+      - path: Seal_SubD/chest/neck1/neck2/head
+        weight: 1
+      - path: Seal_SubD/chest/neck1/neck2/head/lEye
+        weight: 1
+      - path: Seal_SubD/chest/neck1/neck2/head/rEye
+        weight: 1
+      - path: Seal_SubD/chest/rFlipperFront1
+        weight: 1
+      - path: Seal_SubD/chest/rFlipperFront1/rFlipperFront2
+        weight: 1
+      - path: Seal_SubD/chest/rFlipperFront1/rFlipperFront2/rFlipperFront3
+        weight: 1
+      - path: Seal_SubD/chest/Tail1
+        weight: 1
+      - path: Seal_SubD/chest/Tail1/Tail2
+        weight: 1
+      - path: Seal_SubD/chest/Tail1/Tail2/Tail3
+        weight: 1
+      - path: Seal_SubD/chest/Tail1/Tail2/Tail3/Tail4
+        weight: 1
+      - path: Seal_SubD/chest/Tail1/Tail2/Tail3/Tail4/lFlipperBack1
+        weight: 1
+      - path: Seal_SubD/chest/Tail1/Tail2/Tail3/Tail4/lFlipperBack1/lFlipperBack2
+        weight: 1
+      - path: Seal_SubD/chest/Tail1/Tail2/Tail3/Tail4/lFlipperBack1/lFlipperBack2/lFlipperBack3
+        weight: 1
+      - path: Seal_SubD/chest/Tail1/Tail2/Tail3/Tail4/rFlipperBack1
+        weight: 1
+      - path: Seal_SubD/chest/Tail1/Tail2/Tail3/Tail4/rFlipperBack1/rFlipperBack2
+        weight: 1
+      - path: Seal_SubD/chest/Tail1/Tail2/Tail3/Tail4/rFlipperBack1/rFlipperBack2/rFlipperBack3
+        weight: 1
+      - path: Seal_SubD/chest/Tail1/Tail2/Tail3/Tail4/Tail5
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

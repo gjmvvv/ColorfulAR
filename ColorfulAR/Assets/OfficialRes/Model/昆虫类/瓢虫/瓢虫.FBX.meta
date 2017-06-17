@@ -1,0 +1,417 @@
+fileFormatVersion: 2
+guid: e85daea48a6a9a64db9dc741566568e4
+timeCreated: 1476091508
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Box01
+    100002: Box02
+    100004: Box021
+    100006: Box022
+    100008: Box023
+    100010: Box03
+    100012: Box04
+    100014: Box07
+    100016: Box08
+    100018: Box13
+    100020: Box14
+    100022: Box15
+    100024: Box16
+    100026: Box17
+    100028: Box20
+    100030: Group001
+    100032: Sphere008
+    100034: Sphere009
+    100036: Sphere02
+    100038: Sphere03
+    100040: Sphere07
+    100042: "\u5BF9\u8C6101"
+    100044: "\u5BF9\u8C61015"
+    100046: "\u5BF9\u8C61016"
+    100048: "\u5BF9\u8C6102"
+    100050: "\u5BF9\u8C6107"
+    100052: "\u5BF9\u8C6108"
+    100054: "\u5BF9\u8C6112"
+    100056: "\u5BF9\u8C6113"
+    100058: "\u5BF9\u8C6114"
+    100060: //RootNode
+    400000: Box01
+    400002: Box02
+    400004: Box021
+    400006: Box022
+    400008: Box023
+    400010: Box03
+    400012: Box04
+    400014: Box07
+    400016: Box08
+    400018: Box13
+    400020: Box14
+    400022: Box15
+    400024: Box16
+    400026: Box17
+    400028: Box20
+    400030: Group001
+    400032: Sphere008
+    400034: Sphere009
+    400036: Sphere02
+    400038: Sphere03
+    400040: Sphere07
+    400042: "\u5BF9\u8C6101"
+    400044: "\u5BF9\u8C61015"
+    400046: "\u5BF9\u8C61016"
+    400048: "\u5BF9\u8C6102"
+    400050: "\u5BF9\u8C6107"
+    400052: "\u5BF9\u8C6108"
+    400054: "\u5BF9\u8C6112"
+    400056: "\u5BF9\u8C6113"
+    400058: "\u5BF9\u8C6114"
+    400060: //RootNode
+    2300000: Box01
+    2300002: Box02
+    2300004: Box021
+    2300006: Box022
+    2300008: Box023
+    2300010: Box03
+    2300012: Box04
+    2300014: Box07
+    2300016: Box08
+    2300018: Box13
+    2300020: Box14
+    2300022: Box15
+    2300024: Box16
+    2300026: Box17
+    2300028: Box20
+    2300030: Sphere008
+    2300032: Sphere009
+    2300034: Sphere02
+    2300036: Sphere03
+    2300038: Sphere07
+    2300040: "\u5BF9\u8C6101"
+    2300042: "\u5BF9\u8C61015"
+    2300044: "\u5BF9\u8C61016"
+    2300046: "\u5BF9\u8C6102"
+    2300048: "\u5BF9\u8C6107"
+    2300050: "\u5BF9\u8C6108"
+    2300052: "\u5BF9\u8C6112"
+    2300054: "\u5BF9\u8C6113"
+    2300056: "\u5BF9\u8C6114"
+    3300000: Box01
+    3300002: Box02
+    3300004: Box021
+    3300006: Box022
+    3300008: Box023
+    3300010: Box03
+    3300012: Box04
+    3300014: Box07
+    3300016: Box08
+    3300018: Box13
+    3300020: Box14
+    3300022: Box15
+    3300024: Box16
+    3300026: Box17
+    3300028: Box20
+    3300030: Sphere008
+    3300032: Sphere009
+    3300034: Sphere02
+    3300036: Sphere03
+    3300038: Sphere07
+    3300040: "\u5BF9\u8C6101"
+    3300042: "\u5BF9\u8C61015"
+    3300044: "\u5BF9\u8C61016"
+    3300046: "\u5BF9\u8C6102"
+    3300048: "\u5BF9\u8C6107"
+    3300050: "\u5BF9\u8C6108"
+    3300052: "\u5BF9\u8C6112"
+    3300054: "\u5BF9\u8C6113"
+    3300056: "\u5BF9\u8C6114"
+    4300000: Box13
+    4300002: Box20
+    4300004: Box17
+    4300006: Sphere03
+    4300008: Box01
+    4300010: Box02
+    4300012: "\u5BF9\u8C6101"
+    4300014: Box15
+    4300016: Box14
+    4300018: "\u5BF9\u8C6102"
+    4300020: Box03
+    4300022: "\u5BF9\u8C6108"
+    4300024: Box08
+    4300026: Box07
+    4300028: Sphere02
+    4300030: Box04
+    4300032: "\u5BF9\u8C6107"
+    4300034: Sphere07
+    4300036: "\u5BF9\u8C6112"
+    4300038: "\u5BF9\u8C6113"
+    4300040: Box16
+    4300042: "\u5BF9\u8C6114"
+    4300044: Sphere008
+    4300046: "\u5BF9\u8C61015"
+    4300048: Sphere009
+    4300050: Box021
+    4300052: Box022
+    4300054: "\u5BF9\u8C61016"
+    4300056: Box023
+    7400000: Take 001
+    7400002: Take 002
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 50
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Box13
+        weight: 1
+      - path: Group001
+        weight: 1
+      - path: Group001/Box01
+        weight: 1
+      - path: Group001/Box01/Box02
+        weight: 1
+      - path: "Group001/Box01/Box02/\u5BF9\u8C6101"
+        weight: 1
+      - path: Group001/Box03
+        weight: 1
+      - path: Group001/Box04
+        weight: 1
+      - path: Group001/Box07
+        weight: 1
+      - path: Group001/Box08
+        weight: 1
+      - path: Group001/Box14
+        weight: 1
+      - path: Group001/Box15
+        weight: 1
+      - path: Group001/Box16
+        weight: 1
+      - path: Group001/Box17
+        weight: 1
+      - path: Group001/Box20
+        weight: 1
+      - path: Group001/Box021
+        weight: 1
+      - path: Group001/Box021/Box022
+        weight: 1
+      - path: "Group001/Box021/Box022/\u5BF9\u8C61016"
+        weight: 1
+      - path: Group001/Box023
+        weight: 1
+      - path: Group001/Sphere02
+        weight: 1
+      - path: Group001/Sphere03
+        weight: 1
+      - path: Group001/Sphere07
+        weight: 1
+      - path: Group001/Sphere008
+        weight: 1
+      - path: Group001/Sphere009
+        weight: 1
+      - path: "Group001/\u5BF9\u8C6102"
+        weight: 1
+      - path: "Group001/\u5BF9\u8C6107"
+        weight: 1
+      - path: "Group001/\u5BF9\u8C6108"
+        weight: 1
+      - path: "Group001/\u5BF9\u8C6112"
+        weight: 1
+      - path: "Group001/\u5BF9\u8C6113"
+        weight: 1
+      - path: "Group001/\u5BF9\u8C6114"
+        weight: 1
+      - path: "Group001/\u5BF9\u8C61015"
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Take 002
+      takeName: Take 001
+      firstFrame: 60
+      lastFrame: 150
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 1
+        functionName: Stop
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0
+        functionName: PlayAudio
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Box13
+        weight: 1
+      - path: Group001
+        weight: 1
+      - path: Group001/Box01
+        weight: 1
+      - path: Group001/Box01/Box02
+        weight: 1
+      - path: "Group001/Box01/Box02/\u5BF9\u8C6101"
+        weight: 1
+      - path: Group001/Box03
+        weight: 1
+      - path: Group001/Box04
+        weight: 1
+      - path: Group001/Box07
+        weight: 1
+      - path: Group001/Box08
+        weight: 1
+      - path: Group001/Box14
+        weight: 1
+      - path: Group001/Box15
+        weight: 1
+      - path: Group001/Box16
+        weight: 1
+      - path: Group001/Box17
+        weight: 1
+      - path: Group001/Box20
+        weight: 1
+      - path: Group001/Box021
+        weight: 1
+      - path: Group001/Box021/Box022
+        weight: 1
+      - path: "Group001/Box021/Box022/\u5BF9\u8C61016"
+        weight: 1
+      - path: Group001/Box023
+        weight: 1
+      - path: Group001/Sphere02
+        weight: 1
+      - path: Group001/Sphere03
+        weight: 1
+      - path: Group001/Sphere07
+        weight: 1
+      - path: Group001/Sphere008
+        weight: 1
+      - path: Group001/Sphere009
+        weight: 1
+      - path: "Group001/\u5BF9\u8C6102"
+        weight: 1
+      - path: "Group001/\u5BF9\u8C6107"
+        weight: 1
+      - path: "Group001/\u5BF9\u8C6108"
+        weight: 1
+      - path: "Group001/\u5BF9\u8C6112"
+        weight: 1
+      - path: "Group001/\u5BF9\u8C6113"
+        weight: 1
+      - path: "Group001/\u5BF9\u8C6114"
+        weight: 1
+      - path: "Group001/\u5BF9\u8C61015"
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

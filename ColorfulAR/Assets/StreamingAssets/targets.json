@@ -1,0 +1,43 @@
+//{
+//    "images": [
+//        { "image": "sightplus/argame00.jpg", "name": "argame" },
+//        { "image": "idback.jpg", "name": "idback", "size": [ 8.56, 5.4 ], "uid": "uid-string" }
+//    ]
+//}
+{
+    "images": [
+        {
+            "name": "Elephant", 
+            "image": "ImageTarget/TYPE_Mammal/Elephant"
+        }, 
+        {
+            "name": "Koalas", 
+            "image": "ImageTarget/TYPE_Mammal/Koalas", 
+            "size": [ 0.5, 0.5 ]
+        }, 
+        {
+            "name": "Rabbit", 
+            "image": "ImageTarget/TYPE_Mammal/Rabbit"
+        }, 
+        {
+            "name": "Seals", 
+            "image": "ImageTarget/TYPE_Mammal/Seals"
+        }, 
+        {
+            "name": "Sikadeer", 
+            "image": "ImageTarget/TYPE_Mammal/Sikadeer"
+        }, 
+        {
+            "name": "Squirrel", 
+            "image": "ImageTarget/TYPE_Mammal/Squirrel"
+        }, 
+        {
+            "name": "Wildebeest", 
+            "image": "ImageTarget/TYPE_Mammal/Wildebeest"
+        }, 
+        {
+            "name": "zebra", 
+            "image": "ImageTarget/TYPE_Mammal/zebra"
+        }
+    ]
+}

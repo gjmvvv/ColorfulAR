@@ -1,0 +1,125 @@
+fileFormatVersion: 2
+guid: dd43110ec344b12489d3b0432f20989f
+timeCreated: 1476495231
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: CATRigHub001
+    100002: CATRigHub001Bone001
+    100004: CATRigHub002
+    100006: CATRigHub002Bone001
+    100008: CATRigHub002Bone001Bone001
+    100010: CATRigHub002Bone001Bone001 1
+    100012: CATRigHub002Bone001Bone001Bone001
+    100014: CATRigHub002Bone001Bone001Bone001 1
+    100016: CATRigHub002Bone001Bone001Bone001Bone001
+    100018: CATRigHub002Bone001Bone001Bone001Bone001 1
+    100020: CATRigHub002Bone002
+    100022: CATRigSpine2
+    100024: CATRigSpine3
+    100026: CATRigSpine4
+    100028: CATRigSpine5
+    100030: CATRigSpine6
+    100032: CATRigSpineCATRigSpine1
+    100034: CATRigTail1
+    100036: CATRigTail2
+    100038: CATRigTail3
+    100040: CATRigTail4
+    100042: CATRigTail5
+    100044: Character001
+    100046: WoNiu
+    100048: //RootNode
+    400000: CATRigHub001
+    400002: CATRigHub001Bone001
+    400004: CATRigHub002
+    400006: CATRigHub002Bone001
+    400008: CATRigHub002Bone001Bone001
+    400010: CATRigHub002Bone001Bone001 1
+    400012: CATRigHub002Bone001Bone001Bone001
+    400014: CATRigHub002Bone001Bone001Bone001 1
+    400016: CATRigHub002Bone001Bone001Bone001Bone001
+    400018: CATRigHub002Bone001Bone001Bone001Bone001 1
+    400020: CATRigHub002Bone002
+    400022: CATRigSpine2
+    400024: CATRigSpine3
+    400026: CATRigSpine4
+    400028: CATRigSpine5
+    400030: CATRigSpine6
+    400032: CATRigSpineCATRigSpine1
+    400034: CATRigTail1
+    400036: CATRigTail2
+    400038: CATRigTail3
+    400040: CATRigTail4
+    400042: CATRigTail5
+    400044: Character001
+    400046: WoNiu
+    400048: //RootNode
+    4300000: WoNiu
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: WoNiu
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

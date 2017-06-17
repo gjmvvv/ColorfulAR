@@ -1,0 +1,662 @@
+fileFormatVersion: 2
+guid: 0c112ab2284b0304bba29a4fe7835b02
+timeCreated: 1476091481
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Box001
+    100002: group5
+    100004: group6
+    100006: group7
+    100008: ikHandle1
+    100010: ikHandle1 1
+    100012: ikHandle1 2
+    100014: ikHandle3
+    100016: ikHandle3 1
+    100018: joint1
+    100020: joint10
+    100022: joint11
+    100024: joint12
+    100026: joint13
+    100028: joint14
+    100030: joint15
+    100032: joint15 1
+    100034: joint15 2
+    100036: joint16
+    100038: joint16 1
+    100040: joint16 2
+    100042: joint17
+    100044: joint17 1
+    100046: joint17 2
+    100048: joint18
+    100050: joint19
+    100052: joint2
+    100054: joint20
+    100056: joint21
+    100058: joint22
+    100060: joint23
+    100062: joint24
+    100064: joint25
+    100066: joint25 1
+    100068: joint25 2
+    100070: joint26
+    100072: joint26 1
+    100074: joint26 2
+    100076: joint27
+    100078: joint28
+    100080: joint29
+    100082: joint3
+    100084: joint30
+    100086: joint31
+    100088: joint32
+    100090: joint33
+    100092: joint34
+    100094: joint35
+    100096: joint36
+    100098: joint37
+    100100: joint38
+    100102: joint39
+    100104: joint4
+    100106: joint40
+    100108: joint41
+    100110: joint42
+    100112: joint43
+    100114: joint44
+    100116: joint45
+    100118: joint46
+    100120: joint47
+    100122: joint48
+    100124: joint49
+    100126: joint5
+    100128: joint50
+    100130: joint51
+    100132: joint52
+    100134: joint53
+    100136: joint54
+    100138: joint55
+    100140: joint56
+    100142: joint57
+    100144: joint58
+    100146: joint59
+    100148: joint6
+    100150: joint60
+    100152: joint61
+    100154: joint62
+    100156: joint7
+    100158: joint8
+    100160: joint9
+    100162: rig
+    100164: transform1
+    100166: //RootNode
+    400000: Box001
+    400002: group5
+    400004: group6
+    400006: group7
+    400008: ikHandle1
+    400010: ikHandle1 1
+    400012: ikHandle1 2
+    400014: ikHandle3
+    400016: ikHandle3 1
+    400018: joint1
+    400020: joint10
+    400022: joint11
+    400024: joint12
+    400026: joint13
+    400028: joint14
+    400030: joint15
+    400032: joint15 1
+    400034: joint15 2
+    400036: joint16
+    400038: joint16 1
+    400040: joint16 2
+    400042: joint17
+    400044: joint17 1
+    400046: joint17 2
+    400048: joint18
+    400050: joint19
+    400052: joint2
+    400054: joint20
+    400056: joint21
+    400058: joint22
+    400060: joint23
+    400062: joint24
+    400064: joint25
+    400066: joint25 1
+    400068: joint25 2
+    400070: joint26
+    400072: joint26 1
+    400074: joint26 2
+    400076: joint27
+    400078: joint28
+    400080: joint29
+    400082: joint3
+    400084: joint30
+    400086: joint31
+    400088: joint32
+    400090: joint33
+    400092: joint34
+    400094: joint35
+    400096: joint36
+    400098: joint37
+    400100: joint38
+    400102: joint39
+    400104: joint4
+    400106: joint40
+    400108: joint41
+    400110: joint42
+    400112: joint43
+    400114: joint44
+    400116: joint45
+    400118: joint46
+    400120: joint47
+    400122: joint48
+    400124: joint49
+    400126: joint5
+    400128: joint50
+    400130: joint51
+    400132: joint52
+    400134: joint53
+    400136: joint54
+    400138: joint55
+    400140: joint56
+    400142: joint57
+    400144: joint58
+    400146: joint59
+    400148: joint6
+    400150: joint60
+    400152: joint61
+    400154: joint62
+    400156: joint7
+    400158: joint8
+    400160: joint9
+    400162: rig
+    400164: transform1
+    400166: //RootNode
+    4300000: Box001
+    7400000: Take 001
+    7400002: Take 002
+    9500000: //RootNode
+    13700000: Box001
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 29
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Box001
+        weight: 1
+      - path: group5
+        weight: 1
+      - path: group7
+        weight: 1
+      - path: group7/group6
+        weight: 1
+      - path: ikHandle1
+        weight: 1
+      - path: ikHandle1 1
+        weight: 1
+      - path: ikHandle1 2
+        weight: 1
+      - path: ikHandle3
+        weight: 1
+      - path: ikHandle3 1
+        weight: 1
+      - path: rig
+        weight: 1
+      - path: rig/joint2
+        weight: 1
+      - path: rig/joint2/joint1
+        weight: 1
+      - path: rig/joint2/joint1/joint29
+        weight: 1
+      - path: rig/joint2/joint1/joint29/joint30
+        weight: 1
+      - path: rig/joint2/joint1/joint29/joint30/joint31
+        weight: 1
+      - path: rig/joint2/joint1/joint29/joint30/joint31/joint32
+        weight: 1
+      - path: rig/joint2/joint1/joint29/joint30/joint31/joint32/joint33
+        weight: 1
+      - path: rig/joint2/joint1/joint29/joint30/joint31/joint32/joint33/joint34
+        weight: 1
+      - path: rig/joint2/joint3
+        weight: 1
+      - path: rig/joint2/joint3/joint4
+        weight: 1
+      - path: rig/joint2/joint3/joint4/joint5
+        weight: 1
+      - path: rig/joint2/joint3/joint4/joint5/joint6
+        weight: 1
+      - path: rig/joint2/joint3/joint4/joint5/joint6/joint7
+        weight: 1
+      - path: rig/joint2/joint3/joint4/joint5/joint6/joint7/joint8
+        weight: 1
+      - path: rig/joint2/joint3/joint4/joint5/joint6/joint7/joint9
+        weight: 1
+      - path: rig/joint2/joint3/joint4/joint5/joint6/joint7/joint9/joint10
+        weight: 1
+      - path: rig/joint2/joint3/joint4/joint11
+        weight: 1
+      - path: rig/joint2/joint3/joint4/joint11/joint12
+        weight: 1
+      - path: rig/joint2/joint3/joint4/joint11/joint12/joint13
+        weight: 1
+      - path: rig/joint2/joint3/joint4/joint11/joint12/joint13/joint14
+        weight: 1
+      - path: rig/joint2/joint3/joint4/joint11/joint12/joint13/joint14/joint15
+        weight: 1
+      - path: rig/joint2/joint3/joint4/joint11/joint12/joint13/joint14/joint15/joint16
+        weight: 1
+      - path: rig/joint2/joint3/joint4/joint11/joint12/joint13/joint14/joint15/joint16/joint17
+        weight: 1
+      - path: rig/joint2/joint3/joint4/joint11/joint12/joint13/joint18
+        weight: 1
+      - path: rig/joint2/joint3/joint4/joint11/joint12/joint13/joint18/joint15 1
+        weight: 1
+      - path: rig/joint2/joint3/joint4/joint11/joint12/joint13/joint18/joint15 1/joint16
+          1
+        weight: 1
+      - path: rig/joint2/joint3/joint4/joint11/joint12/joint13/joint18/joint15 1/joint16
+          1/joint17 1
+        weight: 1
+      - path: rig/joint2/joint3/joint4/joint11/joint12/joint13/joint19
+        weight: 1
+      - path: rig/joint2/joint3/joint4/joint11/joint12/joint13/joint19/joint15 2
+        weight: 1
+      - path: rig/joint2/joint3/joint4/joint11/joint12/joint13/joint19/joint15 2/joint16
+          2
+        weight: 1
+      - path: rig/joint2/joint3/joint4/joint11/joint12/joint13/joint19/joint15 2/joint16
+          2/joint17 2
+        weight: 1
+      - path: rig/joint2/joint3/joint4/joint35
+        weight: 1
+      - path: rig/joint2/joint3/joint4/joint35/joint36
+        weight: 1
+      - path: rig/joint2/joint3/joint4/joint35/joint36/joint37
+        weight: 1
+      - path: rig/joint2/joint3/joint4/joint35/joint36/joint37/joint38
+        weight: 1
+      - path: rig/joint2/joint3/joint4/joint35/joint36/joint37/joint38/joint39
+        weight: 1
+      - path: rig/joint2/joint3/joint4/joint35/joint36/joint37/joint38/joint39/joint40
+        weight: 1
+      - path: rig/joint2/joint3/joint4/joint35/joint36/joint37/joint38/joint39/joint40/joint41
+        weight: 1
+      - path: rig/joint2/joint3/joint4/joint35/joint36/joint37/joint42
+        weight: 1
+      - path: rig/joint2/joint3/joint4/joint35/joint36/joint37/joint42/joint43
+        weight: 1
+      - path: rig/joint2/joint3/joint4/joint35/joint36/joint37/joint42/joint43/joint44
+        weight: 1
+      - path: rig/joint2/joint3/joint4/joint35/joint36/joint37/joint42/joint43/joint44/joint45
+        weight: 1
+      - path: rig/joint2/joint3/joint4/joint35/joint36/joint37/joint46
+        weight: 1
+      - path: rig/joint2/joint3/joint4/joint35/joint36/joint37/joint46/joint47
+        weight: 1
+      - path: rig/joint2/joint3/joint4/joint35/joint36/joint37/joint46/joint47/joint48
+        weight: 1
+      - path: rig/joint2/joint3/joint4/joint35/joint36/joint37/joint46/joint47/joint48/joint49
+        weight: 1
+      - path: rig/joint2/joint20
+        weight: 1
+      - path: rig/joint2/joint20/joint21
+        weight: 1
+      - path: rig/joint2/joint20/joint21/joint22
+        weight: 1
+      - path: rig/joint2/joint20/joint21/joint22/joint23
+        weight: 1
+      - path: rig/joint2/joint20/joint21/joint22/joint23/joint24
+        weight: 1
+      - path: rig/joint2/joint20/joint21/joint22/joint23/joint24/joint25
+        weight: 1
+      - path: rig/joint2/joint20/joint21/joint22/joint23/joint24/joint25/joint26
+        weight: 1
+      - path: rig/joint2/joint20/joint21/joint22/joint23/joint27
+        weight: 1
+      - path: rig/joint2/joint20/joint21/joint22/joint23/joint27/joint25 1
+        weight: 1
+      - path: rig/joint2/joint20/joint21/joint22/joint23/joint27/joint25 1/joint26
+          1
+        weight: 1
+      - path: rig/joint2/joint20/joint21/joint22/joint23/joint28
+        weight: 1
+      - path: rig/joint2/joint20/joint21/joint22/joint23/joint28/joint25 2
+        weight: 1
+      - path: rig/joint2/joint20/joint21/joint22/joint23/joint28/joint25 2/joint26
+          2
+        weight: 1
+      - path: rig/joint2/joint50
+        weight: 1
+      - path: rig/joint2/joint50/joint51
+        weight: 1
+      - path: rig/joint2/joint50/joint51/joint52
+        weight: 1
+      - path: rig/joint2/joint50/joint51/joint52/joint53
+        weight: 1
+      - path: rig/joint2/joint50/joint51/joint52/joint53/joint54
+        weight: 1
+      - path: rig/joint2/joint50/joint51/joint52/joint53/joint54/joint55
+        weight: 1
+      - path: rig/joint2/joint50/joint51/joint52/joint53/joint54/joint55/joint56
+        weight: 1
+      - path: rig/joint2/joint50/joint51/joint52/joint53/joint57
+        weight: 1
+      - path: rig/joint2/joint50/joint51/joint52/joint53/joint57/joint58
+        weight: 1
+      - path: rig/joint2/joint50/joint51/joint52/joint53/joint57/joint58/joint59
+        weight: 1
+      - path: rig/joint2/joint50/joint51/joint52/joint53/joint60
+        weight: 1
+      - path: rig/joint2/joint50/joint51/joint52/joint53/joint60/joint61
+        weight: 1
+      - path: rig/joint2/joint50/joint51/joint52/joint53/joint60/joint61/joint62
+        weight: 1
+      - path: transform1
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Take 002
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 78
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 1
+        functionName: Stop
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0
+        functionName: PlayAudio
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Box001
+        weight: 1
+      - path: group5
+        weight: 1
+      - path: group7
+        weight: 1
+      - path: group7/group6
+        weight: 1
+      - path: ikHandle1
+        weight: 1
+      - path: ikHandle1 1
+        weight: 1
+      - path: ikHandle1 2
+        weight: 1
+      - path: ikHandle3
+        weight: 1
+      - path: ikHandle3 1
+        weight: 1
+      - path: rig
+        weight: 1
+      - path: rig/joint2
+        weight: 1
+      - path: rig/joint2/joint1
+        weight: 1
+      - path: rig/joint2/joint1/joint29
+        weight: 1
+      - path: rig/joint2/joint1/joint29/joint30
+        weight: 1
+      - path: rig/joint2/joint1/joint29/joint30/joint31
+        weight: 1
+      - path: rig/joint2/joint1/joint29/joint30/joint31/joint32
+        weight: 1
+      - path: rig/joint2/joint1/joint29/joint30/joint31/joint32/joint33
+        weight: 1
+      - path: rig/joint2/joint1/joint29/joint30/joint31/joint32/joint33/joint34
+        weight: 1
+      - path: rig/joint2/joint3
+        weight: 1
+      - path: rig/joint2/joint3/joint4
+        weight: 1
+      - path: rig/joint2/joint3/joint4/joint5
+        weight: 1
+      - path: rig/joint2/joint3/joint4/joint5/joint6
+        weight: 1
+      - path: rig/joint2/joint3/joint4/joint5/joint6/joint7
+        weight: 1
+      - path: rig/joint2/joint3/joint4/joint5/joint6/joint7/joint8
+        weight: 1
+      - path: rig/joint2/joint3/joint4/joint5/joint6/joint7/joint9
+        weight: 1
+      - path: rig/joint2/joint3/joint4/joint5/joint6/joint7/joint9/joint10
+        weight: 1
+      - path: rig/joint2/joint3/joint4/joint11
+        weight: 1
+      - path: rig/joint2/joint3/joint4/joint11/joint12
+        weight: 1
+      - path: rig/joint2/joint3/joint4/joint11/joint12/joint13
+        weight: 1
+      - path: rig/joint2/joint3/joint4/joint11/joint12/joint13/joint14
+        weight: 1
+      - path: rig/joint2/joint3/joint4/joint11/joint12/joint13/joint14/joint15
+        weight: 1
+      - path: rig/joint2/joint3/joint4/joint11/joint12/joint13/joint14/joint15/joint16
+        weight: 1
+      - path: rig/joint2/joint3/joint4/joint11/joint12/joint13/joint14/joint15/joint16/joint17
+        weight: 1
+      - path: rig/joint2/joint3/joint4/joint11/joint12/joint13/joint18
+        weight: 1
+      - path: rig/joint2/joint3/joint4/joint11/joint12/joint13/joint18/joint15 1
+        weight: 1
+      - path: rig/joint2/joint3/joint4/joint11/joint12/joint13/joint18/joint15 1/joint16
+          1
+        weight: 1
+      - path: rig/joint2/joint3/joint4/joint11/joint12/joint13/joint18/joint15 1/joint16
+          1/joint17 1
+        weight: 1
+      - path: rig/joint2/joint3/joint4/joint11/joint12/joint13/joint19
+        weight: 1
+      - path: rig/joint2/joint3/joint4/joint11/joint12/joint13/joint19/joint15 2
+        weight: 1
+      - path: rig/joint2/joint3/joint4/joint11/joint12/joint13/joint19/joint15 2/joint16
+          2
+        weight: 1
+      - path: rig/joint2/joint3/joint4/joint11/joint12/joint13/joint19/joint15 2/joint16
+          2/joint17 2
+        weight: 1
+      - path: rig/joint2/joint3/joint4/joint35
+        weight: 1
+      - path: rig/joint2/joint3/joint4/joint35/joint36
+        weight: 1
+      - path: rig/joint2/joint3/joint4/joint35/joint36/joint37
+        weight: 1
+      - path: rig/joint2/joint3/joint4/joint35/joint36/joint37/joint38
+        weight: 1
+      - path: rig/joint2/joint3/joint4/joint35/joint36/joint37/joint38/joint39
+        weight: 1
+      - path: rig/joint2/joint3/joint4/joint35/joint36/joint37/joint38/joint39/joint40
+        weight: 1
+      - path: rig/joint2/joint3/joint4/joint35/joint36/joint37/joint38/joint39/joint40/joint41
+        weight: 1
+      - path: rig/joint2/joint3/joint4/joint35/joint36/joint37/joint42
+        weight: 1
+      - path: rig/joint2/joint3/joint4/joint35/joint36/joint37/joint42/joint43
+        weight: 1
+      - path: rig/joint2/joint3/joint4/joint35/joint36/joint37/joint42/joint43/joint44
+        weight: 1
+      - path: rig/joint2/joint3/joint4/joint35/joint36/joint37/joint42/joint43/joint44/joint45
+        weight: 1
+      - path: rig/joint2/joint3/joint4/joint35/joint36/joint37/joint46
+        weight: 1
+      - path: rig/joint2/joint3/joint4/joint35/joint36/joint37/joint46/joint47
+        weight: 1
+      - path: rig/joint2/joint3/joint4/joint35/joint36/joint37/joint46/joint47/joint48
+        weight: 1
+      - path: rig/joint2/joint3/joint4/joint35/joint36/joint37/joint46/joint47/joint48/joint49
+        weight: 1
+      - path: rig/joint2/joint20
+        weight: 1
+      - path: rig/joint2/joint20/joint21
+        weight: 1
+      - path: rig/joint2/joint20/joint21/joint22
+        weight: 1
+      - path: rig/joint2/joint20/joint21/joint22/joint23
+        weight: 1
+      - path: rig/joint2/joint20/joint21/joint22/joint23/joint24
+        weight: 1
+      - path: rig/joint2/joint20/joint21/joint22/joint23/joint24/joint25
+        weight: 1
+      - path: rig/joint2/joint20/joint21/joint22/joint23/joint24/joint25/joint26
+        weight: 1
+      - path: rig/joint2/joint20/joint21/joint22/joint23/joint27
+        weight: 1
+      - path: rig/joint2/joint20/joint21/joint22/joint23/joint27/joint25 1
+        weight: 1
+      - path: rig/joint2/joint20/joint21/joint22/joint23/joint27/joint25 1/joint26
+          1
+        weight: 1
+      - path: rig/joint2/joint20/joint21/joint22/joint23/joint28
+        weight: 1
+      - path: rig/joint2/joint20/joint21/joint22/joint23/joint28/joint25 2
+        weight: 1
+      - path: rig/joint2/joint20/joint21/joint22/joint23/joint28/joint25 2/joint26
+          2
+        weight: 1
+      - path: rig/joint2/joint50
+        weight: 1
+      - path: rig/joint2/joint50/joint51
+        weight: 1
+      - path: rig/joint2/joint50/joint51/joint52
+        weight: 1
+      - path: rig/joint2/joint50/joint51/joint52/joint53
+        weight: 1
+      - path: rig/joint2/joint50/joint51/joint52/joint53/joint54
+        weight: 1
+      - path: rig/joint2/joint50/joint51/joint52/joint53/joint54/joint55
+        weight: 1
+      - path: rig/joint2/joint50/joint51/joint52/joint53/joint54/joint55/joint56
+        weight: 1
+      - path: rig/joint2/joint50/joint51/joint52/joint53/joint57
+        weight: 1
+      - path: rig/joint2/joint50/joint51/joint52/joint53/joint57/joint58
+        weight: 1
+      - path: rig/joint2/joint50/joint51/joint52/joint53/joint57/joint58/joint59
+        weight: 1
+      - path: rig/joint2/joint50/joint51/joint52/joint53/joint60
+        weight: 1
+      - path: rig/joint2/joint50/joint51/joint52/joint53/joint60/joint61
+        weight: 1
+      - path: rig/joint2/joint50/joint51/joint52/joint53/joint60/joint61/joint62
+        weight: 1
+      - path: transform1
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

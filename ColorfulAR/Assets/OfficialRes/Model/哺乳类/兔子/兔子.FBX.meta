@@ -1,0 +1,458 @@
+fileFormatVersion: 2
+guid: 98f14f334659a6f48b40a1bd4888e457
+timeCreated: 1475919612
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: BipR Footsteps
+    100002: BipR Head
+    100004: BipR HeadNub
+    100006: BipR L Calf
+    100008: BipR L Clavicle
+    100010: BipR L earA
+    100012: BipR L earB
+    100014: BipR L earNub
+    100016: BipR L Finger
+    100018: BipR L FingerNub
+    100020: BipR L Foot
+    100022: BipR L Forearm
+    100024: BipR L Hand
+    100026: BipR L Thigh
+    100028: BipR L Toe
+    100030: BipR L ToeNub
+    100032: BipR L UpperArm
+    100034: BipR NeckA
+    100036: BipR NeckB
+    100038: BipR Pelvis
+    100040: BipR R Calf
+    100042: BipR R Clavicle
+    100044: BipR R earA
+    100046: BipR R earB
+    100048: BipR R earNub
+    100050: BipR R Finger
+    100052: BipR R FingerNub
+    100054: BipR R Foot
+    100056: BipR R Forearm
+    100058: BipR R Hand
+    100060: BipR R Thigh
+    100062: BipR R Toe
+    100064: BipR R ToeNub
+    100066: BipR R UpperArm
+    100068: BipR SpineA
+    100070: BipR SpineB
+    100072: BipR TailA
+    100074: BipR TailB
+    100076: BipR TailNub
+    100078: BipRabbit
+    100080: RabbitHit_Body
+    100082: RabbitHit_Head
+    100084: rabit
+    100086: //RootNode
+    400000: BipR Footsteps
+    400002: BipR Head
+    400004: BipR HeadNub
+    400006: BipR L Calf
+    400008: BipR L Clavicle
+    400010: BipR L earA
+    400012: BipR L earB
+    400014: BipR L earNub
+    400016: BipR L Finger
+    400018: BipR L FingerNub
+    400020: BipR L Foot
+    400022: BipR L Forearm
+    400024: BipR L Hand
+    400026: BipR L Thigh
+    400028: BipR L Toe
+    400030: BipR L ToeNub
+    400032: BipR L UpperArm
+    400034: BipR NeckA
+    400036: BipR NeckB
+    400038: BipR Pelvis
+    400040: BipR R Calf
+    400042: BipR R Clavicle
+    400044: BipR R earA
+    400046: BipR R earB
+    400048: BipR R earNub
+    400050: BipR R Finger
+    400052: BipR R FingerNub
+    400054: BipR R Foot
+    400056: BipR R Forearm
+    400058: BipR R Hand
+    400060: BipR R Thigh
+    400062: BipR R Toe
+    400064: BipR R ToeNub
+    400066: BipR R UpperArm
+    400068: BipR SpineA
+    400070: BipR SpineB
+    400072: BipR TailA
+    400074: BipR TailB
+    400076: BipR TailNub
+    400078: BipRabbit
+    400080: RabbitHit_Body
+    400082: RabbitHit_Head
+    400084: rabit
+    400086: //RootNode
+    4300000: rabit
+    4300002: RabbitHit_Head
+    4300004: RabbitHit_Body
+    7400000: Take 001
+    7400002: Take 002
+    9500000: //RootNode
+    13700000: RabbitHit_Body
+    13700002: RabbitHit_Head
+    13700004: rabit
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 78
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: BipRabbit
+        weight: 1
+      - path: BipRabbit/BipR Footsteps
+        weight: 1
+      - path: BipRabbit/BipR Pelvis
+        weight: 1
+      - path: BipRabbit/BipR Pelvis/BipR SpineA
+        weight: 1
+      - path: BipRabbit/BipR Pelvis/BipR SpineA/BipR L Thigh
+        weight: 1
+      - path: BipRabbit/BipR Pelvis/BipR SpineA/BipR L Thigh/BipR L Calf
+        weight: 1
+      - path: BipRabbit/BipR Pelvis/BipR SpineA/BipR L Thigh/BipR L Calf/BipR L Foot
+        weight: 1
+      - path: BipRabbit/BipR Pelvis/BipR SpineA/BipR L Thigh/BipR L Calf/BipR L Foot/BipR
+          L Toe
+        weight: 1
+      - path: BipRabbit/BipR Pelvis/BipR SpineA/BipR L Thigh/BipR L Calf/BipR L Foot/BipR
+          L Toe/BipR L ToeNub
+        weight: 1
+      - path: BipRabbit/BipR Pelvis/BipR SpineA/BipR R Thigh
+        weight: 1
+      - path: BipRabbit/BipR Pelvis/BipR SpineA/BipR R Thigh/BipR R Calf
+        weight: 1
+      - path: BipRabbit/BipR Pelvis/BipR SpineA/BipR R Thigh/BipR R Calf/BipR R Foot
+        weight: 1
+      - path: BipRabbit/BipR Pelvis/BipR SpineA/BipR R Thigh/BipR R Calf/BipR R Foot/BipR
+          R Toe
+        weight: 1
+      - path: BipRabbit/BipR Pelvis/BipR SpineA/BipR R Thigh/BipR R Calf/BipR R Foot/BipR
+          R Toe/BipR R ToeNub
+        weight: 1
+      - path: BipRabbit/BipR Pelvis/BipR SpineA/BipR SpineB
+        weight: 1
+      - path: BipRabbit/BipR Pelvis/BipR SpineA/BipR SpineB/BipR NeckA
+        weight: 1
+      - path: BipRabbit/BipR Pelvis/BipR SpineA/BipR SpineB/BipR NeckA/BipR L Clavicle
+        weight: 1
+      - path: BipRabbit/BipR Pelvis/BipR SpineA/BipR SpineB/BipR NeckA/BipR L Clavicle/BipR
+          L UpperArm
+        weight: 1
+      - path: BipRabbit/BipR Pelvis/BipR SpineA/BipR SpineB/BipR NeckA/BipR L Clavicle/BipR
+          L UpperArm/BipR L Forearm
+        weight: 1
+      - path: BipRabbit/BipR Pelvis/BipR SpineA/BipR SpineB/BipR NeckA/BipR L Clavicle/BipR
+          L UpperArm/BipR L Forearm/BipR L Hand
+        weight: 1
+      - path: BipRabbit/BipR Pelvis/BipR SpineA/BipR SpineB/BipR NeckA/BipR L Clavicle/BipR
+          L UpperArm/BipR L Forearm/BipR L Hand/BipR L Finger
+        weight: 1
+      - path: BipRabbit/BipR Pelvis/BipR SpineA/BipR SpineB/BipR NeckA/BipR L Clavicle/BipR
+          L UpperArm/BipR L Forearm/BipR L Hand/BipR L Finger/BipR L FingerNub
+        weight: 1
+      - path: BipRabbit/BipR Pelvis/BipR SpineA/BipR SpineB/BipR NeckA/BipR NeckB
+        weight: 1
+      - path: BipRabbit/BipR Pelvis/BipR SpineA/BipR SpineB/BipR NeckA/BipR NeckB/BipR
+          Head
+        weight: 1
+      - path: BipRabbit/BipR Pelvis/BipR SpineA/BipR SpineB/BipR NeckA/BipR NeckB/BipR
+          Head/BipR HeadNub
+        weight: 1
+      - path: BipRabbit/BipR Pelvis/BipR SpineA/BipR SpineB/BipR NeckA/BipR NeckB/BipR
+          Head/BipR L earA
+        weight: 1
+      - path: BipRabbit/BipR Pelvis/BipR SpineA/BipR SpineB/BipR NeckA/BipR NeckB/BipR
+          Head/BipR L earA/BipR L earB
+        weight: 1
+      - path: BipRabbit/BipR Pelvis/BipR SpineA/BipR SpineB/BipR NeckA/BipR NeckB/BipR
+          Head/BipR L earA/BipR L earB/BipR L earNub
+        weight: 1
+      - path: BipRabbit/BipR Pelvis/BipR SpineA/BipR SpineB/BipR NeckA/BipR NeckB/BipR
+          Head/BipR R earA
+        weight: 1
+      - path: BipRabbit/BipR Pelvis/BipR SpineA/BipR SpineB/BipR NeckA/BipR NeckB/BipR
+          Head/BipR R earA/BipR R earB
+        weight: 1
+      - path: BipRabbit/BipR Pelvis/BipR SpineA/BipR SpineB/BipR NeckA/BipR NeckB/BipR
+          Head/BipR R earA/BipR R earB/BipR R earNub
+        weight: 1
+      - path: BipRabbit/BipR Pelvis/BipR SpineA/BipR SpineB/BipR NeckA/BipR R Clavicle
+        weight: 1
+      - path: BipRabbit/BipR Pelvis/BipR SpineA/BipR SpineB/BipR NeckA/BipR R Clavicle/BipR
+          R UpperArm
+        weight: 1
+      - path: BipRabbit/BipR Pelvis/BipR SpineA/BipR SpineB/BipR NeckA/BipR R Clavicle/BipR
+          R UpperArm/BipR R Forearm
+        weight: 1
+      - path: BipRabbit/BipR Pelvis/BipR SpineA/BipR SpineB/BipR NeckA/BipR R Clavicle/BipR
+          R UpperArm/BipR R Forearm/BipR R Hand
+        weight: 1
+      - path: BipRabbit/BipR Pelvis/BipR SpineA/BipR SpineB/BipR NeckA/BipR R Clavicle/BipR
+          R UpperArm/BipR R Forearm/BipR R Hand/BipR R Finger
+        weight: 1
+      - path: BipRabbit/BipR Pelvis/BipR SpineA/BipR SpineB/BipR NeckA/BipR R Clavicle/BipR
+          R UpperArm/BipR R Forearm/BipR R Hand/BipR R Finger/BipR R FingerNub
+        weight: 1
+      - path: BipRabbit/BipR Pelvis/BipR SpineA/BipR TailA
+        weight: 1
+      - path: BipRabbit/BipR Pelvis/BipR SpineA/BipR TailA/BipR TailB
+        weight: 1
+      - path: BipRabbit/BipR Pelvis/BipR SpineA/BipR TailA/BipR TailB/BipR TailNub
+        weight: 1
+      - path: RabbitHit_Body
+        weight: 1
+      - path: RabbitHit_Head
+        weight: 1
+      - path: rabit
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Take 002
+      takeName: Take 001
+      firstFrame: 100
+      lastFrame: 180
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0
+        functionName: PlayAudio
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 1
+        functionName: Stop
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: BipRabbit
+        weight: 1
+      - path: BipRabbit/BipR Footsteps
+        weight: 1
+      - path: BipRabbit/BipR Pelvis
+        weight: 1
+      - path: BipRabbit/BipR Pelvis/BipR SpineA
+        weight: 1
+      - path: BipRabbit/BipR Pelvis/BipR SpineA/BipR L Thigh
+        weight: 1
+      - path: BipRabbit/BipR Pelvis/BipR SpineA/BipR L Thigh/BipR L Calf
+        weight: 1
+      - path: BipRabbit/BipR Pelvis/BipR SpineA/BipR L Thigh/BipR L Calf/BipR L Foot
+        weight: 1
+      - path: BipRabbit/BipR Pelvis/BipR SpineA/BipR L Thigh/BipR L Calf/BipR L Foot/BipR
+          L Toe
+        weight: 1
+      - path: BipRabbit/BipR Pelvis/BipR SpineA/BipR L Thigh/BipR L Calf/BipR L Foot/BipR
+          L Toe/BipR L ToeNub
+        weight: 1
+      - path: BipRabbit/BipR Pelvis/BipR SpineA/BipR R Thigh
+        weight: 1
+      - path: BipRabbit/BipR Pelvis/BipR SpineA/BipR R Thigh/BipR R Calf
+        weight: 1
+      - path: BipRabbit/BipR Pelvis/BipR SpineA/BipR R Thigh/BipR R Calf/BipR R Foot
+        weight: 1
+      - path: BipRabbit/BipR Pelvis/BipR SpineA/BipR R Thigh/BipR R Calf/BipR R Foot/BipR
+          R Toe
+        weight: 1
+      - path: BipRabbit/BipR Pelvis/BipR SpineA/BipR R Thigh/BipR R Calf/BipR R Foot/BipR
+          R Toe/BipR R ToeNub
+        weight: 1
+      - path: BipRabbit/BipR Pelvis/BipR SpineA/BipR SpineB
+        weight: 1
+      - path: BipRabbit/BipR Pelvis/BipR SpineA/BipR SpineB/BipR NeckA
+        weight: 1
+      - path: BipRabbit/BipR Pelvis/BipR SpineA/BipR SpineB/BipR NeckA/BipR L Clavicle
+        weight: 1
+      - path: BipRabbit/BipR Pelvis/BipR SpineA/BipR SpineB/BipR NeckA/BipR L Clavicle/BipR
+          L UpperArm
+        weight: 1
+      - path: BipRabbit/BipR Pelvis/BipR SpineA/BipR SpineB/BipR NeckA/BipR L Clavicle/BipR
+          L UpperArm/BipR L Forearm
+        weight: 1
+      - path: BipRabbit/BipR Pelvis/BipR SpineA/BipR SpineB/BipR NeckA/BipR L Clavicle/BipR
+          L UpperArm/BipR L Forearm/BipR L Hand
+        weight: 1
+      - path: BipRabbit/BipR Pelvis/BipR SpineA/BipR SpineB/BipR NeckA/BipR L Clavicle/BipR
+          L UpperArm/BipR L Forearm/BipR L Hand/BipR L Finger
+        weight: 1
+      - path: BipRabbit/BipR Pelvis/BipR SpineA/BipR SpineB/BipR NeckA/BipR L Clavicle/BipR
+          L UpperArm/BipR L Forearm/BipR L Hand/BipR L Finger/BipR L FingerNub
+        weight: 1
+      - path: BipRabbit/BipR Pelvis/BipR SpineA/BipR SpineB/BipR NeckA/BipR NeckB
+        weight: 1
+      - path: BipRabbit/BipR Pelvis/BipR SpineA/BipR SpineB/BipR NeckA/BipR NeckB/BipR
+          Head
+        weight: 1
+      - path: BipRabbit/BipR Pelvis/BipR SpineA/BipR SpineB/BipR NeckA/BipR NeckB/BipR
+          Head/BipR HeadNub
+        weight: 1
+      - path: BipRabbit/BipR Pelvis/BipR SpineA/BipR SpineB/BipR NeckA/BipR NeckB/BipR
+          Head/BipR L earA
+        weight: 1
+      - path: BipRabbit/BipR Pelvis/BipR SpineA/BipR SpineB/BipR NeckA/BipR NeckB/BipR
+          Head/BipR L earA/BipR L earB
+        weight: 1
+      - path: BipRabbit/BipR Pelvis/BipR SpineA/BipR SpineB/BipR NeckA/BipR NeckB/BipR
+          Head/BipR L earA/BipR L earB/BipR L earNub
+        weight: 1
+      - path: BipRabbit/BipR Pelvis/BipR SpineA/BipR SpineB/BipR NeckA/BipR NeckB/BipR
+          Head/BipR R earA
+        weight: 1
+      - path: BipRabbit/BipR Pelvis/BipR SpineA/BipR SpineB/BipR NeckA/BipR NeckB/BipR
+          Head/BipR R earA/BipR R earB
+        weight: 1
+      - path: BipRabbit/BipR Pelvis/BipR SpineA/BipR SpineB/BipR NeckA/BipR NeckB/BipR
+          Head/BipR R earA/BipR R earB/BipR R earNub
+        weight: 1
+      - path: BipRabbit/BipR Pelvis/BipR SpineA/BipR SpineB/BipR NeckA/BipR R Clavicle
+        weight: 1
+      - path: BipRabbit/BipR Pelvis/BipR SpineA/BipR SpineB/BipR NeckA/BipR R Clavicle/BipR
+          R UpperArm
+        weight: 1
+      - path: BipRabbit/BipR Pelvis/BipR SpineA/BipR SpineB/BipR NeckA/BipR R Clavicle/BipR
+          R UpperArm/BipR R Forearm
+        weight: 1
+      - path: BipRabbit/BipR Pelvis/BipR SpineA/BipR SpineB/BipR NeckA/BipR R Clavicle/BipR
+          R UpperArm/BipR R Forearm/BipR R Hand
+        weight: 1
+      - path: BipRabbit/BipR Pelvis/BipR SpineA/BipR SpineB/BipR NeckA/BipR R Clavicle/BipR
+          R UpperArm/BipR R Forearm/BipR R Hand/BipR R Finger
+        weight: 1
+      - path: BipRabbit/BipR Pelvis/BipR SpineA/BipR SpineB/BipR NeckA/BipR R Clavicle/BipR
+          R UpperArm/BipR R Forearm/BipR R Hand/BipR R Finger/BipR R FingerNub
+        weight: 1
+      - path: BipRabbit/BipR Pelvis/BipR SpineA/BipR TailA
+        weight: 1
+      - path: BipRabbit/BipR Pelvis/BipR SpineA/BipR TailA/BipR TailB
+        weight: 1
+      - path: BipRabbit/BipR Pelvis/BipR SpineA/BipR TailA/BipR TailB/BipR TailNub
+        weight: 1
+      - path: RabbitHit_Body
+        weight: 1
+      - path: RabbitHit_Head
+        weight: 1
+      - path: rabit
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

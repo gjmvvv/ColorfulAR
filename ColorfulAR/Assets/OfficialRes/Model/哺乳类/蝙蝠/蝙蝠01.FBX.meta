@@ -1,0 +1,287 @@
+fileFormatVersion: 2
+guid: a86fd2a468014504085f5f9e6b3d07ad
+timeCreated: 1475919614
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: b.bone root
+    100002: b.Box02
+    100004: b.Box03
+    100006: b.Box04
+    100008: b.Box05
+    100010: b.Box06
+    100012: b.Box07
+    100014: b.Box08
+    100016: b.Box09
+    100018: b.Box10
+    100020: b.Box11
+    100022: b.Box12
+    100024: b.Box13
+    100026: b.Box14
+    100028: b.Box15
+    100030: b.Box16
+    100032: b.Box17
+    100034: b.Box18
+    100036: b.Box19
+    100038: b.Box20
+    100040: b.Box21
+    100042: b.Box22
+    100044: b.Box23
+    100046: b.Box24
+    100048: b.Box25
+    100050: b.Box26
+    100052: b.Box27
+    100054: b.Box28
+    100056: b.Box29
+    100058: b.Box30
+    100060: b.Box31
+    100062: b.Box32
+    100064: b.Box33
+    100066: b.Box34
+    100068: b.Box35
+    100070: b.Box36
+    100072: b.Box37
+    100074: b.Box38
+    100076: b.Box39
+    100078: b.Box40
+    100080: b.Box41
+    100082: b.Box42
+    100084: b.Box43
+    100086: b.Box44
+    100088: I01
+    100090: //RootNode
+    400000: b.bone root
+    400002: b.Box02
+    400004: b.Box03
+    400006: b.Box04
+    400008: b.Box05
+    400010: b.Box06
+    400012: b.Box07
+    400014: b.Box08
+    400016: b.Box09
+    400018: b.Box10
+    400020: b.Box11
+    400022: b.Box12
+    400024: b.Box13
+    400026: b.Box14
+    400028: b.Box15
+    400030: b.Box16
+    400032: b.Box17
+    400034: b.Box18
+    400036: b.Box19
+    400038: b.Box20
+    400040: b.Box21
+    400042: b.Box22
+    400044: b.Box23
+    400046: b.Box24
+    400048: b.Box25
+    400050: b.Box26
+    400052: b.Box27
+    400054: b.Box28
+    400056: b.Box29
+    400058: b.Box30
+    400060: b.Box31
+    400062: b.Box32
+    400064: b.Box33
+    400066: b.Box34
+    400068: b.Box35
+    400070: b.Box36
+    400072: b.Box37
+    400074: b.Box38
+    400076: b.Box39
+    400078: b.Box40
+    400080: b.Box41
+    400082: b.Box42
+    400084: b.Box43
+    400086: b.Box44
+    400088: I01
+    400090: //RootNode
+    4300000: I01
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: I01
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 50
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: b.bone root
+        weight: 1
+      - path: b.bone root/b.Box10
+        weight: 1
+      - path: b.bone root/b.Box10/b.Box02
+        weight: 1
+      - path: b.bone root/b.Box10/b.Box02/b.Box03
+        weight: 1
+      - path: b.bone root/b.Box10/b.Box02/b.Box03/b.Box04
+        weight: 1
+      - path: b.bone root/b.Box10/b.Box02/b.Box03/b.Box04/b.Box05
+        weight: 1
+      - path: b.bone root/b.Box10/b.Box02/b.Box03/b.Box04/b.Box05/b.Box06
+        weight: 1
+      - path: b.bone root/b.Box10/b.Box02/b.Box03/b.Box04/b.Box05/b.Box06/b.Box07
+        weight: 1
+      - path: b.bone root/b.Box10/b.Box02/b.Box03/b.Box04/b.Box05/b.Box09
+        weight: 1
+      - path: b.bone root/b.Box10/b.Box02/b.Box03/b.Box04/b.Box05/b.Box09/b.Box08
+        weight: 1
+      - path: b.bone root/b.Box10/b.Box02/b.Box03/b.Box04/b.Box05/b.Box33
+        weight: 1
+      - path: b.bone root/b.Box10/b.Box02/b.Box03/b.Box04/b.Box05/b.Box33/b.Box34
+        weight: 1
+      - path: b.bone root/b.Box10/b.Box02/b.Box03/b.Box04/b.Box05/b.Box35
+        weight: 1
+      - path: b.bone root/b.Box10/b.Box02/b.Box03/b.Box04/b.Box05/b.Box35/b.Box36
+        weight: 1
+      - path: b.bone root/b.Box10/b.Box02/b.Box03/b.Box13
+        weight: 1
+      - path: b.bone root/b.Box10/b.Box02/b.Box03/b.Box13/b.Box14
+        weight: 1
+      - path: b.bone root/b.Box10/b.Box02/b.Box03/b.Box13/b.Box14/b.Box15
+        weight: 1
+      - path: b.bone root/b.Box10/b.Box02/b.Box03/b.Box13/b.Box14/b.Box15/b.Box16
+        weight: 1
+      - path: b.bone root/b.Box10/b.Box02/b.Box03/b.Box13/b.Box14/b.Box15/b.Box16/b.Box17
+        weight: 1
+      - path: b.bone root/b.Box10/b.Box02/b.Box03/b.Box13/b.Box14/b.Box15/b.Box16/b.Box17/b.Box18
+        weight: 1
+      - path: b.bone root/b.Box10/b.Box02/b.Box03/b.Box13/b.Box14/b.Box15/b.Box16/b.Box29
+        weight: 1
+      - path: b.bone root/b.Box10/b.Box02/b.Box03/b.Box13/b.Box14/b.Box15/b.Box16/b.Box29/b.Box30
+        weight: 1
+      - path: b.bone root/b.Box10/b.Box02/b.Box03/b.Box13/b.Box14/b.Box15/b.Box25
+        weight: 1
+      - path: b.bone root/b.Box10/b.Box02/b.Box03/b.Box13/b.Box14/b.Box15/b.Box25/b.Box26
+        weight: 1
+      - path: b.bone root/b.Box10/b.Box02/b.Box03/b.Box20
+        weight: 1
+      - path: b.bone root/b.Box10/b.Box02/b.Box03/b.Box20/b.Box19
+        weight: 1
+      - path: b.bone root/b.Box10/b.Box02/b.Box03/b.Box20/b.Box19/b.Box22
+        weight: 1
+      - path: b.bone root/b.Box10/b.Box02/b.Box03/b.Box20/b.Box19/b.Box22/b.Box21
+        weight: 1
+      - path: b.bone root/b.Box10/b.Box02/b.Box03/b.Box20/b.Box19/b.Box22/b.Box21/b.Box24
+        weight: 1
+      - path: b.bone root/b.Box10/b.Box02/b.Box03/b.Box20/b.Box19/b.Box22/b.Box21/b.Box24/b.Box23
+        weight: 1
+      - path: b.bone root/b.Box10/b.Box02/b.Box03/b.Box20/b.Box19/b.Box22/b.Box21/b.Box31
+        weight: 1
+      - path: b.bone root/b.Box10/b.Box02/b.Box03/b.Box20/b.Box19/b.Box22/b.Box21/b.Box31/b.Box32
+        weight: 1
+      - path: b.bone root/b.Box10/b.Box02/b.Box03/b.Box20/b.Box19/b.Box22/b.Box27
+        weight: 1
+      - path: b.bone root/b.Box10/b.Box02/b.Box03/b.Box20/b.Box19/b.Box22/b.Box27/b.Box28
+        weight: 1
+      - path: b.bone root/b.Box10/b.Box11
+        weight: 1
+      - path: b.bone root/b.Box10/b.Box11/b.Box12
+        weight: 1
+      - path: b.bone root/b.Box10/b.Box11/b.Box37
+        weight: 1
+      - path: b.bone root/b.Box10/b.Box11/b.Box37/b.Box38
+        weight: 1
+      - path: b.bone root/b.Box10/b.Box11/b.Box37/b.Box38/b.Box39
+        weight: 1
+      - path: b.bone root/b.Box10/b.Box11/b.Box37/b.Box38/b.Box39/b.Box40
+        weight: 1
+      - path: b.bone root/b.Box10/b.Box11/b.Box44
+        weight: 1
+      - path: b.bone root/b.Box10/b.Box11/b.Box44/b.Box43
+        weight: 1
+      - path: b.bone root/b.Box10/b.Box11/b.Box44/b.Box43/b.Box41
+        weight: 1
+      - path: b.bone root/b.Box10/b.Box11/b.Box44/b.Box43/b.Box41/b.Box42
+        weight: 1
+      - path: I01
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

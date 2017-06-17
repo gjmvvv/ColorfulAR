@@ -1,0 +1,362 @@
+fileFormatVersion: 2
+guid: dd65485bbe1c6464e93fb00c33d30918
+timeCreated: 1476091507
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: CATRigHub001
+    100002: CATRigTail1
+    100004: CATRigTail1 1
+    100006: CATRigTail1 2
+    100008: CATRigTail1 3
+    100010: CATRigTail2
+    100012: CATRigTail2 1
+    100014: CATRigTail2 2
+    100016: CATRigTail2 3
+    100018: CATRigTail3
+    100020: CATRigTail3 1
+    100022: CATRigTail3 2
+    100024: CATRigTail3 3
+    100026: CATRigTail4
+    100028: CATRigTail5
+    100030: Character001
+    100032: JinYu
+    100034: "mr \u533A\u57DF\u805A\u5149\u706F01"
+    100036: "mr \u533A\u57DF\u805A\u5149\u706F01.Target"
+    100038: Omni01
+    100040: //RootNode
+    100042: "\u91D1\u9C7C_03"
+    100044: "\u91D1\u9C7C_05"
+    100046: "\u91D1\u9C7C_06"
+    100048: "\u91D1\u9C7C\u4E0A\u4E0B\u626C\u52A8_08"
+    100050: "\u91D1\u9C7C\u4E0A\u9CCD\u6298_11"
+    100052: "\u91D1\u9C7C\u5634\u52A8_04"
+    100054: "\u91D1\u9C7C\u5C3E\u52A8_02"
+    100056: "\u91D1\u9C7C\u5C3E\u6298_10"
+    100058: "\u91D1\u9C7C\u626D\u66F2_01"
+    100060: "\u91D1\u9C7C\u9CC3\u52A8_09"
+    400000: CATRigHub001
+    400002: CATRigTail1
+    400004: CATRigTail1 1
+    400006: CATRigTail1 2
+    400008: CATRigTail1 3
+    400010: CATRigTail2
+    400012: CATRigTail2 1
+    400014: CATRigTail2 2
+    400016: CATRigTail2 3
+    400018: CATRigTail3
+    400020: CATRigTail3 1
+    400022: CATRigTail3 2
+    400024: CATRigTail3 3
+    400026: CATRigTail4
+    400028: CATRigTail5
+    400030: Character001
+    400032: JinYu
+    400034: "mr \u533A\u57DF\u805A\u5149\u706F01"
+    400036: "mr \u533A\u57DF\u805A\u5149\u706F01.Target"
+    400038: Omni01
+    400040: //RootNode
+    400042: "\u91D1\u9C7C_03"
+    400044: "\u91D1\u9C7C_05"
+    400046: "\u91D1\u9C7C_06"
+    400048: "\u91D1\u9C7C\u4E0A\u4E0B\u626C\u52A8_08"
+    400050: "\u91D1\u9C7C\u4E0A\u9CCD\u6298_11"
+    400052: "\u91D1\u9C7C\u5634\u52A8_04"
+    400054: "\u91D1\u9C7C\u5C3E\u52A8_02"
+    400056: "\u91D1\u9C7C\u5C3E\u6298_10"
+    400058: "\u91D1\u9C7C\u626D\u66F2_01"
+    400060: "\u91D1\u9C7C\u9CC3\u52A8_09"
+    2300000: "\u91D1\u9C7C_03"
+    2300002: "\u91D1\u9C7C_05"
+    2300004: "\u91D1\u9C7C_06"
+    2300006: "\u91D1\u9C7C\u4E0A\u4E0B\u626C\u52A8_08"
+    2300008: "\u91D1\u9C7C\u4E0A\u9CCD\u6298_11"
+    2300010: "\u91D1\u9C7C\u5634\u52A8_04"
+    2300012: "\u91D1\u9C7C\u5C3E\u52A8_02"
+    2300014: "\u91D1\u9C7C\u5C3E\u6298_10"
+    2300016: "\u91D1\u9C7C\u626D\u66F2_01"
+    2300018: "\u91D1\u9C7C\u9CC3\u52A8_09"
+    3300000: "\u91D1\u9C7C_03"
+    3300002: "\u91D1\u9C7C_05"
+    3300004: "\u91D1\u9C7C_06"
+    3300006: "\u91D1\u9C7C\u4E0A\u4E0B\u626C\u52A8_08"
+    3300008: "\u91D1\u9C7C\u4E0A\u9CCD\u6298_11"
+    3300010: "\u91D1\u9C7C\u5634\u52A8_04"
+    3300012: "\u91D1\u9C7C\u5C3E\u52A8_02"
+    3300014: "\u91D1\u9C7C\u5C3E\u6298_10"
+    3300016: "\u91D1\u9C7C\u626D\u66F2_01"
+    3300018: "\u91D1\u9C7C\u9CC3\u52A8_09"
+    4300000: JinYu
+    4300002: "\u91D1\u9C7C\u5C3E\u52A8_02"
+    4300004: "\u91D1\u9C7C_03"
+    4300006: "\u91D1\u9C7C\u5634\u52A8_04"
+    4300008: "\u91D1\u9C7C_05"
+    4300010: "\u91D1\u9C7C_06"
+    4300012: "\u91D1\u9C7C\u626D\u66F2_01"
+    4300014: "\u91D1\u9C7C\u4E0A\u4E0B\u626C\u52A8_08"
+    4300016: "\u91D1\u9C7C\u9CC3\u52A8_09"
+    4300018: "\u91D1\u9C7C\u5C3E\u6298_10"
+    4300020: "\u91D1\u9C7C\u4E0A\u9CCD\u6298_11"
+    7400000: Take 001
+    7400002: Take 002
+    9500000: //RootNode
+    13700000: JinYu
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: CATRigHub001
+        weight: 1
+      - path: CATRigHub001/CATRigTail1
+        weight: 1
+      - path: CATRigHub001/CATRigTail1/CATRigTail1 1
+        weight: 1
+      - path: CATRigHub001/CATRigTail1/CATRigTail1 1/CATRigTail2 1
+        weight: 1
+      - path: CATRigHub001/CATRigTail1/CATRigTail1 1/CATRigTail2 1/CATRigTail3 1
+        weight: 1
+      - path: CATRigHub001/CATRigTail1/CATRigTail1 2
+        weight: 1
+      - path: CATRigHub001/CATRigTail1/CATRigTail1 2/CATRigTail2 2
+        weight: 1
+      - path: CATRigHub001/CATRigTail1/CATRigTail1 2/CATRigTail2 2/CATRigTail3 2
+        weight: 1
+      - path: CATRigHub001/CATRigTail1/CATRigTail1 3
+        weight: 1
+      - path: CATRigHub001/CATRigTail1/CATRigTail1 3/CATRigTail2 3
+        weight: 1
+      - path: CATRigHub001/CATRigTail1/CATRigTail1 3/CATRigTail2 3/CATRigTail3 3
+        weight: 1
+      - path: CATRigHub001/CATRigTail1/CATRigTail2
+        weight: 1
+      - path: CATRigHub001/CATRigTail1/CATRigTail2/CATRigTail3
+        weight: 1
+      - path: CATRigHub001/CATRigTail1/CATRigTail2/CATRigTail3/CATRigTail4
+        weight: 1
+      - path: CATRigHub001/CATRigTail1/CATRigTail2/CATRigTail3/CATRigTail4/CATRigTail5
+        weight: 1
+      - path: Character001
+        weight: 1
+      - path: JinYu
+        weight: 1
+      - path: "mr \u533A\u57DF\u805A\u5149\u706F01"
+        weight: 1
+      - path: "mr \u533A\u57DF\u805A\u5149\u706F01.Target"
+        weight: 1
+      - path: Omni01
+        weight: 1
+      - path: "\u91D1\u9C7C_03"
+        weight: 1
+      - path: "\u91D1\u9C7C_05"
+        weight: 1
+      - path: "\u91D1\u9C7C_06"
+        weight: 1
+      - path: "\u91D1\u9C7C\u4E0A\u4E0B\u626C\u52A8_08"
+        weight: 1
+      - path: "\u91D1\u9C7C\u4E0A\u9CCD\u6298_11"
+        weight: 1
+      - path: "\u91D1\u9C7C\u5634\u52A8_04"
+        weight: 1
+      - path: "\u91D1\u9C7C\u5C3E\u52A8_02"
+        weight: 1
+      - path: "\u91D1\u9C7C\u5C3E\u6298_10"
+        weight: 1
+      - path: "\u91D1\u9C7C\u626D\u66F2_01"
+        weight: 1
+      - path: "\u91D1\u9C7C\u9CC3\u52A8_09"
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Take 002
+      takeName: Take 001
+      firstFrame: 100
+      lastFrame: 250
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0
+        functionName: PlayAudio
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 1
+        functionName: Stop
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: CATRigHub001
+        weight: 1
+      - path: CATRigHub001/CATRigTail1
+        weight: 1
+      - path: CATRigHub001/CATRigTail1/CATRigTail1 1
+        weight: 1
+      - path: CATRigHub001/CATRigTail1/CATRigTail1 1/CATRigTail2 1
+        weight: 1
+      - path: CATRigHub001/CATRigTail1/CATRigTail1 1/CATRigTail2 1/CATRigTail3 1
+        weight: 1
+      - path: CATRigHub001/CATRigTail1/CATRigTail1 2
+        weight: 1
+      - path: CATRigHub001/CATRigTail1/CATRigTail1 2/CATRigTail2 2
+        weight: 1
+      - path: CATRigHub001/CATRigTail1/CATRigTail1 2/CATRigTail2 2/CATRigTail3 2
+        weight: 1
+      - path: CATRigHub001/CATRigTail1/CATRigTail1 3
+        weight: 1
+      - path: CATRigHub001/CATRigTail1/CATRigTail1 3/CATRigTail2 3
+        weight: 1
+      - path: CATRigHub001/CATRigTail1/CATRigTail1 3/CATRigTail2 3/CATRigTail3 3
+        weight: 1
+      - path: CATRigHub001/CATRigTail1/CATRigTail2
+        weight: 1
+      - path: CATRigHub001/CATRigTail1/CATRigTail2/CATRigTail3
+        weight: 1
+      - path: CATRigHub001/CATRigTail1/CATRigTail2/CATRigTail3/CATRigTail4
+        weight: 1
+      - path: CATRigHub001/CATRigTail1/CATRigTail2/CATRigTail3/CATRigTail4/CATRigTail5
+        weight: 1
+      - path: Character001
+        weight: 1
+      - path: JinYu
+        weight: 1
+      - path: "mr \u533A\u57DF\u805A\u5149\u706F01"
+        weight: 1
+      - path: "mr \u533A\u57DF\u805A\u5149\u706F01.Target"
+        weight: 1
+      - path: Omni01
+        weight: 1
+      - path: "\u91D1\u9C7C_03"
+        weight: 1
+      - path: "\u91D1\u9C7C_05"
+        weight: 1
+      - path: "\u91D1\u9C7C_06"
+        weight: 1
+      - path: "\u91D1\u9C7C\u4E0A\u4E0B\u626C\u52A8_08"
+        weight: 1
+      - path: "\u91D1\u9C7C\u4E0A\u9CCD\u6298_11"
+        weight: 1
+      - path: "\u91D1\u9C7C\u5634\u52A8_04"
+        weight: 1
+      - path: "\u91D1\u9C7C\u5C3E\u52A8_02"
+        weight: 1
+      - path: "\u91D1\u9C7C\u5C3E\u6298_10"
+        weight: 1
+      - path: "\u91D1\u9C7C\u626D\u66F2_01"
+        weight: 1
+      - path: "\u91D1\u9C7C\u9CC3\u52A8_09"
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

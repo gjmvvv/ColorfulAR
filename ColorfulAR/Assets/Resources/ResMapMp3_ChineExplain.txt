@@ -1,0 +1,8 @@
+Elephant_CE=TYPE_Mammal/Elephant/Elephant_CE
+Koalas_CE=TYPE_Mammal/Koalas/Koalas_CE
+Rabbit_CE=TYPE_Mammal/Rabbit/Rabbit_CE
+Seals_CE=TYPE_Mammal/Seals/Seals_CE
+Sikadeer_CE=TYPE_Mammal/Sikadeer/Sikadeer_CE
+Squirrel_CE=TYPE_Mammal/Squirrel/Squirrel_CE
+Wildebeest_CE=TYPE_Mammal/Wildebeest/Wildebeest_CE
+zebra_CE=TYPE_Mammal/zebra/zebra_CE

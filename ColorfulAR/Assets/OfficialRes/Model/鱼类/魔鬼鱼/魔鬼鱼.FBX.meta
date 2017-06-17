@@ -1,0 +1,410 @@
+fileFormatVersion: 2
+guid: 82737c3e66b776c46b741044bdab1b74
+timeCreated: 1476496557
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: CATRig4Bone001
+    100002: CATRig4Bone001Bone001
+    100004: CATRig4Bone001Bone002
+    100006: CATRigHub006
+    100008: CATRigTail1
+    100010: CATRigTail1 1
+    100012: CATRigTail1 2
+    100014: CATRigTail1 3
+    100016: CATRigTail1 4
+    100018: CATRigTail1 5
+    100020: CATRigTail1 6
+    100022: CATRigTail1 7
+    100024: CATRigTail2
+    100026: CATRigTail2 1
+    100028: CATRigTail2 2
+    100030: CATRigTail2 3
+    100032: CATRigTail2 4
+    100034: CATRigTail2 5
+    100036: CATRigTail2 6
+    100038: CATRigTail2 7
+    100040: CATRigTail3
+    100042: CATRigTail3 1
+    100044: CATRigTail3 2
+    100046: CATRigTail3 3
+    100048: CATRigTail3 4
+    100050: CATRigTail4
+    100052: CATRigTail4 1
+    100054: CATRigTail4 2
+    100056: CATRigTail4 3
+    100058: CATRigTail4 4
+    100060: CATRigTail5
+    100062: CATRigTail5 1
+    100064: CATRigTail5 2
+    100066: CATRigTail5 3
+    100068: CATRigTail5 4
+    100070: Character001
+    100072: Character003
+    100074: object7
+    100076: Particle View 001
+    100078: //RootNode
+    400000: CATRig4Bone001
+    400002: CATRig4Bone001Bone001
+    400004: CATRig4Bone001Bone002
+    400006: CATRigHub006
+    400008: CATRigTail1
+    400010: CATRigTail1 1
+    400012: CATRigTail1 2
+    400014: CATRigTail1 3
+    400016: CATRigTail1 4
+    400018: CATRigTail1 5
+    400020: CATRigTail1 6
+    400022: CATRigTail1 7
+    400024: CATRigTail2
+    400026: CATRigTail2 1
+    400028: CATRigTail2 2
+    400030: CATRigTail2 3
+    400032: CATRigTail2 4
+    400034: CATRigTail2 5
+    400036: CATRigTail2 6
+    400038: CATRigTail2 7
+    400040: CATRigTail3
+    400042: CATRigTail3 1
+    400044: CATRigTail3 2
+    400046: CATRigTail3 3
+    400048: CATRigTail3 4
+    400050: CATRigTail4
+    400052: CATRigTail4 1
+    400054: CATRigTail4 2
+    400056: CATRigTail4 3
+    400058: CATRigTail4 4
+    400060: CATRigTail5
+    400062: CATRigTail5 1
+    400064: CATRigTail5 2
+    400066: CATRigTail5 3
+    400068: CATRigTail5 4
+    400070: Character001
+    400072: Character003
+    400074: object7
+    400076: Particle View 001
+    400078: //RootNode
+    4300000: object7
+    7400000: Take 001
+    7400002: Take 002
+    9500000: //RootNode
+    13700000: object7
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: CATRigHub006
+        weight: 1
+      - path: CATRigHub006/CATRigTail1
+        weight: 1
+      - path: CATRigHub006/CATRigTail1/CATRigTail2
+        weight: 1
+      - path: CATRigHub006/CATRigTail1/CATRigTail2/CATRigTail3
+        weight: 1
+      - path: CATRigHub006/CATRigTail1/CATRigTail2/CATRigTail3/CATRigTail1 4
+        weight: 1
+      - path: CATRigHub006/CATRigTail1/CATRigTail2/CATRigTail3/CATRigTail1 4/CATRigTail2
+          4
+        weight: 1
+      - path: CATRigHub006/CATRigTail1/CATRigTail2/CATRigTail3/CATRigTail1 5
+        weight: 1
+      - path: CATRigHub006/CATRigTail1/CATRigTail2/CATRigTail3/CATRigTail1 5/CATRigTail2
+          5
+        weight: 1
+      - path: CATRigHub006/CATRigTail1/CATRigTail2/CATRigTail3/CATRigTail4 1
+        weight: 1
+      - path: CATRigHub006/CATRigTail1/CATRigTail2/CATRigTail3/CATRigTail4 1/CATRig4Bone001
+        weight: 1
+      - path: CATRigHub006/CATRigTail1/CATRigTail2/CATRigTail3/CATRigTail4 1/CATRig4Bone001/CATRig4Bone001Bone001
+        weight: 1
+      - path: CATRigHub006/CATRigTail1/CATRigTail2/CATRigTail3/CATRigTail4 1/CATRig4Bone001/CATRig4Bone001Bone002
+        weight: 1
+      - path: CATRigHub006/CATRigTail1/CATRigTail2/CATRigTail3/CATRigTail4 1/CATRigTail5
+        weight: 1
+      - path: CATRigHub006/CATRigTail1 1
+        weight: 1
+      - path: CATRigHub006/CATRigTail1 1/CATRigTail2 1
+        weight: 1
+      - path: CATRigHub006/CATRigTail1 1/CATRigTail2 1/CATRigTail3 1
+        weight: 1
+      - path: CATRigHub006/CATRigTail1 1/CATRigTail2 1/CATRigTail3 1/CATRigTail4
+        weight: 1
+      - path: CATRigHub006/CATRigTail1 1/CATRigTail2 1/CATRigTail3 1/CATRigTail4/CATRigTail1
+          6
+        weight: 1
+      - path: CATRigHub006/CATRigTail1 1/CATRigTail2 1/CATRigTail3 1/CATRigTail4/CATRigTail1
+          6/CATRigTail2 6
+        weight: 1
+      - path: CATRigHub006/CATRigTail1 1/CATRigTail2 1/CATRigTail3 1/CATRigTail4/CATRigTail5
+          2
+        weight: 1
+      - path: CATRigHub006/CATRigTail1 1/CATRigTail2 1/CATRigTail3 1/CATRigTail4/CATRigTail5
+          2/CATRigTail1 7
+        weight: 1
+      - path: CATRigHub006/CATRigTail1 1/CATRigTail2 1/CATRigTail3 1/CATRigTail4/CATRigTail5
+          2/CATRigTail1 7/CATRigTail2 7
+        weight: 1
+      - path: CATRigHub006/CATRigTail1 1/CATRigTail2 1/CATRigTail3 1/CATRigTail4/CATRigTail5
+          2/CATRigTail1 7/CATRigTail2 7/CATRigTail3 4
+        weight: 1
+      - path: CATRigHub006/CATRigTail1 1/CATRigTail2 1/CATRigTail3 1/CATRigTail4/CATRigTail5
+          2/CATRigTail1 7/CATRigTail2 7/CATRigTail3 4/CATRigTail4 4
+        weight: 1
+      - path: CATRigHub006/CATRigTail1 1/CATRigTail2 1/CATRigTail3 1/CATRigTail4/CATRigTail5
+          2/CATRigTail1 7/CATRigTail2 7/CATRigTail3 4/CATRigTail4 4/CATRigTail5 4
+        weight: 1
+      - path: CATRigHub006/CATRigTail1 2
+        weight: 1
+      - path: CATRigHub006/CATRigTail1 2/CATRigTail2 2
+        weight: 1
+      - path: CATRigHub006/CATRigTail1 2/CATRigTail2 2/CATRigTail3 2
+        weight: 1
+      - path: CATRigHub006/CATRigTail1 2/CATRigTail2 2/CATRigTail3 2/CATRigTail4 2
+        weight: 1
+      - path: CATRigHub006/CATRigTail1 2/CATRigTail2 2/CATRigTail3 2/CATRigTail4 2/CATRigTail5
+          1
+        weight: 1
+      - path: CATRigHub006/CATRigTail1 3
+        weight: 1
+      - path: CATRigHub006/CATRigTail1 3/CATRigTail2 3
+        weight: 1
+      - path: CATRigHub006/CATRigTail1 3/CATRigTail2 3/CATRigTail3 3
+        weight: 1
+      - path: CATRigHub006/CATRigTail1 3/CATRigTail2 3/CATRigTail3 3/CATRigTail4 3
+        weight: 1
+      - path: CATRigHub006/CATRigTail1 3/CATRigTail2 3/CATRigTail3 3/CATRigTail4 3/CATRigTail5
+          3
+        weight: 1
+      - path: Character001
+        weight: 1
+      - path: Character003
+        weight: 1
+      - path: object7
+        weight: 1
+      - path: Particle View 001
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Take 002
+      takeName: Take 001
+      firstFrame: 60
+      lastFrame: 380
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 1
+        functionName: Stop
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0
+        functionName: PlayAudio
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: CATRigHub006
+        weight: 1
+      - path: CATRigHub006/CATRigTail1
+        weight: 1
+      - path: CATRigHub006/CATRigTail1/CATRigTail2
+        weight: 1
+      - path: CATRigHub006/CATRigTail1/CATRigTail2/CATRigTail3
+        weight: 1
+      - path: CATRigHub006/CATRigTail1/CATRigTail2/CATRigTail3/CATRigTail1 4
+        weight: 1
+      - path: CATRigHub006/CATRigTail1/CATRigTail2/CATRigTail3/CATRigTail1 4/CATRigTail2
+          4
+        weight: 1
+      - path: CATRigHub006/CATRigTail1/CATRigTail2/CATRigTail3/CATRigTail1 5
+        weight: 1
+      - path: CATRigHub006/CATRigTail1/CATRigTail2/CATRigTail3/CATRigTail1 5/CATRigTail2
+          5
+        weight: 1
+      - path: CATRigHub006/CATRigTail1/CATRigTail2/CATRigTail3/CATRigTail4 1
+        weight: 1
+      - path: CATRigHub006/CATRigTail1/CATRigTail2/CATRigTail3/CATRigTail4 1/CATRig4Bone001
+        weight: 1
+      - path: CATRigHub006/CATRigTail1/CATRigTail2/CATRigTail3/CATRigTail4 1/CATRig4Bone001/CATRig4Bone001Bone001
+        weight: 1
+      - path: CATRigHub006/CATRigTail1/CATRigTail2/CATRigTail3/CATRigTail4 1/CATRig4Bone001/CATRig4Bone001Bone002
+        weight: 1
+      - path: CATRigHub006/CATRigTail1/CATRigTail2/CATRigTail3/CATRigTail4 1/CATRigTail5
+        weight: 1
+      - path: CATRigHub006/CATRigTail1 1
+        weight: 1
+      - path: CATRigHub006/CATRigTail1 1/CATRigTail2 1
+        weight: 1
+      - path: CATRigHub006/CATRigTail1 1/CATRigTail2 1/CATRigTail3 1
+        weight: 1
+      - path: CATRigHub006/CATRigTail1 1/CATRigTail2 1/CATRigTail3 1/CATRigTail4
+        weight: 1
+      - path: CATRigHub006/CATRigTail1 1/CATRigTail2 1/CATRigTail3 1/CATRigTail4/CATRigTail1
+          6
+        weight: 1
+      - path: CATRigHub006/CATRigTail1 1/CATRigTail2 1/CATRigTail3 1/CATRigTail4/CATRigTail1
+          6/CATRigTail2 6
+        weight: 1
+      - path: CATRigHub006/CATRigTail1 1/CATRigTail2 1/CATRigTail3 1/CATRigTail4/CATRigTail5
+          2
+        weight: 1
+      - path: CATRigHub006/CATRigTail1 1/CATRigTail2 1/CATRigTail3 1/CATRigTail4/CATRigTail5
+          2/CATRigTail1 7
+        weight: 1
+      - path: CATRigHub006/CATRigTail1 1/CATRigTail2 1/CATRigTail3 1/CATRigTail4/CATRigTail5
+          2/CATRigTail1 7/CATRigTail2 7
+        weight: 1
+      - path: CATRigHub006/CATRigTail1 1/CATRigTail2 1/CATRigTail3 1/CATRigTail4/CATRigTail5
+          2/CATRigTail1 7/CATRigTail2 7/CATRigTail3 4
+        weight: 1
+      - path: CATRigHub006/CATRigTail1 1/CATRigTail2 1/CATRigTail3 1/CATRigTail4/CATRigTail5
+          2/CATRigTail1 7/CATRigTail2 7/CATRigTail3 4/CATRigTail4 4
+        weight: 1
+      - path: CATRigHub006/CATRigTail1 1/CATRigTail2 1/CATRigTail3 1/CATRigTail4/CATRigTail5
+          2/CATRigTail1 7/CATRigTail2 7/CATRigTail3 4/CATRigTail4 4/CATRigTail5 4
+        weight: 1
+      - path: CATRigHub006/CATRigTail1 2
+        weight: 1
+      - path: CATRigHub006/CATRigTail1 2/CATRigTail2 2
+        weight: 1
+      - path: CATRigHub006/CATRigTail1 2/CATRigTail2 2/CATRigTail3 2
+        weight: 1
+      - path: CATRigHub006/CATRigTail1 2/CATRigTail2 2/CATRigTail3 2/CATRigTail4 2
+        weight: 1
+      - path: CATRigHub006/CATRigTail1 2/CATRigTail2 2/CATRigTail3 2/CATRigTail4 2/CATRigTail5
+          1
+        weight: 1
+      - path: CATRigHub006/CATRigTail1 3
+        weight: 1
+      - path: CATRigHub006/CATRigTail1 3/CATRigTail2 3
+        weight: 1
+      - path: CATRigHub006/CATRigTail1 3/CATRigTail2 3/CATRigTail3 3
+        weight: 1
+      - path: CATRigHub006/CATRigTail1 3/CATRigTail2 3/CATRigTail3 3/CATRigTail4 3
+        weight: 1
+      - path: CATRigHub006/CATRigTail1 3/CATRigTail2 3/CATRigTail3 3/CATRigTail4 3/CATRigTail5
+          3
+        weight: 1
+      - path: Character001
+        weight: 1
+      - path: Character003
+        weight: 1
+      - path: object7
+        weight: 1
+      - path: Particle View 001
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

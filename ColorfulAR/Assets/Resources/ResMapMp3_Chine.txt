@@ -1,0 +1,8 @@
+Elephant_C=TYPE_Mammal/Elephant/Elephant_C
+Koalas_C=TYPE_Mammal/Koalas/Koalas_C
+Rabbit_C=TYPE_Mammal/Rabbit/Rabbit_C
+Seals_C=TYPE_Mammal/Seals/Seals_C
+Sikadeer_C=TYPE_Mammal/Sikadeer/Sikadeer_C
+Squirrel_C=TYPE_Mammal/Squirrel/Squirrel_C
+Wildebeest_C=TYPE_Mammal/Wildebeest/Wildebeest_C
+zebra_C=TYPE_Mammal/zebra/zebra_C

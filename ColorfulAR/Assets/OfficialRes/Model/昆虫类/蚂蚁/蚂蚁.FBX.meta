@@ -1,0 +1,708 @@
+fileFormatVersion: 2
+guid: 43bc4dc3d04c84940a6bed9af158d6f8
+timeCreated: 1476091491
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: MaYi
+    100002: oo
+    100004: ooAnkleBone002
+    100006: ooAnkleBone002 1
+    100008: ooAnkleBone002Bone001
+    100010: ooAnkleBone002Bone001 1
+    100012: ooAnkleBone003
+    100014: ooAnkleBone003 1
+    100016: ooAnkleBone003Bone001
+    100018: ooAnkleBone003Bone001 1
+    100020: ooAnkleBone003Bone001Bone001
+    100022: ooAnkleBone003Bone001Bone001 1
+    100024: ooAnkleBone004
+    100026: ooAnkleBone004 1
+    100028: ooAnkleBone004Bone001
+    100030: ooAnkleBone004Bone001 1
+    100032: ooHub001
+    100034: ooHub002
+    100036: ooHub002Bone001
+    100038: ooHub002Bone001Bone001
+    100040: ooHub002Bone001Bone001 1
+    100042: ooHub002Bone001Bone001Bone001
+    100044: ooHub002Bone001Bone001Bone001 1
+    100046: ooHub002Bone001Bone001Bone001Bone001
+    100048: ooHub002Bone001Bone001Bone001Bone001 1
+    100050: ooHub002Bone001Bone001Bone001Bone001Bone001
+    100052: ooHub002Bone001Bone001Bone001Bone001Bone001 1
+    100054: ooHub002Bone001Bone001Bone001Bone001Bone001Bone001
+    100056: ooHub002Bone001Bone001Bone001Bone001Bone001Bone001 1
+    100058: ooHub002Bone001Bone001Bone001Bone001Bone001Bone001Bone001
+    100060: ooHub002Bone001Bone001Bone001Bone001Bone001Bone001Bone001 1
+    100062: ooHub002Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001
+    100064: ooHub002Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001 1
+    100066: ooHub002Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001
+    100068: ooHub002Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001
+      1
+    100070: ooHub002Bone002
+    100072: ooHub002Bone003
+    100074: ooHub002Bone003Bone002
+    100076: ooHub002Bone003Bone002 1
+    100078: ooHub002Bone004
+    100080: ooLLeg1
+    100082: ooLLeg1 1
+    100084: ooLLeg1 2
+    100086: ooLLeg1 3
+    100088: ooLLeg2
+    100090: ooLLeg2 1
+    100092: ooLLeg2 2
+    100094: ooLLeg2 3
+    100096: ooLLeg3
+    100098: ooLLeg3 1
+    100100: ooLLeg3 2
+    100102: ooLLeg3 3
+    100104: ooLLegAnkle
+    100106: ooLLegAnkle 1
+    100108: ooLLegAnkle 2
+    100110: ooLLegAnkle 3
+    100112: ooLLegPlatform
+    100114: ooLLegPlatform 1
+    100116: ooLLegPlatform 2
+    100118: ooLLegPlatform 3
+    100120: ooRLeg1
+    100122: ooRLeg1 1
+    100124: ooRLeg2
+    100126: ooRLeg2 1
+    100128: ooRLeg3
+    100130: ooRLeg3 1
+    100132: ooRLegAnkle
+    100134: ooRLegAnkle 1
+    100136: ooRLegPlatform
+    100138: ooRLegPlatform 1
+    100140: ooSpine2
+    100142: ooSpineCATRigSpine1
+    100144: ooTail1
+    100146: ooTail2
+    100148: ooTail3
+    100150: ooTail4
+    100152: ooTail5
+    100154: ooTail6
+    100156: ooTail7
+    100158: ooTail8
+    100160: ooTail9
+    100162: "VR_\u5149\u6E90001"
+    100164: "VR_\u5149\u6E90002"
+    100166: "VR_\u5149\u6E90003"
+    100168: "VR_\u5149\u6E90004"
+    100170: //RootNode
+    400000: MaYi
+    400002: oo
+    400004: ooAnkleBone002
+    400006: ooAnkleBone002 1
+    400008: ooAnkleBone002Bone001
+    400010: ooAnkleBone002Bone001 1
+    400012: ooAnkleBone003
+    400014: ooAnkleBone003 1
+    400016: ooAnkleBone003Bone001
+    400018: ooAnkleBone003Bone001 1
+    400020: ooAnkleBone003Bone001Bone001
+    400022: ooAnkleBone003Bone001Bone001 1
+    400024: ooAnkleBone004
+    400026: ooAnkleBone004 1
+    400028: ooAnkleBone004Bone001
+    400030: ooAnkleBone004Bone001 1
+    400032: ooHub001
+    400034: ooHub002
+    400036: ooHub002Bone001
+    400038: ooHub002Bone001Bone001
+    400040: ooHub002Bone001Bone001 1
+    400042: ooHub002Bone001Bone001Bone001
+    400044: ooHub002Bone001Bone001Bone001 1
+    400046: ooHub002Bone001Bone001Bone001Bone001
+    400048: ooHub002Bone001Bone001Bone001Bone001 1
+    400050: ooHub002Bone001Bone001Bone001Bone001Bone001
+    400052: ooHub002Bone001Bone001Bone001Bone001Bone001 1
+    400054: ooHub002Bone001Bone001Bone001Bone001Bone001Bone001
+    400056: ooHub002Bone001Bone001Bone001Bone001Bone001Bone001 1
+    400058: ooHub002Bone001Bone001Bone001Bone001Bone001Bone001Bone001
+    400060: ooHub002Bone001Bone001Bone001Bone001Bone001Bone001Bone001 1
+    400062: ooHub002Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001
+    400064: ooHub002Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001 1
+    400066: ooHub002Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001
+    400068: ooHub002Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001
+      1
+    400070: ooHub002Bone002
+    400072: ooHub002Bone003
+    400074: ooHub002Bone003Bone002
+    400076: ooHub002Bone003Bone002 1
+    400078: ooHub002Bone004
+    400080: ooLLeg1
+    400082: ooLLeg1 1
+    400084: ooLLeg1 2
+    400086: ooLLeg1 3
+    400088: ooLLeg2
+    400090: ooLLeg2 1
+    400092: ooLLeg2 2
+    400094: ooLLeg2 3
+    400096: ooLLeg3
+    400098: ooLLeg3 1
+    400100: ooLLeg3 2
+    400102: ooLLeg3 3
+    400104: ooLLegAnkle
+    400106: ooLLegAnkle 1
+    400108: ooLLegAnkle 2
+    400110: ooLLegAnkle 3
+    400112: ooLLegPlatform
+    400114: ooLLegPlatform 1
+    400116: ooLLegPlatform 2
+    400118: ooLLegPlatform 3
+    400120: ooRLeg1
+    400122: ooRLeg1 1
+    400124: ooRLeg2
+    400126: ooRLeg2 1
+    400128: ooRLeg3
+    400130: ooRLeg3 1
+    400132: ooRLegAnkle
+    400134: ooRLegAnkle 1
+    400136: ooRLegPlatform
+    400138: ooRLegPlatform 1
+    400140: ooSpine2
+    400142: ooSpineCATRigSpine1
+    400144: ooTail1
+    400146: ooTail2
+    400148: ooTail3
+    400150: ooTail4
+    400152: ooTail5
+    400154: ooTail6
+    400156: ooTail7
+    400158: ooTail8
+    400160: ooTail9
+    400162: "VR_\u5149\u6E90001"
+    400164: "VR_\u5149\u6E90002"
+    400166: "VR_\u5149\u6E90003"
+    400168: "VR_\u5149\u6E90004"
+    400170: //RootNode
+    4300000: MaYi
+    7400000: Take 001
+    7400002: Take 002
+    9500000: //RootNode
+    13700000: MaYi
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 35
+      lastFrame: 157
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: MaYi
+        weight: 1
+      - path: oo
+        weight: 1
+      - path: ooHub001
+        weight: 1
+      - path: ooHub001/ooLLeg1
+        weight: 1
+      - path: ooHub001/ooLLeg1/ooLLeg2 2
+        weight: 1
+      - path: ooHub001/ooLLeg1/ooLLeg2 2/ooLLeg3 3
+        weight: 1
+      - path: ooHub001/ooLLeg1/ooLLeg2 2/ooLLeg3 3/ooLLegAnkle 3
+        weight: 1
+      - path: ooHub001/ooLLeg1/ooLLeg2 2/ooLLeg3 3/ooLLegAnkle 3/ooAnkleBone003
+        weight: 1
+      - path: ooHub001/ooLLeg1/ooLLeg2 2/ooLLeg3 3/ooLLegAnkle 3/ooAnkleBone003/ooAnkleBone003Bone001
+        weight: 1
+      - path: ooHub001/ooLLeg1/ooLLeg2 2/ooLLeg3 3/ooLLegAnkle 3/ooAnkleBone003/ooAnkleBone003Bone001/ooAnkleBone003Bone001Bone001
+        weight: 1
+      - path: ooHub001/ooLLeg1 1
+        weight: 1
+      - path: ooHub001/ooLLeg1 1/ooLLeg2 1
+        weight: 1
+      - path: ooHub001/ooLLeg1 1/ooLLeg2 1/ooLLeg3 2
+        weight: 1
+      - path: ooHub001/ooLLeg1 1/ooLLeg2 1/ooLLeg3 2/ooLLegAnkle
+        weight: 1
+      - path: ooHub001/ooLLeg1 1/ooLLeg2 1/ooLLeg3 2/ooLLegAnkle/ooAnkleBone002 1
+        weight: 1
+      - path: ooHub001/ooLLeg1 1/ooLLeg2 1/ooLLeg3 2/ooLLegAnkle/ooAnkleBone002 1/ooAnkleBone002Bone001
+          1
+        weight: 1
+      - path: ooHub001/ooLLeg1 2
+        weight: 1
+      - path: ooHub001/ooLLeg1 2/ooLLeg2 3
+        weight: 1
+      - path: ooHub001/ooLLeg1 2/ooLLeg2 3/ooLLeg3 1
+        weight: 1
+      - path: ooHub001/ooLLeg1 2/ooLLeg2 3/ooLLeg3 1/ooLLegAnkle 2
+        weight: 1
+      - path: ooHub001/ooLLeg1 2/ooLLeg2 3/ooLLeg3 1/ooLLegAnkle 2/ooAnkleBone002
+        weight: 1
+      - path: ooHub001/ooLLeg1 2/ooLLeg2 3/ooLLeg3 1/ooLLegAnkle 2/ooAnkleBone002/ooAnkleBone002Bone001
+        weight: 1
+      - path: ooHub001/ooLLeg1 3
+        weight: 1
+      - path: ooHub001/ooLLeg1 3/ooLLeg2
+        weight: 1
+      - path: ooHub001/ooLLeg1 3/ooLLeg2/ooLLeg3
+        weight: 1
+      - path: ooHub001/ooLLeg1 3/ooLLeg2/ooLLeg3/ooLLegAnkle 1
+        weight: 1
+      - path: ooHub001/ooLLeg1 3/ooLLeg2/ooLLeg3/ooLLegAnkle 1/ooAnkleBone004
+        weight: 1
+      - path: ooHub001/ooLLeg1 3/ooLLeg2/ooLLeg3/ooLLegAnkle 1/ooAnkleBone004/ooAnkleBone004Bone001
+        weight: 1
+      - path: ooHub001/ooRLeg1
+        weight: 1
+      - path: ooHub001/ooRLeg1/ooRLeg2 1
+        weight: 1
+      - path: ooHub001/ooRLeg1/ooRLeg2 1/ooRLeg3
+        weight: 1
+      - path: ooHub001/ooRLeg1/ooRLeg2 1/ooRLeg3/ooRLegAnkle
+        weight: 1
+      - path: ooHub001/ooRLeg1/ooRLeg2 1/ooRLeg3/ooRLegAnkle/ooAnkleBone004 1
+        weight: 1
+      - path: ooHub001/ooRLeg1/ooRLeg2 1/ooRLeg3/ooRLegAnkle/ooAnkleBone004 1/ooAnkleBone004Bone001
+          1
+        weight: 1
+      - path: ooHub001/ooRLeg1 1
+        weight: 1
+      - path: ooHub001/ooRLeg1 1/ooRLeg2
+        weight: 1
+      - path: ooHub001/ooRLeg1 1/ooRLeg2/ooRLeg3 1
+        weight: 1
+      - path: ooHub001/ooRLeg1 1/ooRLeg2/ooRLeg3 1/ooRLegAnkle 1
+        weight: 1
+      - path: ooHub001/ooRLeg1 1/ooRLeg2/ooRLeg3 1/ooRLegAnkle 1/ooAnkleBone003 1
+        weight: 1
+      - path: ooHub001/ooRLeg1 1/ooRLeg2/ooRLeg3 1/ooRLegAnkle 1/ooAnkleBone003 1/ooAnkleBone003Bone001
+          1
+        weight: 1
+      - path: ooHub001/ooRLeg1 1/ooRLeg2/ooRLeg3 1/ooRLegAnkle 1/ooAnkleBone003 1/ooAnkleBone003Bone001
+          1/ooAnkleBone003Bone001Bone001 1
+        weight: 1
+      - path: ooHub001/ooSpineCATRigSpine1
+        weight: 1
+      - path: ooHub001/ooSpineCATRigSpine1/ooSpine2
+        weight: 1
+      - path: ooHub001/ooSpineCATRigSpine1/ooSpine2/ooHub002
+        weight: 1
+      - path: ooHub001/ooSpineCATRigSpine1/ooSpine2/ooHub002/ooHub002Bone001
+        weight: 1
+      - path: ooHub001/ooSpineCATRigSpine1/ooSpine2/ooHub002/ooHub002Bone001/ooHub002Bone001Bone001
+        weight: 1
+      - path: ooHub001/ooSpineCATRigSpine1/ooSpine2/ooHub002/ooHub002Bone001/ooHub002Bone001Bone001/ooHub002Bone001Bone001Bone001
+        weight: 1
+      - path: ooHub001/ooSpineCATRigSpine1/ooSpine2/ooHub002/ooHub002Bone001/ooHub002Bone001Bone001/ooHub002Bone001Bone001Bone001/ooHub002Bone001Bone001Bone001Bone001
+        weight: 1
+      - path: ooHub001/ooSpineCATRigSpine1/ooSpine2/ooHub002/ooHub002Bone001/ooHub002Bone001Bone001/ooHub002Bone001Bone001Bone001/ooHub002Bone001Bone001Bone001Bone001/ooHub002Bone001Bone001Bone001Bone001Bone001
+        weight: 1
+      - path: ooHub001/ooSpineCATRigSpine1/ooSpine2/ooHub002/ooHub002Bone001/ooHub002Bone001Bone001/ooHub002Bone001Bone001Bone001/ooHub002Bone001Bone001Bone001Bone001/ooHub002Bone001Bone001Bone001Bone001Bone001/ooHub002Bone001Bone001Bone001Bone001Bone001Bone001
+        weight: 1
+      - path: ooHub001/ooSpineCATRigSpine1/ooSpine2/ooHub002/ooHub002Bone001/ooHub002Bone001Bone001/ooHub002Bone001Bone001Bone001/ooHub002Bone001Bone001Bone001Bone001/ooHub002Bone001Bone001Bone001Bone001Bone001/ooHub002Bone001Bone001Bone001Bone001Bone001Bone001/ooHub002Bone001Bone001Bone001Bone001Bone001Bone001Bone001
+        weight: 1
+      - path: ooHub001/ooSpineCATRigSpine1/ooSpine2/ooHub002/ooHub002Bone001/ooHub002Bone001Bone001/ooHub002Bone001Bone001Bone001/ooHub002Bone001Bone001Bone001Bone001/ooHub002Bone001Bone001Bone001Bone001Bone001/ooHub002Bone001Bone001Bone001Bone001Bone001Bone001/ooHub002Bone001Bone001Bone001Bone001Bone001Bone001Bone001/ooHub002Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001
+        weight: 1
+      - path: ooHub001/ooSpineCATRigSpine1/ooSpine2/ooHub002/ooHub002Bone001/ooHub002Bone001Bone001/ooHub002Bone001Bone001Bone001/ooHub002Bone001Bone001Bone001Bone001/ooHub002Bone001Bone001Bone001Bone001Bone001/ooHub002Bone001Bone001Bone001Bone001Bone001Bone001/ooHub002Bone001Bone001Bone001Bone001Bone001Bone001Bone001/ooHub002Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001/ooHub002Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001
+        weight: 1
+      - path: ooHub001/ooSpineCATRigSpine1/ooSpine2/ooHub002/ooHub002Bone002
+        weight: 1
+      - path: ooHub001/ooSpineCATRigSpine1/ooSpine2/ooHub002/ooHub002Bone002/ooHub002Bone001Bone001
+          1
+        weight: 1
+      - path: ooHub001/ooSpineCATRigSpine1/ooSpine2/ooHub002/ooHub002Bone002/ooHub002Bone001Bone001
+          1/ooHub002Bone001Bone001Bone001 1
+        weight: 1
+      - path: ooHub001/ooSpineCATRigSpine1/ooSpine2/ooHub002/ooHub002Bone002/ooHub002Bone001Bone001
+          1/ooHub002Bone001Bone001Bone001 1/ooHub002Bone001Bone001Bone001Bone001 1
+        weight: 1
+      - path: ooHub001/ooSpineCATRigSpine1/ooSpine2/ooHub002/ooHub002Bone002/ooHub002Bone001Bone001
+          1/ooHub002Bone001Bone001Bone001 1/ooHub002Bone001Bone001Bone001Bone001 1/ooHub002Bone001Bone001Bone001Bone001Bone001
+          1
+        weight: 1
+      - path: ooHub001/ooSpineCATRigSpine1/ooSpine2/ooHub002/ooHub002Bone002/ooHub002Bone001Bone001
+          1/ooHub002Bone001Bone001Bone001 1/ooHub002Bone001Bone001Bone001Bone001 1/ooHub002Bone001Bone001Bone001Bone001Bone001
+          1/ooHub002Bone001Bone001Bone001Bone001Bone001Bone001 1
+        weight: 1
+      - path: ooHub001/ooSpineCATRigSpine1/ooSpine2/ooHub002/ooHub002Bone002/ooHub002Bone001Bone001
+          1/ooHub002Bone001Bone001Bone001 1/ooHub002Bone001Bone001Bone001Bone001 1/ooHub002Bone001Bone001Bone001Bone001Bone001
+          1/ooHub002Bone001Bone001Bone001Bone001Bone001Bone001 1/ooHub002Bone001Bone001Bone001Bone001Bone001Bone001Bone001
+          1
+        weight: 1
+      - path: ooHub001/ooSpineCATRigSpine1/ooSpine2/ooHub002/ooHub002Bone002/ooHub002Bone001Bone001
+          1/ooHub002Bone001Bone001Bone001 1/ooHub002Bone001Bone001Bone001Bone001 1/ooHub002Bone001Bone001Bone001Bone001Bone001
+          1/ooHub002Bone001Bone001Bone001Bone001Bone001Bone001 1/ooHub002Bone001Bone001Bone001Bone001Bone001Bone001Bone001
+          1/ooHub002Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001 1
+        weight: 1
+      - path: ooHub001/ooSpineCATRigSpine1/ooSpine2/ooHub002/ooHub002Bone002/ooHub002Bone001Bone001
+          1/ooHub002Bone001Bone001Bone001 1/ooHub002Bone001Bone001Bone001Bone001 1/ooHub002Bone001Bone001Bone001Bone001Bone001
+          1/ooHub002Bone001Bone001Bone001Bone001Bone001Bone001 1/ooHub002Bone001Bone001Bone001Bone001Bone001Bone001Bone001
+          1/ooHub002Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001 1/ooHub002Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001
+          1
+        weight: 1
+      - path: ooHub001/ooSpineCATRigSpine1/ooSpine2/ooHub002/ooHub002Bone003
+        weight: 1
+      - path: ooHub001/ooSpineCATRigSpine1/ooSpine2/ooHub002/ooHub002Bone003/ooHub002Bone003Bone002
+        weight: 1
+      - path: ooHub001/ooSpineCATRigSpine1/ooSpine2/ooHub002/ooHub002Bone004
+        weight: 1
+      - path: ooHub001/ooSpineCATRigSpine1/ooSpine2/ooHub002/ooHub002Bone004/ooHub002Bone003Bone002
+          1
+        weight: 1
+      - path: ooHub001/ooTail1
+        weight: 1
+      - path: ooHub001/ooTail1/ooTail2
+        weight: 1
+      - path: ooHub001/ooTail1/ooTail2/ooTail3
+        weight: 1
+      - path: ooHub001/ooTail1/ooTail2/ooTail3/ooTail4
+        weight: 1
+      - path: ooHub001/ooTail1/ooTail2/ooTail3/ooTail4/ooTail5
+        weight: 1
+      - path: ooHub001/ooTail1/ooTail2/ooTail3/ooTail4/ooTail5/ooTail6
+        weight: 1
+      - path: ooHub001/ooTail1/ooTail2/ooTail3/ooTail4/ooTail5/ooTail6/ooTail7
+        weight: 1
+      - path: ooHub001/ooTail1/ooTail2/ooTail3/ooTail4/ooTail5/ooTail6/ooTail7/ooTail8
+        weight: 1
+      - path: ooHub001/ooTail1/ooTail2/ooTail3/ooTail4/ooTail5/ooTail6/ooTail7/ooTail8/ooTail9
+        weight: 1
+      - path: ooLLegPlatform
+        weight: 1
+      - path: ooLLegPlatform 1
+        weight: 1
+      - path: ooLLegPlatform 2
+        weight: 1
+      - path: ooLLegPlatform 3
+        weight: 1
+      - path: ooRLegPlatform
+        weight: 1
+      - path: ooRLegPlatform 1
+        weight: 1
+      - path: "VR_\u5149\u6E90001"
+        weight: 1
+      - path: "VR_\u5149\u6E90002"
+        weight: 1
+      - path: "VR_\u5149\u6E90003"
+        weight: 1
+      - path: "VR_\u5149\u6E90004"
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Take 002
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 35
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0.9971831
+        functionName: Stop
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0
+        functionName: PlayAudio
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: MaYi
+        weight: 1
+      - path: oo
+        weight: 1
+      - path: ooHub001
+        weight: 1
+      - path: ooHub001/ooLLeg1
+        weight: 1
+      - path: ooHub001/ooLLeg1/ooLLeg2 2
+        weight: 1
+      - path: ooHub001/ooLLeg1/ooLLeg2 2/ooLLeg3 3
+        weight: 1
+      - path: ooHub001/ooLLeg1/ooLLeg2 2/ooLLeg3 3/ooLLegAnkle 3
+        weight: 1
+      - path: ooHub001/ooLLeg1/ooLLeg2 2/ooLLeg3 3/ooLLegAnkle 3/ooAnkleBone003
+        weight: 1
+      - path: ooHub001/ooLLeg1/ooLLeg2 2/ooLLeg3 3/ooLLegAnkle 3/ooAnkleBone003/ooAnkleBone003Bone001
+        weight: 1
+      - path: ooHub001/ooLLeg1/ooLLeg2 2/ooLLeg3 3/ooLLegAnkle 3/ooAnkleBone003/ooAnkleBone003Bone001/ooAnkleBone003Bone001Bone001
+        weight: 1
+      - path: ooHub001/ooLLeg1 1
+        weight: 1
+      - path: ooHub001/ooLLeg1 1/ooLLeg2 1
+        weight: 1
+      - path: ooHub001/ooLLeg1 1/ooLLeg2 1/ooLLeg3 2
+        weight: 1
+      - path: ooHub001/ooLLeg1 1/ooLLeg2 1/ooLLeg3 2/ooLLegAnkle
+        weight: 1
+      - path: ooHub001/ooLLeg1 1/ooLLeg2 1/ooLLeg3 2/ooLLegAnkle/ooAnkleBone002 1
+        weight: 1
+      - path: ooHub001/ooLLeg1 1/ooLLeg2 1/ooLLeg3 2/ooLLegAnkle/ooAnkleBone002 1/ooAnkleBone002Bone001
+          1
+        weight: 1
+      - path: ooHub001/ooLLeg1 2
+        weight: 1
+      - path: ooHub001/ooLLeg1 2/ooLLeg2 3
+        weight: 1
+      - path: ooHub001/ooLLeg1 2/ooLLeg2 3/ooLLeg3 1
+        weight: 1
+      - path: ooHub001/ooLLeg1 2/ooLLeg2 3/ooLLeg3 1/ooLLegAnkle 2
+        weight: 1
+      - path: ooHub001/ooLLeg1 2/ooLLeg2 3/ooLLeg3 1/ooLLegAnkle 2/ooAnkleBone002
+        weight: 1
+      - path: ooHub001/ooLLeg1 2/ooLLeg2 3/ooLLeg3 1/ooLLegAnkle 2/ooAnkleBone002/ooAnkleBone002Bone001
+        weight: 1
+      - path: ooHub001/ooLLeg1 3
+        weight: 1
+      - path: ooHub001/ooLLeg1 3/ooLLeg2
+        weight: 1
+      - path: ooHub001/ooLLeg1 3/ooLLeg2/ooLLeg3
+        weight: 1
+      - path: ooHub001/ooLLeg1 3/ooLLeg2/ooLLeg3/ooLLegAnkle 1
+        weight: 1
+      - path: ooHub001/ooLLeg1 3/ooLLeg2/ooLLeg3/ooLLegAnkle 1/ooAnkleBone004
+        weight: 1
+      - path: ooHub001/ooLLeg1 3/ooLLeg2/ooLLeg3/ooLLegAnkle 1/ooAnkleBone004/ooAnkleBone004Bone001
+        weight: 1
+      - path: ooHub001/ooRLeg1
+        weight: 1
+      - path: ooHub001/ooRLeg1/ooRLeg2 1
+        weight: 1
+      - path: ooHub001/ooRLeg1/ooRLeg2 1/ooRLeg3
+        weight: 1
+      - path: ooHub001/ooRLeg1/ooRLeg2 1/ooRLeg3/ooRLegAnkle
+        weight: 1
+      - path: ooHub001/ooRLeg1/ooRLeg2 1/ooRLeg3/ooRLegAnkle/ooAnkleBone004 1
+        weight: 1
+      - path: ooHub001/ooRLeg1/ooRLeg2 1/ooRLeg3/ooRLegAnkle/ooAnkleBone004 1/ooAnkleBone004Bone001
+          1
+        weight: 1
+      - path: ooHub001/ooRLeg1 1
+        weight: 1
+      - path: ooHub001/ooRLeg1 1/ooRLeg2
+        weight: 1
+      - path: ooHub001/ooRLeg1 1/ooRLeg2/ooRLeg3 1
+        weight: 1
+      - path: ooHub001/ooRLeg1 1/ooRLeg2/ooRLeg3 1/ooRLegAnkle 1
+        weight: 1
+      - path: ooHub001/ooRLeg1 1/ooRLeg2/ooRLeg3 1/ooRLegAnkle 1/ooAnkleBone003 1
+        weight: 1
+      - path: ooHub001/ooRLeg1 1/ooRLeg2/ooRLeg3 1/ooRLegAnkle 1/ooAnkleBone003 1/ooAnkleBone003Bone001
+          1
+        weight: 1
+      - path: ooHub001/ooRLeg1 1/ooRLeg2/ooRLeg3 1/ooRLegAnkle 1/ooAnkleBone003 1/ooAnkleBone003Bone001
+          1/ooAnkleBone003Bone001Bone001 1
+        weight: 1
+      - path: ooHub001/ooSpineCATRigSpine1
+        weight: 1
+      - path: ooHub001/ooSpineCATRigSpine1/ooSpine2
+        weight: 1
+      - path: ooHub001/ooSpineCATRigSpine1/ooSpine2/ooHub002
+        weight: 1
+      - path: ooHub001/ooSpineCATRigSpine1/ooSpine2/ooHub002/ooHub002Bone001
+        weight: 1
+      - path: ooHub001/ooSpineCATRigSpine1/ooSpine2/ooHub002/ooHub002Bone001/ooHub002Bone001Bone001
+        weight: 1
+      - path: ooHub001/ooSpineCATRigSpine1/ooSpine2/ooHub002/ooHub002Bone001/ooHub002Bone001Bone001/ooHub002Bone001Bone001Bone001
+        weight: 1
+      - path: ooHub001/ooSpineCATRigSpine1/ooSpine2/ooHub002/ooHub002Bone001/ooHub002Bone001Bone001/ooHub002Bone001Bone001Bone001/ooHub002Bone001Bone001Bone001Bone001
+        weight: 1
+      - path: ooHub001/ooSpineCATRigSpine1/ooSpine2/ooHub002/ooHub002Bone001/ooHub002Bone001Bone001/ooHub002Bone001Bone001Bone001/ooHub002Bone001Bone001Bone001Bone001/ooHub002Bone001Bone001Bone001Bone001Bone001
+        weight: 1
+      - path: ooHub001/ooSpineCATRigSpine1/ooSpine2/ooHub002/ooHub002Bone001/ooHub002Bone001Bone001/ooHub002Bone001Bone001Bone001/ooHub002Bone001Bone001Bone001Bone001/ooHub002Bone001Bone001Bone001Bone001Bone001/ooHub002Bone001Bone001Bone001Bone001Bone001Bone001
+        weight: 1
+      - path: ooHub001/ooSpineCATRigSpine1/ooSpine2/ooHub002/ooHub002Bone001/ooHub002Bone001Bone001/ooHub002Bone001Bone001Bone001/ooHub002Bone001Bone001Bone001Bone001/ooHub002Bone001Bone001Bone001Bone001Bone001/ooHub002Bone001Bone001Bone001Bone001Bone001Bone001/ooHub002Bone001Bone001Bone001Bone001Bone001Bone001Bone001
+        weight: 1
+      - path: ooHub001/ooSpineCATRigSpine1/ooSpine2/ooHub002/ooHub002Bone001/ooHub002Bone001Bone001/ooHub002Bone001Bone001Bone001/ooHub002Bone001Bone001Bone001Bone001/ooHub002Bone001Bone001Bone001Bone001Bone001/ooHub002Bone001Bone001Bone001Bone001Bone001Bone001/ooHub002Bone001Bone001Bone001Bone001Bone001Bone001Bone001/ooHub002Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001
+        weight: 1
+      - path: ooHub001/ooSpineCATRigSpine1/ooSpine2/ooHub002/ooHub002Bone001/ooHub002Bone001Bone001/ooHub002Bone001Bone001Bone001/ooHub002Bone001Bone001Bone001Bone001/ooHub002Bone001Bone001Bone001Bone001Bone001/ooHub002Bone001Bone001Bone001Bone001Bone001Bone001/ooHub002Bone001Bone001Bone001Bone001Bone001Bone001Bone001/ooHub002Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001/ooHub002Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001
+        weight: 1
+      - path: ooHub001/ooSpineCATRigSpine1/ooSpine2/ooHub002/ooHub002Bone002
+        weight: 1
+      - path: ooHub001/ooSpineCATRigSpine1/ooSpine2/ooHub002/ooHub002Bone002/ooHub002Bone001Bone001
+          1
+        weight: 1
+      - path: ooHub001/ooSpineCATRigSpine1/ooSpine2/ooHub002/ooHub002Bone002/ooHub002Bone001Bone001
+          1/ooHub002Bone001Bone001Bone001 1
+        weight: 1
+      - path: ooHub001/ooSpineCATRigSpine1/ooSpine2/ooHub002/ooHub002Bone002/ooHub002Bone001Bone001
+          1/ooHub002Bone001Bone001Bone001 1/ooHub002Bone001Bone001Bone001Bone001 1
+        weight: 1
+      - path: ooHub001/ooSpineCATRigSpine1/ooSpine2/ooHub002/ooHub002Bone002/ooHub002Bone001Bone001
+          1/ooHub002Bone001Bone001Bone001 1/ooHub002Bone001Bone001Bone001Bone001 1/ooHub002Bone001Bone001Bone001Bone001Bone001
+          1
+        weight: 1
+      - path: ooHub001/ooSpineCATRigSpine1/ooSpine2/ooHub002/ooHub002Bone002/ooHub002Bone001Bone001
+          1/ooHub002Bone001Bone001Bone001 1/ooHub002Bone001Bone001Bone001Bone001 1/ooHub002Bone001Bone001Bone001Bone001Bone001
+          1/ooHub002Bone001Bone001Bone001Bone001Bone001Bone001 1
+        weight: 1
+      - path: ooHub001/ooSpineCATRigSpine1/ooSpine2/ooHub002/ooHub002Bone002/ooHub002Bone001Bone001
+          1/ooHub002Bone001Bone001Bone001 1/ooHub002Bone001Bone001Bone001Bone001 1/ooHub002Bone001Bone001Bone001Bone001Bone001
+          1/ooHub002Bone001Bone001Bone001Bone001Bone001Bone001 1/ooHub002Bone001Bone001Bone001Bone001Bone001Bone001Bone001
+          1
+        weight: 1
+      - path: ooHub001/ooSpineCATRigSpine1/ooSpine2/ooHub002/ooHub002Bone002/ooHub002Bone001Bone001
+          1/ooHub002Bone001Bone001Bone001 1/ooHub002Bone001Bone001Bone001Bone001 1/ooHub002Bone001Bone001Bone001Bone001Bone001
+          1/ooHub002Bone001Bone001Bone001Bone001Bone001Bone001 1/ooHub002Bone001Bone001Bone001Bone001Bone001Bone001Bone001
+          1/ooHub002Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001 1
+        weight: 1
+      - path: ooHub001/ooSpineCATRigSpine1/ooSpine2/ooHub002/ooHub002Bone002/ooHub002Bone001Bone001
+          1/ooHub002Bone001Bone001Bone001 1/ooHub002Bone001Bone001Bone001Bone001 1/ooHub002Bone001Bone001Bone001Bone001Bone001
+          1/ooHub002Bone001Bone001Bone001Bone001Bone001Bone001 1/ooHub002Bone001Bone001Bone001Bone001Bone001Bone001Bone001
+          1/ooHub002Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001 1/ooHub002Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001
+          1
+        weight: 1
+      - path: ooHub001/ooSpineCATRigSpine1/ooSpine2/ooHub002/ooHub002Bone003
+        weight: 1
+      - path: ooHub001/ooSpineCATRigSpine1/ooSpine2/ooHub002/ooHub002Bone003/ooHub002Bone003Bone002
+        weight: 1
+      - path: ooHub001/ooSpineCATRigSpine1/ooSpine2/ooHub002/ooHub002Bone004
+        weight: 1
+      - path: ooHub001/ooSpineCATRigSpine1/ooSpine2/ooHub002/ooHub002Bone004/ooHub002Bone003Bone002
+          1
+        weight: 1
+      - path: ooHub001/ooTail1
+        weight: 1
+      - path: ooHub001/ooTail1/ooTail2
+        weight: 1
+      - path: ooHub001/ooTail1/ooTail2/ooTail3
+        weight: 1
+      - path: ooHub001/ooTail1/ooTail2/ooTail3/ooTail4
+        weight: 1
+      - path: ooHub001/ooTail1/ooTail2/ooTail3/ooTail4/ooTail5
+        weight: 1
+      - path: ooHub001/ooTail1/ooTail2/ooTail3/ooTail4/ooTail5/ooTail6
+        weight: 1
+      - path: ooHub001/ooTail1/ooTail2/ooTail3/ooTail4/ooTail5/ooTail6/ooTail7
+        weight: 1
+      - path: ooHub001/ooTail1/ooTail2/ooTail3/ooTail4/ooTail5/ooTail6/ooTail7/ooTail8
+        weight: 1
+      - path: ooHub001/ooTail1/ooTail2/ooTail3/ooTail4/ooTail5/ooTail6/ooTail7/ooTail8/ooTail9
+        weight: 1
+      - path: ooLLegPlatform
+        weight: 1
+      - path: ooLLegPlatform 1
+        weight: 1
+      - path: ooLLegPlatform 2
+        weight: 1
+      - path: ooLLegPlatform 3
+        weight: 1
+      - path: ooRLegPlatform
+        weight: 1
+      - path: ooRLegPlatform 1
+        weight: 1
+      - path: "VR_\u5149\u6E90001"
+        weight: 1
+      - path: "VR_\u5149\u6E90002"
+        weight: 1
+      - path: "VR_\u5149\u6E90003"
+        weight: 1
+      - path: "VR_\u5149\u6E90004"
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

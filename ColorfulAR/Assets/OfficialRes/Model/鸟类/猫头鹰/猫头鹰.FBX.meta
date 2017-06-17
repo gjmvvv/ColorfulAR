@@ -1,0 +1,811 @@
+fileFormatVersion: 2
+guid: 7ab9da81ab5041941a54115936ba4460
+timeCreated: 1476091496
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: CATRig3Bone001
+    100002: CATRig3Bone001Bone001
+    100004: CATRig3Bone001Bone001 1
+    100006: CATRig3Bone001Bone001Bone001
+    100008: CATRig3Bone001Bone001Bone001 1
+    100010: CATRig3Bone002
+    100012: CATRigAnkleBone001
+    100014: CATRigAnkleBone001 1
+    100016: CATRigAnkleBone001Bone001
+    100018: CATRigAnkleBone001Bone001 1
+    100020: CATRigAnkleBone001Bone001 2
+    100022: CATRigAnkleBone001Bone001 3
+    100024: CATRigAnkleBone001Bone001 4
+    100026: CATRigAnkleBone001Bone001 5
+    100028: CATRigAnkleBone001Bone001 6
+    100030: CATRigAnkleBone001Bone001 7
+    100032: CATRigAnkleBone001Bone001Bone001
+    100034: CATRigAnkleBone001Bone001Bone001 1
+    100036: CATRigAnkleBone001Bone001Bone001 2
+    100038: CATRigAnkleBone001Bone001Bone001 3
+    100040: CATRigAnkleBone001Bone001Bone001 4
+    100042: CATRigAnkleBone001Bone001Bone001 5
+    100044: CATRigAnkleBone001Bone001Bone001 6
+    100046: CATRigAnkleBone001Bone001Bone001 7
+    100048: CATRigAnkleBone002
+    100050: CATRigAnkleBone002 1
+    100052: CATRigAnkleBone003
+    100054: CATRigAnkleBone003 1
+    100056: CATRigAnkleBone004
+    100058: CATRigAnkleBone004 1
+    100060: CATRigHub001
+    100062: CATRigHub001Bone001
+    100064: CATRigHub001Bone001Bone001
+    100066: CATRigHub001Bone001Bone001 1
+    100068: CATRigHub001Bone001Bone001Bone001
+    100070: CATRigHub001Bone001Bone001Bone001 1
+    100072: CATRigHub001Bone001Bone001Bone001Bone001
+    100074: CATRigHub001Bone001Bone001Bone001Bone001 1
+    100076: CATRigHub001Bone001Bone001Bone001Bone001Bone001
+    100078: CATRigHub001Bone001Bone001Bone001Bone001Bone001 1
+    100080: CATRigHub001Bone001Bone001Bone001Bone001Bone001Bone001
+    100082: CATRigHub001Bone001Bone001Bone001Bone001Bone001Bone001 1
+    100084: CATRigHub001Bone001Bone001Bone001Bone001Bone001Bone001Bone001
+    100086: CATRigHub001Bone001Bone001Bone001Bone001Bone001Bone001Bone001 1
+    100088: CATRigHub001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001
+    100090: CATRigHub001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001 1
+    100092: CATRigHub001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone002
+    100094: CATRigHub001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone002 1
+    100096: CATRigHub001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone002Bone001
+    100098: CATRigHub001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone002Bone001
+      1
+    100100: CATRigHub001Bone001Bone001Bone001Bone001Bone001Bone001Bone002
+    100102: CATRigHub001Bone001Bone001Bone001Bone001Bone001Bone001Bone002 1
+    100104: CATRigHub001Bone001Bone001Bone001Bone001Bone002
+    100106: CATRigHub001Bone001Bone001Bone001Bone001Bone002 1
+    100108: CATRigHub001Bone001Bone001Bone001Bone001Bone002Bone001
+    100110: CATRigHub001Bone001Bone001Bone001Bone001Bone002Bone001 1
+    100112: CATRigHub001Bone001Bone001Bone001Bone002
+    100114: CATRigHub001Bone001Bone001Bone001Bone002 1
+    100116: CATRigHub001Bone001Bone001Bone001Bone002Bone001
+    100118: CATRigHub001Bone001Bone001Bone001Bone002Bone001 1
+    100120: CATRigHub001Bone001Bone002
+    100122: CATRigHub001Bone001Bone002 1
+    100124: CATRigHub001Bone001Bone002Bone001
+    100126: CATRigHub001Bone001Bone002Bone001 1
+    100128: CATRigHub001Bone002
+    100130: CATRigHub002
+    100132: CATRigHub002Bone001
+    100134: CATRigHub002Bone001Bone001
+    100136: CATRigHub002Bone001Bone001 1
+    100138: CATRigHub002Bone002
+    100140: CATRigLLeg1
+    100142: CATRigLLeg2
+    100144: CATRigLLegAnkle
+    100146: CATRigLLegPlatform
+    100148: CATRigRLeg1
+    100150: CATRigRLeg2
+    100152: CATRigRLegAnkle
+    100154: CATRigRLegPlatform
+    100156: CATRigSpine2
+    100158: CATRigSpine3
+    100160: CATRigSpine4
+    100162: CATRigSpine5
+    100164: CATRigSpineCATRigSpine1
+    100166: CATRigTail1
+    100168: CATRigTail2
+    100170: CATRigTail3
+    100172: CATRigTail4
+    100174: CATRigTail5
+    100176: CATRigTail6
+    100178: Character001
+    100180: Figure_4_node
+    100182: ShuCha
+    100184: //RootNode
+    400000: CATRig3Bone001
+    400002: CATRig3Bone001Bone001
+    400004: CATRig3Bone001Bone001 1
+    400006: CATRig3Bone001Bone001Bone001
+    400008: CATRig3Bone001Bone001Bone001 1
+    400010: CATRig3Bone002
+    400012: CATRigAnkleBone001
+    400014: CATRigAnkleBone001 1
+    400016: CATRigAnkleBone001Bone001
+    400018: CATRigAnkleBone001Bone001 1
+    400020: CATRigAnkleBone001Bone001 2
+    400022: CATRigAnkleBone001Bone001 3
+    400024: CATRigAnkleBone001Bone001 4
+    400026: CATRigAnkleBone001Bone001 5
+    400028: CATRigAnkleBone001Bone001 6
+    400030: CATRigAnkleBone001Bone001 7
+    400032: CATRigAnkleBone001Bone001Bone001
+    400034: CATRigAnkleBone001Bone001Bone001 1
+    400036: CATRigAnkleBone001Bone001Bone001 2
+    400038: CATRigAnkleBone001Bone001Bone001 3
+    400040: CATRigAnkleBone001Bone001Bone001 4
+    400042: CATRigAnkleBone001Bone001Bone001 5
+    400044: CATRigAnkleBone001Bone001Bone001 6
+    400046: CATRigAnkleBone001Bone001Bone001 7
+    400048: CATRigAnkleBone002
+    400050: CATRigAnkleBone002 1
+    400052: CATRigAnkleBone003
+    400054: CATRigAnkleBone003 1
+    400056: CATRigAnkleBone004
+    400058: CATRigAnkleBone004 1
+    400060: CATRigHub001
+    400062: CATRigHub001Bone001
+    400064: CATRigHub001Bone001Bone001
+    400066: CATRigHub001Bone001Bone001 1
+    400068: CATRigHub001Bone001Bone001Bone001
+    400070: CATRigHub001Bone001Bone001Bone001 1
+    400072: CATRigHub001Bone001Bone001Bone001Bone001
+    400074: CATRigHub001Bone001Bone001Bone001Bone001 1
+    400076: CATRigHub001Bone001Bone001Bone001Bone001Bone001
+    400078: CATRigHub001Bone001Bone001Bone001Bone001Bone001 1
+    400080: CATRigHub001Bone001Bone001Bone001Bone001Bone001Bone001
+    400082: CATRigHub001Bone001Bone001Bone001Bone001Bone001Bone001 1
+    400084: CATRigHub001Bone001Bone001Bone001Bone001Bone001Bone001Bone001
+    400086: CATRigHub001Bone001Bone001Bone001Bone001Bone001Bone001Bone001 1
+    400088: CATRigHub001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001
+    400090: CATRigHub001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001 1
+    400092: CATRigHub001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone002
+    400094: CATRigHub001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone002 1
+    400096: CATRigHub001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone002Bone001
+    400098: CATRigHub001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone002Bone001
+      1
+    400100: CATRigHub001Bone001Bone001Bone001Bone001Bone001Bone001Bone002
+    400102: CATRigHub001Bone001Bone001Bone001Bone001Bone001Bone001Bone002 1
+    400104: CATRigHub001Bone001Bone001Bone001Bone001Bone002
+    400106: CATRigHub001Bone001Bone001Bone001Bone001Bone002 1
+    400108: CATRigHub001Bone001Bone001Bone001Bone001Bone002Bone001
+    400110: CATRigHub001Bone001Bone001Bone001Bone001Bone002Bone001 1
+    400112: CATRigHub001Bone001Bone001Bone001Bone002
+    400114: CATRigHub001Bone001Bone001Bone001Bone002 1
+    400116: CATRigHub001Bone001Bone001Bone001Bone002Bone001
+    400118: CATRigHub001Bone001Bone001Bone001Bone002Bone001 1
+    400120: CATRigHub001Bone001Bone002
+    400122: CATRigHub001Bone001Bone002 1
+    400124: CATRigHub001Bone001Bone002Bone001
+    400126: CATRigHub001Bone001Bone002Bone001 1
+    400128: CATRigHub001Bone002
+    400130: CATRigHub002
+    400132: CATRigHub002Bone001
+    400134: CATRigHub002Bone001Bone001
+    400136: CATRigHub002Bone001Bone001 1
+    400138: CATRigHub002Bone002
+    400140: CATRigLLeg1
+    400142: CATRigLLeg2
+    400144: CATRigLLegAnkle
+    400146: CATRigLLegPlatform
+    400148: CATRigRLeg1
+    400150: CATRigRLeg2
+    400152: CATRigRLegAnkle
+    400154: CATRigRLegPlatform
+    400156: CATRigSpine2
+    400158: CATRigSpine3
+    400160: CATRigSpine4
+    400162: CATRigSpine5
+    400164: CATRigSpineCATRigSpine1
+    400166: CATRigTail1
+    400168: CATRigTail2
+    400170: CATRigTail3
+    400172: CATRigTail4
+    400174: CATRigTail5
+    400176: CATRigTail6
+    400178: Character001
+    400180: Figure_4_node
+    400182: ShuCha
+    400184: //RootNode
+    2300000: ShuCha
+    3300000: ShuCha
+    4300000: Figure_4_node
+    4300002: ShuCha
+    7400000: Take 001
+    7400002: Take 002
+    9500000: //RootNode
+    13700000: Figure_4_node
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 136
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: CATRigHub001
+        weight: 1
+      - path: CATRigHub001/CATRigHub001Bone001
+        weight: 1
+      - path: CATRigHub001/CATRigHub001Bone001/CATRigHub001Bone001Bone001
+        weight: 1
+      - path: CATRigHub001/CATRigHub001Bone001/CATRigHub001Bone001Bone001/CATRigHub001Bone001Bone001Bone001
+        weight: 1
+      - path: CATRigHub001/CATRigHub001Bone001/CATRigHub001Bone001Bone001/CATRigHub001Bone001Bone001Bone001/CATRigHub001Bone001Bone001Bone001Bone001
+        weight: 1
+      - path: CATRigHub001/CATRigHub001Bone001/CATRigHub001Bone001Bone001/CATRigHub001Bone001Bone001Bone001/CATRigHub001Bone001Bone001Bone001Bone001/CATRigHub001Bone001Bone001Bone001Bone001Bone001
+        weight: 1
+      - path: CATRigHub001/CATRigHub001Bone001/CATRigHub001Bone001Bone001/CATRigHub001Bone001Bone001Bone001/CATRigHub001Bone001Bone001Bone001Bone001/CATRigHub001Bone001Bone001Bone001Bone001Bone001/CATRigHub001Bone001Bone001Bone001Bone001Bone001Bone001
+        weight: 1
+      - path: CATRigHub001/CATRigHub001Bone001/CATRigHub001Bone001Bone001/CATRigHub001Bone001Bone001Bone001/CATRigHub001Bone001Bone001Bone001Bone001/CATRigHub001Bone001Bone001Bone001Bone001Bone001/CATRigHub001Bone001Bone001Bone001Bone001Bone001Bone001/CATRigHub001Bone001Bone001Bone001Bone001Bone001Bone001Bone001
+        weight: 1
+      - path: CATRigHub001/CATRigHub001Bone001/CATRigHub001Bone001Bone001/CATRigHub001Bone001Bone001Bone001/CATRigHub001Bone001Bone001Bone001Bone001/CATRigHub001Bone001Bone001Bone001Bone001Bone001/CATRigHub001Bone001Bone001Bone001Bone001Bone001Bone001/CATRigHub001Bone001Bone001Bone001Bone001Bone001Bone001Bone001/CATRigHub001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001
+        weight: 1
+      - path: CATRigHub001/CATRigHub001Bone001/CATRigHub001Bone001Bone001/CATRigHub001Bone001Bone001Bone001/CATRigHub001Bone001Bone001Bone001Bone001/CATRigHub001Bone001Bone001Bone001Bone001Bone001/CATRigHub001Bone001Bone001Bone001Bone001Bone001Bone001/CATRigHub001Bone001Bone001Bone001Bone001Bone001Bone001Bone001/CATRigHub001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone002
+        weight: 1
+      - path: CATRigHub001/CATRigHub001Bone001/CATRigHub001Bone001Bone001/CATRigHub001Bone001Bone001Bone001/CATRigHub001Bone001Bone001Bone001Bone001/CATRigHub001Bone001Bone001Bone001Bone001Bone001/CATRigHub001Bone001Bone001Bone001Bone001Bone001Bone001/CATRigHub001Bone001Bone001Bone001Bone001Bone001Bone001Bone001/CATRigHub001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone002/CATRigHub001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone002Bone001
+        weight: 1
+      - path: CATRigHub001/CATRigHub001Bone001/CATRigHub001Bone001Bone001/CATRigHub001Bone001Bone001Bone001/CATRigHub001Bone001Bone001Bone001Bone001/CATRigHub001Bone001Bone001Bone001Bone001Bone001/CATRigHub001Bone001Bone001Bone001Bone001Bone001Bone001/CATRigHub001Bone001Bone001Bone001Bone001Bone001Bone001Bone002
+        weight: 1
+      - path: CATRigHub001/CATRigHub001Bone001/CATRigHub001Bone001Bone001/CATRigHub001Bone001Bone001Bone001/CATRigHub001Bone001Bone001Bone001Bone001/CATRigHub001Bone001Bone001Bone001Bone001Bone002
+        weight: 1
+      - path: CATRigHub001/CATRigHub001Bone001/CATRigHub001Bone001Bone001/CATRigHub001Bone001Bone001Bone001/CATRigHub001Bone001Bone001Bone001Bone001/CATRigHub001Bone001Bone001Bone001Bone001Bone002/CATRigHub001Bone001Bone001Bone001Bone001Bone002Bone001
+        weight: 1
+      - path: CATRigHub001/CATRigHub001Bone001/CATRigHub001Bone001Bone001/CATRigHub001Bone001Bone001Bone001/CATRigHub001Bone001Bone001Bone001Bone002
+        weight: 1
+      - path: CATRigHub001/CATRigHub001Bone001/CATRigHub001Bone001Bone001/CATRigHub001Bone001Bone001Bone001/CATRigHub001Bone001Bone001Bone001Bone002/CATRigHub001Bone001Bone001Bone001Bone002Bone001
+        weight: 1
+      - path: CATRigHub001/CATRigHub001Bone001/CATRigHub001Bone001Bone002
+        weight: 1
+      - path: CATRigHub001/CATRigHub001Bone001/CATRigHub001Bone001Bone002/CATRigHub001Bone001Bone002Bone001
+        weight: 1
+      - path: CATRigHub001/CATRigHub001Bone002
+        weight: 1
+      - path: CATRigHub001/CATRigHub001Bone002/CATRigHub001Bone001Bone001 1
+        weight: 1
+      - path: CATRigHub001/CATRigHub001Bone002/CATRigHub001Bone001Bone001 1/CATRigHub001Bone001Bone001Bone001
+          1
+        weight: 1
+      - path: CATRigHub001/CATRigHub001Bone002/CATRigHub001Bone001Bone001 1/CATRigHub001Bone001Bone001Bone001
+          1/CATRigHub001Bone001Bone001Bone001Bone001 1
+        weight: 1
+      - path: CATRigHub001/CATRigHub001Bone002/CATRigHub001Bone001Bone001 1/CATRigHub001Bone001Bone001Bone001
+          1/CATRigHub001Bone001Bone001Bone001Bone001 1/CATRigHub001Bone001Bone001Bone001Bone001Bone001
+          1
+        weight: 1
+      - path: CATRigHub001/CATRigHub001Bone002/CATRigHub001Bone001Bone001 1/CATRigHub001Bone001Bone001Bone001
+          1/CATRigHub001Bone001Bone001Bone001Bone001 1/CATRigHub001Bone001Bone001Bone001Bone001Bone001
+          1/CATRigHub001Bone001Bone001Bone001Bone001Bone001Bone001 1
+        weight: 1
+      - path: CATRigHub001/CATRigHub001Bone002/CATRigHub001Bone001Bone001 1/CATRigHub001Bone001Bone001Bone001
+          1/CATRigHub001Bone001Bone001Bone001Bone001 1/CATRigHub001Bone001Bone001Bone001Bone001Bone001
+          1/CATRigHub001Bone001Bone001Bone001Bone001Bone001Bone001 1/CATRigHub001Bone001Bone001Bone001Bone001Bone001Bone001Bone001
+          1
+        weight: 1
+      - path: CATRigHub001/CATRigHub001Bone002/CATRigHub001Bone001Bone001 1/CATRigHub001Bone001Bone001Bone001
+          1/CATRigHub001Bone001Bone001Bone001Bone001 1/CATRigHub001Bone001Bone001Bone001Bone001Bone001
+          1/CATRigHub001Bone001Bone001Bone001Bone001Bone001Bone001 1/CATRigHub001Bone001Bone001Bone001Bone001Bone001Bone001Bone001
+          1/CATRigHub001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001 1
+        weight: 1
+      - path: CATRigHub001/CATRigHub001Bone002/CATRigHub001Bone001Bone001 1/CATRigHub001Bone001Bone001Bone001
+          1/CATRigHub001Bone001Bone001Bone001Bone001 1/CATRigHub001Bone001Bone001Bone001Bone001Bone001
+          1/CATRigHub001Bone001Bone001Bone001Bone001Bone001Bone001 1/CATRigHub001Bone001Bone001Bone001Bone001Bone001Bone001Bone001
+          1/CATRigHub001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone002 1
+        weight: 1
+      - path: CATRigHub001/CATRigHub001Bone002/CATRigHub001Bone001Bone001 1/CATRigHub001Bone001Bone001Bone001
+          1/CATRigHub001Bone001Bone001Bone001Bone001 1/CATRigHub001Bone001Bone001Bone001Bone001Bone001
+          1/CATRigHub001Bone001Bone001Bone001Bone001Bone001Bone001 1/CATRigHub001Bone001Bone001Bone001Bone001Bone001Bone001Bone001
+          1/CATRigHub001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone002 1/CATRigHub001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone002Bone001
+          1
+        weight: 1
+      - path: CATRigHub001/CATRigHub001Bone002/CATRigHub001Bone001Bone001 1/CATRigHub001Bone001Bone001Bone001
+          1/CATRigHub001Bone001Bone001Bone001Bone001 1/CATRigHub001Bone001Bone001Bone001Bone001Bone001
+          1/CATRigHub001Bone001Bone001Bone001Bone001Bone001Bone001 1/CATRigHub001Bone001Bone001Bone001Bone001Bone001Bone001Bone002
+          1
+        weight: 1
+      - path: CATRigHub001/CATRigHub001Bone002/CATRigHub001Bone001Bone001 1/CATRigHub001Bone001Bone001Bone001
+          1/CATRigHub001Bone001Bone001Bone001Bone001 1/CATRigHub001Bone001Bone001Bone001Bone001Bone002
+          1
+        weight: 1
+      - path: CATRigHub001/CATRigHub001Bone002/CATRigHub001Bone001Bone001 1/CATRigHub001Bone001Bone001Bone001
+          1/CATRigHub001Bone001Bone001Bone001Bone001 1/CATRigHub001Bone001Bone001Bone001Bone001Bone002
+          1/CATRigHub001Bone001Bone001Bone001Bone001Bone002Bone001 1
+        weight: 1
+      - path: CATRigHub001/CATRigHub001Bone002/CATRigHub001Bone001Bone001 1/CATRigHub001Bone001Bone001Bone001
+          1/CATRigHub001Bone001Bone001Bone001Bone002 1
+        weight: 1
+      - path: CATRigHub001/CATRigHub001Bone002/CATRigHub001Bone001Bone001 1/CATRigHub001Bone001Bone001Bone001
+          1/CATRigHub001Bone001Bone001Bone001Bone002 1/CATRigHub001Bone001Bone001Bone001Bone002Bone001
+          1
+        weight: 1
+      - path: CATRigHub001/CATRigHub001Bone002/CATRigHub001Bone001Bone002 1
+        weight: 1
+      - path: CATRigHub001/CATRigHub001Bone002/CATRigHub001Bone001Bone002 1/CATRigHub001Bone001Bone002Bone001
+          1
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1/CATRigLLeg2
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1/CATRigLLeg2/CATRigLLegAnkle
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1/CATRigLLeg2/CATRigLLegAnkle/CATRigAnkleBone001
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1/CATRigLLeg2/CATRigLLegAnkle/CATRigAnkleBone001/CATRigAnkleBone001Bone001
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1/CATRigLLeg2/CATRigLLegAnkle/CATRigAnkleBone001/CATRigAnkleBone001Bone001/CATRigAnkleBone001Bone001Bone001
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1/CATRigLLeg2/CATRigLLegAnkle/CATRigAnkleBone002
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1/CATRigLLeg2/CATRigLLegAnkle/CATRigAnkleBone002/CATRigAnkleBone001Bone001
+          1
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1/CATRigLLeg2/CATRigLLegAnkle/CATRigAnkleBone002/CATRigAnkleBone001Bone001
+          1/CATRigAnkleBone001Bone001Bone001 1
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1/CATRigLLeg2/CATRigLLegAnkle/CATRigAnkleBone003
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1/CATRigLLeg2/CATRigLLegAnkle/CATRigAnkleBone003/CATRigAnkleBone001Bone001
+          2
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1/CATRigLLeg2/CATRigLLegAnkle/CATRigAnkleBone003/CATRigAnkleBone001Bone001
+          2/CATRigAnkleBone001Bone001Bone001 2
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1/CATRigLLeg2/CATRigLLegAnkle/CATRigAnkleBone004
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1/CATRigLLeg2/CATRigLLegAnkle/CATRigAnkleBone004/CATRigAnkleBone001Bone001
+          3
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1/CATRigLLeg2/CATRigLLegAnkle/CATRigAnkleBone004/CATRigAnkleBone001Bone001
+          3/CATRigAnkleBone001Bone001Bone001 3
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1/CATRigRLeg2
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1/CATRigRLeg2/CATRigRLegAnkle
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1/CATRigRLeg2/CATRigRLegAnkle/CATRigAnkleBone001
+          1
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1/CATRigRLeg2/CATRigRLegAnkle/CATRigAnkleBone001
+          1/CATRigAnkleBone001Bone001 4
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1/CATRigRLeg2/CATRigRLegAnkle/CATRigAnkleBone001
+          1/CATRigAnkleBone001Bone001 4/CATRigAnkleBone001Bone001Bone001 4
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1/CATRigRLeg2/CATRigRLegAnkle/CATRigAnkleBone002
+          1
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1/CATRigRLeg2/CATRigRLegAnkle/CATRigAnkleBone002
+          1/CATRigAnkleBone001Bone001 5
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1/CATRigRLeg2/CATRigRLegAnkle/CATRigAnkleBone002
+          1/CATRigAnkleBone001Bone001 5/CATRigAnkleBone001Bone001Bone001 5
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1/CATRigRLeg2/CATRigRLegAnkle/CATRigAnkleBone003
+          1
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1/CATRigRLeg2/CATRigRLegAnkle/CATRigAnkleBone003
+          1/CATRigAnkleBone001Bone001 6
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1/CATRigRLeg2/CATRigRLegAnkle/CATRigAnkleBone003
+          1/CATRigAnkleBone001Bone001 6/CATRigAnkleBone001Bone001Bone001 6
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1/CATRigRLeg2/CATRigRLegAnkle/CATRigAnkleBone004
+          1
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1/CATRigRLeg2/CATRigRLegAnkle/CATRigAnkleBone004
+          1/CATRigAnkleBone001Bone001 7
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1/CATRigRLeg2/CATRigRLegAnkle/CATRigAnkleBone004
+          1/CATRigAnkleBone001Bone001 7/CATRigAnkleBone001Bone001Bone001 7
+        weight: 1
+      - path: CATRigHub001/CATRigSpineCATRigSpine1
+        weight: 1
+      - path: CATRigHub001/CATRigSpineCATRigSpine1/CATRigSpine2
+        weight: 1
+      - path: CATRigHub001/CATRigSpineCATRigSpine1/CATRigSpine2/CATRigSpine3
+        weight: 1
+      - path: CATRigHub001/CATRigSpineCATRigSpine1/CATRigSpine2/CATRigSpine3/CATRigSpine4
+        weight: 1
+      - path: CATRigHub001/CATRigSpineCATRigSpine1/CATRigSpine2/CATRigSpine3/CATRigSpine4/CATRigSpine5
+        weight: 1
+      - path: CATRigHub001/CATRigSpineCATRigSpine1/CATRigSpine2/CATRigSpine3/CATRigSpine4/CATRigSpine5/CATRigHub002
+        weight: 1
+      - path: CATRigHub001/CATRigSpineCATRigSpine1/CATRigSpine2/CATRigSpine3/CATRigSpine4/CATRigSpine5/CATRigHub002/CATRigHub002Bone001
+        weight: 1
+      - path: CATRigHub001/CATRigSpineCATRigSpine1/CATRigSpine2/CATRigSpine3/CATRigSpine4/CATRigSpine5/CATRigHub002/CATRigHub002Bone001/CATRigHub002Bone001Bone001
+        weight: 1
+      - path: CATRigHub001/CATRigSpineCATRigSpine1/CATRigSpine2/CATRigSpine3/CATRigSpine4/CATRigSpine5/CATRigHub002/CATRigHub002Bone002
+        weight: 1
+      - path: CATRigHub001/CATRigSpineCATRigSpine1/CATRigSpine2/CATRigSpine3/CATRigSpine4/CATRigSpine5/CATRigHub002/CATRigHub002Bone002/CATRigHub002Bone001Bone001
+          1
+        weight: 1
+      - path: CATRigHub001/CATRigTail1
+        weight: 1
+      - path: CATRigHub001/CATRigTail1/CATRigTail2
+        weight: 1
+      - path: CATRigHub001/CATRigTail1/CATRigTail2/CATRigTail3
+        weight: 1
+      - path: CATRigHub001/CATRigTail1/CATRigTail2/CATRigTail3/CATRig3Bone001
+        weight: 1
+      - path: CATRigHub001/CATRigTail1/CATRigTail2/CATRigTail3/CATRig3Bone001/CATRig3Bone001Bone001
+        weight: 1
+      - path: CATRigHub001/CATRigTail1/CATRigTail2/CATRigTail3/CATRig3Bone001/CATRig3Bone001Bone001/CATRig3Bone001Bone001Bone001
+        weight: 1
+      - path: CATRigHub001/CATRigTail1/CATRigTail2/CATRigTail3/CATRig3Bone002
+        weight: 1
+      - path: CATRigHub001/CATRigTail1/CATRigTail2/CATRigTail3/CATRig3Bone002/CATRig3Bone001Bone001
+          1
+        weight: 1
+      - path: CATRigHub001/CATRigTail1/CATRigTail2/CATRigTail3/CATRig3Bone002/CATRig3Bone001Bone001
+          1/CATRig3Bone001Bone001Bone001 1
+        weight: 1
+      - path: CATRigHub001/CATRigTail1/CATRigTail2/CATRigTail3/CATRigTail4
+        weight: 1
+      - path: CATRigHub001/CATRigTail1/CATRigTail2/CATRigTail3/CATRigTail4/CATRigTail5
+        weight: 1
+      - path: CATRigHub001/CATRigTail1/CATRigTail2/CATRigTail3/CATRigTail4/CATRigTail5/CATRigTail6
+        weight: 1
+      - path: CATRigLLegPlatform
+        weight: 1
+      - path: CATRigRLegPlatform
+        weight: 1
+      - path: Character001
+        weight: 1
+      - path: Figure_4_node
+        weight: 1
+      - path: ShuCha
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Take 002
+      takeName: Take 001
+      firstFrame: 136
+      lastFrame: 231
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 1
+        functionName: Stop
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0
+        functionName: PlayAudio
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: CATRigHub001
+        weight: 1
+      - path: CATRigHub001/CATRigHub001Bone001
+        weight: 1
+      - path: CATRigHub001/CATRigHub001Bone001/CATRigHub001Bone001Bone001
+        weight: 1
+      - path: CATRigHub001/CATRigHub001Bone001/CATRigHub001Bone001Bone001/CATRigHub001Bone001Bone001Bone001
+        weight: 1
+      - path: CATRigHub001/CATRigHub001Bone001/CATRigHub001Bone001Bone001/CATRigHub001Bone001Bone001Bone001/CATRigHub001Bone001Bone001Bone001Bone001
+        weight: 1
+      - path: CATRigHub001/CATRigHub001Bone001/CATRigHub001Bone001Bone001/CATRigHub001Bone001Bone001Bone001/CATRigHub001Bone001Bone001Bone001Bone001/CATRigHub001Bone001Bone001Bone001Bone001Bone001
+        weight: 1
+      - path: CATRigHub001/CATRigHub001Bone001/CATRigHub001Bone001Bone001/CATRigHub001Bone001Bone001Bone001/CATRigHub001Bone001Bone001Bone001Bone001/CATRigHub001Bone001Bone001Bone001Bone001Bone001/CATRigHub001Bone001Bone001Bone001Bone001Bone001Bone001
+        weight: 1
+      - path: CATRigHub001/CATRigHub001Bone001/CATRigHub001Bone001Bone001/CATRigHub001Bone001Bone001Bone001/CATRigHub001Bone001Bone001Bone001Bone001/CATRigHub001Bone001Bone001Bone001Bone001Bone001/CATRigHub001Bone001Bone001Bone001Bone001Bone001Bone001/CATRigHub001Bone001Bone001Bone001Bone001Bone001Bone001Bone001
+        weight: 1
+      - path: CATRigHub001/CATRigHub001Bone001/CATRigHub001Bone001Bone001/CATRigHub001Bone001Bone001Bone001/CATRigHub001Bone001Bone001Bone001Bone001/CATRigHub001Bone001Bone001Bone001Bone001Bone001/CATRigHub001Bone001Bone001Bone001Bone001Bone001Bone001/CATRigHub001Bone001Bone001Bone001Bone001Bone001Bone001Bone001/CATRigHub001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001
+        weight: 1
+      - path: CATRigHub001/CATRigHub001Bone001/CATRigHub001Bone001Bone001/CATRigHub001Bone001Bone001Bone001/CATRigHub001Bone001Bone001Bone001Bone001/CATRigHub001Bone001Bone001Bone001Bone001Bone001/CATRigHub001Bone001Bone001Bone001Bone001Bone001Bone001/CATRigHub001Bone001Bone001Bone001Bone001Bone001Bone001Bone001/CATRigHub001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone002
+        weight: 1
+      - path: CATRigHub001/CATRigHub001Bone001/CATRigHub001Bone001Bone001/CATRigHub001Bone001Bone001Bone001/CATRigHub001Bone001Bone001Bone001Bone001/CATRigHub001Bone001Bone001Bone001Bone001Bone001/CATRigHub001Bone001Bone001Bone001Bone001Bone001Bone001/CATRigHub001Bone001Bone001Bone001Bone001Bone001Bone001Bone001/CATRigHub001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone002/CATRigHub001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone002Bone001
+        weight: 1
+      - path: CATRigHub001/CATRigHub001Bone001/CATRigHub001Bone001Bone001/CATRigHub001Bone001Bone001Bone001/CATRigHub001Bone001Bone001Bone001Bone001/CATRigHub001Bone001Bone001Bone001Bone001Bone001/CATRigHub001Bone001Bone001Bone001Bone001Bone001Bone001/CATRigHub001Bone001Bone001Bone001Bone001Bone001Bone001Bone002
+        weight: 1
+      - path: CATRigHub001/CATRigHub001Bone001/CATRigHub001Bone001Bone001/CATRigHub001Bone001Bone001Bone001/CATRigHub001Bone001Bone001Bone001Bone001/CATRigHub001Bone001Bone001Bone001Bone001Bone002
+        weight: 1
+      - path: CATRigHub001/CATRigHub001Bone001/CATRigHub001Bone001Bone001/CATRigHub001Bone001Bone001Bone001/CATRigHub001Bone001Bone001Bone001Bone001/CATRigHub001Bone001Bone001Bone001Bone001Bone002/CATRigHub001Bone001Bone001Bone001Bone001Bone002Bone001
+        weight: 1
+      - path: CATRigHub001/CATRigHub001Bone001/CATRigHub001Bone001Bone001/CATRigHub001Bone001Bone001Bone001/CATRigHub001Bone001Bone001Bone001Bone002
+        weight: 1
+      - path: CATRigHub001/CATRigHub001Bone001/CATRigHub001Bone001Bone001/CATRigHub001Bone001Bone001Bone001/CATRigHub001Bone001Bone001Bone001Bone002/CATRigHub001Bone001Bone001Bone001Bone002Bone001
+        weight: 1
+      - path: CATRigHub001/CATRigHub001Bone001/CATRigHub001Bone001Bone002
+        weight: 1
+      - path: CATRigHub001/CATRigHub001Bone001/CATRigHub001Bone001Bone002/CATRigHub001Bone001Bone002Bone001
+        weight: 1
+      - path: CATRigHub001/CATRigHub001Bone002
+        weight: 1
+      - path: CATRigHub001/CATRigHub001Bone002/CATRigHub001Bone001Bone001 1
+        weight: 1
+      - path: CATRigHub001/CATRigHub001Bone002/CATRigHub001Bone001Bone001 1/CATRigHub001Bone001Bone001Bone001
+          1
+        weight: 1
+      - path: CATRigHub001/CATRigHub001Bone002/CATRigHub001Bone001Bone001 1/CATRigHub001Bone001Bone001Bone001
+          1/CATRigHub001Bone001Bone001Bone001Bone001 1
+        weight: 1
+      - path: CATRigHub001/CATRigHub001Bone002/CATRigHub001Bone001Bone001 1/CATRigHub001Bone001Bone001Bone001
+          1/CATRigHub001Bone001Bone001Bone001Bone001 1/CATRigHub001Bone001Bone001Bone001Bone001Bone001
+          1
+        weight: 1
+      - path: CATRigHub001/CATRigHub001Bone002/CATRigHub001Bone001Bone001 1/CATRigHub001Bone001Bone001Bone001
+          1/CATRigHub001Bone001Bone001Bone001Bone001 1/CATRigHub001Bone001Bone001Bone001Bone001Bone001
+          1/CATRigHub001Bone001Bone001Bone001Bone001Bone001Bone001 1
+        weight: 1
+      - path: CATRigHub001/CATRigHub001Bone002/CATRigHub001Bone001Bone001 1/CATRigHub001Bone001Bone001Bone001
+          1/CATRigHub001Bone001Bone001Bone001Bone001 1/CATRigHub001Bone001Bone001Bone001Bone001Bone001
+          1/CATRigHub001Bone001Bone001Bone001Bone001Bone001Bone001 1/CATRigHub001Bone001Bone001Bone001Bone001Bone001Bone001Bone001
+          1
+        weight: 1
+      - path: CATRigHub001/CATRigHub001Bone002/CATRigHub001Bone001Bone001 1/CATRigHub001Bone001Bone001Bone001
+          1/CATRigHub001Bone001Bone001Bone001Bone001 1/CATRigHub001Bone001Bone001Bone001Bone001Bone001
+          1/CATRigHub001Bone001Bone001Bone001Bone001Bone001Bone001 1/CATRigHub001Bone001Bone001Bone001Bone001Bone001Bone001Bone001
+          1/CATRigHub001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001 1
+        weight: 1
+      - path: CATRigHub001/CATRigHub001Bone002/CATRigHub001Bone001Bone001 1/CATRigHub001Bone001Bone001Bone001
+          1/CATRigHub001Bone001Bone001Bone001Bone001 1/CATRigHub001Bone001Bone001Bone001Bone001Bone001
+          1/CATRigHub001Bone001Bone001Bone001Bone001Bone001Bone001 1/CATRigHub001Bone001Bone001Bone001Bone001Bone001Bone001Bone001
+          1/CATRigHub001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone002 1
+        weight: 1
+      - path: CATRigHub001/CATRigHub001Bone002/CATRigHub001Bone001Bone001 1/CATRigHub001Bone001Bone001Bone001
+          1/CATRigHub001Bone001Bone001Bone001Bone001 1/CATRigHub001Bone001Bone001Bone001Bone001Bone001
+          1/CATRigHub001Bone001Bone001Bone001Bone001Bone001Bone001 1/CATRigHub001Bone001Bone001Bone001Bone001Bone001Bone001Bone001
+          1/CATRigHub001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone002 1/CATRigHub001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone002Bone001
+          1
+        weight: 1
+      - path: CATRigHub001/CATRigHub001Bone002/CATRigHub001Bone001Bone001 1/CATRigHub001Bone001Bone001Bone001
+          1/CATRigHub001Bone001Bone001Bone001Bone001 1/CATRigHub001Bone001Bone001Bone001Bone001Bone001
+          1/CATRigHub001Bone001Bone001Bone001Bone001Bone001Bone001 1/CATRigHub001Bone001Bone001Bone001Bone001Bone001Bone001Bone002
+          1
+        weight: 1
+      - path: CATRigHub001/CATRigHub001Bone002/CATRigHub001Bone001Bone001 1/CATRigHub001Bone001Bone001Bone001
+          1/CATRigHub001Bone001Bone001Bone001Bone001 1/CATRigHub001Bone001Bone001Bone001Bone001Bone002
+          1
+        weight: 1
+      - path: CATRigHub001/CATRigHub001Bone002/CATRigHub001Bone001Bone001 1/CATRigHub001Bone001Bone001Bone001
+          1/CATRigHub001Bone001Bone001Bone001Bone001 1/CATRigHub001Bone001Bone001Bone001Bone001Bone002
+          1/CATRigHub001Bone001Bone001Bone001Bone001Bone002Bone001 1
+        weight: 1
+      - path: CATRigHub001/CATRigHub001Bone002/CATRigHub001Bone001Bone001 1/CATRigHub001Bone001Bone001Bone001
+          1/CATRigHub001Bone001Bone001Bone001Bone002 1
+        weight: 1
+      - path: CATRigHub001/CATRigHub001Bone002/CATRigHub001Bone001Bone001 1/CATRigHub001Bone001Bone001Bone001
+          1/CATRigHub001Bone001Bone001Bone001Bone002 1/CATRigHub001Bone001Bone001Bone001Bone002Bone001
+          1
+        weight: 1
+      - path: CATRigHub001/CATRigHub001Bone002/CATRigHub001Bone001Bone002 1
+        weight: 1
+      - path: CATRigHub001/CATRigHub001Bone002/CATRigHub001Bone001Bone002 1/CATRigHub001Bone001Bone002Bone001
+          1
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1/CATRigLLeg2
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1/CATRigLLeg2/CATRigLLegAnkle
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1/CATRigLLeg2/CATRigLLegAnkle/CATRigAnkleBone001
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1/CATRigLLeg2/CATRigLLegAnkle/CATRigAnkleBone001/CATRigAnkleBone001Bone001
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1/CATRigLLeg2/CATRigLLegAnkle/CATRigAnkleBone001/CATRigAnkleBone001Bone001/CATRigAnkleBone001Bone001Bone001
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1/CATRigLLeg2/CATRigLLegAnkle/CATRigAnkleBone002
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1/CATRigLLeg2/CATRigLLegAnkle/CATRigAnkleBone002/CATRigAnkleBone001Bone001
+          1
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1/CATRigLLeg2/CATRigLLegAnkle/CATRigAnkleBone002/CATRigAnkleBone001Bone001
+          1/CATRigAnkleBone001Bone001Bone001 1
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1/CATRigLLeg2/CATRigLLegAnkle/CATRigAnkleBone003
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1/CATRigLLeg2/CATRigLLegAnkle/CATRigAnkleBone003/CATRigAnkleBone001Bone001
+          2
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1/CATRigLLeg2/CATRigLLegAnkle/CATRigAnkleBone003/CATRigAnkleBone001Bone001
+          2/CATRigAnkleBone001Bone001Bone001 2
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1/CATRigLLeg2/CATRigLLegAnkle/CATRigAnkleBone004
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1/CATRigLLeg2/CATRigLLegAnkle/CATRigAnkleBone004/CATRigAnkleBone001Bone001
+          3
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1/CATRigLLeg2/CATRigLLegAnkle/CATRigAnkleBone004/CATRigAnkleBone001Bone001
+          3/CATRigAnkleBone001Bone001Bone001 3
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1/CATRigRLeg2
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1/CATRigRLeg2/CATRigRLegAnkle
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1/CATRigRLeg2/CATRigRLegAnkle/CATRigAnkleBone001
+          1
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1/CATRigRLeg2/CATRigRLegAnkle/CATRigAnkleBone001
+          1/CATRigAnkleBone001Bone001 4
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1/CATRigRLeg2/CATRigRLegAnkle/CATRigAnkleBone001
+          1/CATRigAnkleBone001Bone001 4/CATRigAnkleBone001Bone001Bone001 4
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1/CATRigRLeg2/CATRigRLegAnkle/CATRigAnkleBone002
+          1
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1/CATRigRLeg2/CATRigRLegAnkle/CATRigAnkleBone002
+          1/CATRigAnkleBone001Bone001 5
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1/CATRigRLeg2/CATRigRLegAnkle/CATRigAnkleBone002
+          1/CATRigAnkleBone001Bone001 5/CATRigAnkleBone001Bone001Bone001 5
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1/CATRigRLeg2/CATRigRLegAnkle/CATRigAnkleBone003
+          1
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1/CATRigRLeg2/CATRigRLegAnkle/CATRigAnkleBone003
+          1/CATRigAnkleBone001Bone001 6
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1/CATRigRLeg2/CATRigRLegAnkle/CATRigAnkleBone003
+          1/CATRigAnkleBone001Bone001 6/CATRigAnkleBone001Bone001Bone001 6
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1/CATRigRLeg2/CATRigRLegAnkle/CATRigAnkleBone004
+          1
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1/CATRigRLeg2/CATRigRLegAnkle/CATRigAnkleBone004
+          1/CATRigAnkleBone001Bone001 7
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1/CATRigRLeg2/CATRigRLegAnkle/CATRigAnkleBone004
+          1/CATRigAnkleBone001Bone001 7/CATRigAnkleBone001Bone001Bone001 7
+        weight: 1
+      - path: CATRigHub001/CATRigSpineCATRigSpine1
+        weight: 1
+      - path: CATRigHub001/CATRigSpineCATRigSpine1/CATRigSpine2
+        weight: 1
+      - path: CATRigHub001/CATRigSpineCATRigSpine1/CATRigSpine2/CATRigSpine3
+        weight: 1
+      - path: CATRigHub001/CATRigSpineCATRigSpine1/CATRigSpine2/CATRigSpine3/CATRigSpine4
+        weight: 1
+      - path: CATRigHub001/CATRigSpineCATRigSpine1/CATRigSpine2/CATRigSpine3/CATRigSpine4/CATRigSpine5
+        weight: 1
+      - path: CATRigHub001/CATRigSpineCATRigSpine1/CATRigSpine2/CATRigSpine3/CATRigSpine4/CATRigSpine5/CATRigHub002
+        weight: 1
+      - path: CATRigHub001/CATRigSpineCATRigSpine1/CATRigSpine2/CATRigSpine3/CATRigSpine4/CATRigSpine5/CATRigHub002/CATRigHub002Bone001
+        weight: 1
+      - path: CATRigHub001/CATRigSpineCATRigSpine1/CATRigSpine2/CATRigSpine3/CATRigSpine4/CATRigSpine5/CATRigHub002/CATRigHub002Bone001/CATRigHub002Bone001Bone001
+        weight: 1
+      - path: CATRigHub001/CATRigSpineCATRigSpine1/CATRigSpine2/CATRigSpine3/CATRigSpine4/CATRigSpine5/CATRigHub002/CATRigHub002Bone002
+        weight: 1
+      - path: CATRigHub001/CATRigSpineCATRigSpine1/CATRigSpine2/CATRigSpine3/CATRigSpine4/CATRigSpine5/CATRigHub002/CATRigHub002Bone002/CATRigHub002Bone001Bone001
+          1
+        weight: 1
+      - path: CATRigHub001/CATRigTail1
+        weight: 1
+      - path: CATRigHub001/CATRigTail1/CATRigTail2
+        weight: 1
+      - path: CATRigHub001/CATRigTail1/CATRigTail2/CATRigTail3
+        weight: 1
+      - path: CATRigHub001/CATRigTail1/CATRigTail2/CATRigTail3/CATRig3Bone001
+        weight: 1
+      - path: CATRigHub001/CATRigTail1/CATRigTail2/CATRigTail3/CATRig3Bone001/CATRig3Bone001Bone001
+        weight: 1
+      - path: CATRigHub001/CATRigTail1/CATRigTail2/CATRigTail3/CATRig3Bone001/CATRig3Bone001Bone001/CATRig3Bone001Bone001Bone001
+        weight: 1
+      - path: CATRigHub001/CATRigTail1/CATRigTail2/CATRigTail3/CATRig3Bone002
+        weight: 1
+      - path: CATRigHub001/CATRigTail1/CATRigTail2/CATRigTail3/CATRig3Bone002/CATRig3Bone001Bone001
+          1
+        weight: 1
+      - path: CATRigHub001/CATRigTail1/CATRigTail2/CATRigTail3/CATRig3Bone002/CATRig3Bone001Bone001
+          1/CATRig3Bone001Bone001Bone001 1
+        weight: 1
+      - path: CATRigHub001/CATRigTail1/CATRigTail2/CATRigTail3/CATRigTail4
+        weight: 1
+      - path: CATRigHub001/CATRigTail1/CATRigTail2/CATRigTail3/CATRigTail4/CATRigTail5
+        weight: 1
+      - path: CATRigHub001/CATRigTail1/CATRigTail2/CATRigTail3/CATRigTail4/CATRigTail5/CATRigTail6
+        weight: 1
+      - path: CATRigLLegPlatform
+        weight: 1
+      - path: CATRigRLegPlatform
+        weight: 1
+      - path: Character001
+        weight: 1
+      - path: Figure_4_node
+        weight: 1
+      - path: ShuCha
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

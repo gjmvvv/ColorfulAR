@@ -1,0 +1,180 @@
+fileFormatVersion: 2
+guid: a7d0eeff85a7243419ea586d4134dc7c
+timeCreated: 1476091500
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: ankle2
+    100002: ankle3
+    100004: Beak
+    100006: foot2
+    100008: foot3
+    100010: Head
+    100012: HeronMesh
+    100014: knee2
+    100016: knee3
+    100018: Lhip
+    100020: MasterMover
+    100022: Neck1
+    100024: Neck2
+    100026: Neck3
+    100028: Neck4
+    100030: Rhip
+    100032: Root
+    100034: RootDummy
+    100036: //RootNode
+    400000: ankle2
+    400002: ankle3
+    400004: Beak
+    400006: foot2
+    400008: foot3
+    400010: Head
+    400012: HeronMesh
+    400014: knee2
+    400016: knee3
+    400018: Lhip
+    400020: MasterMover
+    400022: Neck1
+    400024: Neck2
+    400026: Neck3
+    400028: Neck4
+    400030: Rhip
+    400032: Root
+    400034: RootDummy
+    400036: //RootNode
+    4300000: HeronMesh
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: HeronMesh
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 200
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: HeronMesh
+        weight: 1
+      - path: MasterMover
+        weight: 1
+      - path: MasterMover/RootDummy
+        weight: 1
+      - path: MasterMover/RootDummy/Root
+        weight: 1
+      - path: MasterMover/RootDummy/Root/Lhip
+        weight: 1
+      - path: MasterMover/RootDummy/Root/Lhip/knee2
+        weight: 1
+      - path: MasterMover/RootDummy/Root/Lhip/knee2/ankle2
+        weight: 1
+      - path: MasterMover/RootDummy/Root/Lhip/knee2/ankle2/foot2
+        weight: 1
+      - path: MasterMover/RootDummy/Root/Neck1
+        weight: 1
+      - path: MasterMover/RootDummy/Root/Neck1/Neck2
+        weight: 1
+      - path: MasterMover/RootDummy/Root/Neck1/Neck2/Neck3
+        weight: 1
+      - path: MasterMover/RootDummy/Root/Neck1/Neck2/Neck3/Neck4
+        weight: 1
+      - path: MasterMover/RootDummy/Root/Neck1/Neck2/Neck3/Neck4/Head
+        weight: 1
+      - path: MasterMover/RootDummy/Root/Neck1/Neck2/Neck3/Neck4/Head/Beak
+        weight: 1
+      - path: MasterMover/RootDummy/Root/Rhip
+        weight: 1
+      - path: MasterMover/RootDummy/Root/Rhip/knee3
+        weight: 1
+      - path: MasterMover/RootDummy/Root/Rhip/knee3/ankle3
+        weight: 1
+      - path: MasterMover/RootDummy/Root/Rhip/knee3/ankle3/foot3
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 10
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 1
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: ec65ec36bfa41ff429eb227e158f71d3,
+    type: 3}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

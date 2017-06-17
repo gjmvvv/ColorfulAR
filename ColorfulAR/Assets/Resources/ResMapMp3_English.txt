@@ -1,0 +1,8 @@
+Elephant_E=TYPE_Mammal/Elephant/Elephant_E
+Koalas_E=TYPE_Mammal/Koalas/Koalas_E
+Rabbit_E=TYPE_Mammal/Rabbit/Rabbit_E
+Seals_E=TYPE_Mammal/Seals/Seals_E
+Sikadeer_E=TYPE_Mammal/Sikadeer/Sikadeer_E
+Squirrel_E=TYPE_Mammal/Squirrel/Squirrel_E
+Wildebeest_E=TYPE_Mammal/Wildebeest/Wildebeest_E
+zebra_E=TYPE_Mammal/zebra/zebra_E

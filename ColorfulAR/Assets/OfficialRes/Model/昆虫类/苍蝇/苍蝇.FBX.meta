@@ -1,0 +1,380 @@
+fileFormatVersion: 2
+guid: 36e7dbcc548d9c445932dfc920ee96d2
+timeCreated: 1476091489
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: fly
+    100002: FlyAntena_L1
+    100004: FlyAntena_L2
+    100006: FlyAntena_R1
+    100008: FlyAntena_R2
+    100010: FlyHead
+    100012: FlyHub001
+    100014: FlyLLeg031
+    100016: FlyLLeg032
+    100018: FlyLLeg03Ankle
+    100020: FlyLLeg03Collarbone
+    100022: FlyLLeg1
+    100024: FlyLLeg1 1
+    100026: FlyLLeg2
+    100028: FlyLLeg2 1
+    100030: FlyLLegAnkle
+    100032: FlyLLegAnkle 1
+    100034: FlyLLegCollarbone
+    100036: FlyLLegCollarbone 1
+    100038: FlyNeck
+    100040: FlyRLeg031
+    100042: FlyRLeg032
+    100044: FlyRLeg03Ankle
+    100046: FlyRLeg03Collarbone
+    100048: FlyRLeg1
+    100050: FlyRLeg1 1
+    100052: FlyRLeg2
+    100054: FlyRLeg2 1
+    100056: FlyRLegAnkle
+    100058: FlyRLegAnkle 1
+    100060: FlyRLegCollarbone
+    100062: FlyRLegCollarbone 1
+    100064: FlyTail1
+    100066: FlyTail2
+    100068: FlyWing_L1
+    100070: FlyWing_L2
+    100072: FlyWing_R1
+    100074: FlyWing_R2
+    100076: //RootNode
+    400000: fly
+    400002: FlyAntena_L1
+    400004: FlyAntena_L2
+    400006: FlyAntena_R1
+    400008: FlyAntena_R2
+    400010: FlyHead
+    400012: FlyHub001
+    400014: FlyLLeg031
+    400016: FlyLLeg032
+    400018: FlyLLeg03Ankle
+    400020: FlyLLeg03Collarbone
+    400022: FlyLLeg1
+    400024: FlyLLeg1 1
+    400026: FlyLLeg2
+    400028: FlyLLeg2 1
+    400030: FlyLLegAnkle
+    400032: FlyLLegAnkle 1
+    400034: FlyLLegCollarbone
+    400036: FlyLLegCollarbone 1
+    400038: FlyNeck
+    400040: FlyRLeg031
+    400042: FlyRLeg032
+    400044: FlyRLeg03Ankle
+    400046: FlyRLeg03Collarbone
+    400048: FlyRLeg1
+    400050: FlyRLeg1 1
+    400052: FlyRLeg2
+    400054: FlyRLeg2 1
+    400056: FlyRLegAnkle
+    400058: FlyRLegAnkle 1
+    400060: FlyRLegCollarbone
+    400062: FlyRLegCollarbone 1
+    400064: FlyTail1
+    400066: FlyTail2
+    400068: FlyWing_L1
+    400070: FlyWing_L2
+    400072: FlyWing_R1
+    400074: FlyWing_R2
+    400076: //RootNode
+    4300000: fly
+    7400000: Take 001
+    7400002: Take 002
+    9500000: //RootNode
+    13700000: fly
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 60
+      lastFrame: 90
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: fly
+        weight: 1
+      - path: FlyHub001
+        weight: 1
+      - path: FlyHub001/FlyLLeg03Collarbone
+        weight: 1
+      - path: FlyHub001/FlyLLeg03Collarbone/FlyLLeg031
+        weight: 1
+      - path: FlyHub001/FlyLLeg03Collarbone/FlyLLeg031/FlyLLeg032
+        weight: 1
+      - path: FlyHub001/FlyLLeg03Collarbone/FlyLLeg031/FlyLLeg032/FlyLLeg03Ankle
+        weight: 1
+      - path: FlyHub001/FlyLLegCollarbone
+        weight: 1
+      - path: FlyHub001/FlyLLegCollarbone/FlyLLeg1
+        weight: 1
+      - path: FlyHub001/FlyLLegCollarbone/FlyLLeg1/FlyLLeg2
+        weight: 1
+      - path: FlyHub001/FlyLLegCollarbone/FlyLLeg1/FlyLLeg2/FlyLLegAnkle
+        weight: 1
+      - path: FlyHub001/FlyLLegCollarbone 1
+        weight: 1
+      - path: FlyHub001/FlyLLegCollarbone 1/FlyLLeg1 1
+        weight: 1
+      - path: FlyHub001/FlyLLegCollarbone 1/FlyLLeg1 1/FlyLLeg2 1
+        weight: 1
+      - path: FlyHub001/FlyLLegCollarbone 1/FlyLLeg1 1/FlyLLeg2 1/FlyLLegAnkle 1
+        weight: 1
+      - path: FlyHub001/FlyNeck
+        weight: 1
+      - path: FlyHub001/FlyNeck/FlyHead
+        weight: 1
+      - path: FlyHub001/FlyNeck/FlyHead/FlyAntena_L1
+        weight: 1
+      - path: FlyHub001/FlyNeck/FlyHead/FlyAntena_L1/FlyAntena_L2
+        weight: 1
+      - path: FlyHub001/FlyNeck/FlyHead/FlyAntena_R1
+        weight: 1
+      - path: FlyHub001/FlyNeck/FlyHead/FlyAntena_R1/FlyAntena_R2
+        weight: 1
+      - path: FlyHub001/FlyRLeg03Collarbone
+        weight: 1
+      - path: FlyHub001/FlyRLeg03Collarbone/FlyRLeg031
+        weight: 1
+      - path: FlyHub001/FlyRLeg03Collarbone/FlyRLeg031/FlyRLeg032
+        weight: 1
+      - path: FlyHub001/FlyRLeg03Collarbone/FlyRLeg031/FlyRLeg032/FlyRLeg03Ankle
+        weight: 1
+      - path: FlyHub001/FlyRLegCollarbone
+        weight: 1
+      - path: FlyHub001/FlyRLegCollarbone/FlyRLeg1
+        weight: 1
+      - path: FlyHub001/FlyRLegCollarbone/FlyRLeg1/FlyRLeg2
+        weight: 1
+      - path: FlyHub001/FlyRLegCollarbone/FlyRLeg1/FlyRLeg2/FlyRLegAnkle 1
+        weight: 1
+      - path: FlyHub001/FlyRLegCollarbone 1
+        weight: 1
+      - path: FlyHub001/FlyRLegCollarbone 1/FlyRLeg1 1
+        weight: 1
+      - path: FlyHub001/FlyRLegCollarbone 1/FlyRLeg1 1/FlyRLeg2 1
+        weight: 1
+      - path: FlyHub001/FlyRLegCollarbone 1/FlyRLeg1 1/FlyRLeg2 1/FlyRLegAnkle
+        weight: 1
+      - path: FlyHub001/FlyTail1
+        weight: 1
+      - path: FlyHub001/FlyTail1/FlyTail2
+        weight: 1
+      - path: FlyHub001/FlyWing_L1
+        weight: 1
+      - path: FlyHub001/FlyWing_L1/FlyWing_L2
+        weight: 1
+      - path: FlyHub001/FlyWing_R1
+        weight: 1
+      - path: FlyHub001/FlyWing_R1/FlyWing_R2
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Take 002
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 43
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0.014084507
+        functionName: PlayAudio
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 1
+        functionName: Stop
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: fly
+        weight: 1
+      - path: FlyHub001
+        weight: 1
+      - path: FlyHub001/FlyLLeg03Collarbone
+        weight: 1
+      - path: FlyHub001/FlyLLeg03Collarbone/FlyLLeg031
+        weight: 1
+      - path: FlyHub001/FlyLLeg03Collarbone/FlyLLeg031/FlyLLeg032
+        weight: 1
+      - path: FlyHub001/FlyLLeg03Collarbone/FlyLLeg031/FlyLLeg032/FlyLLeg03Ankle
+        weight: 1
+      - path: FlyHub001/FlyLLegCollarbone
+        weight: 1
+      - path: FlyHub001/FlyLLegCollarbone/FlyLLeg1
+        weight: 1
+      - path: FlyHub001/FlyLLegCollarbone/FlyLLeg1/FlyLLeg2
+        weight: 1
+      - path: FlyHub001/FlyLLegCollarbone/FlyLLeg1/FlyLLeg2/FlyLLegAnkle
+        weight: 1
+      - path: FlyHub001/FlyLLegCollarbone 1
+        weight: 1
+      - path: FlyHub001/FlyLLegCollarbone 1/FlyLLeg1 1
+        weight: 1
+      - path: FlyHub001/FlyLLegCollarbone 1/FlyLLeg1 1/FlyLLeg2 1
+        weight: 1
+      - path: FlyHub001/FlyLLegCollarbone 1/FlyLLeg1 1/FlyLLeg2 1/FlyLLegAnkle 1
+        weight: 1
+      - path: FlyHub001/FlyNeck
+        weight: 1
+      - path: FlyHub001/FlyNeck/FlyHead
+        weight: 1
+      - path: FlyHub001/FlyNeck/FlyHead/FlyAntena_L1
+        weight: 1
+      - path: FlyHub001/FlyNeck/FlyHead/FlyAntena_L1/FlyAntena_L2
+        weight: 1
+      - path: FlyHub001/FlyNeck/FlyHead/FlyAntena_R1
+        weight: 1
+      - path: FlyHub001/FlyNeck/FlyHead/FlyAntena_R1/FlyAntena_R2
+        weight: 1
+      - path: FlyHub001/FlyRLeg03Collarbone
+        weight: 1
+      - path: FlyHub001/FlyRLeg03Collarbone/FlyRLeg031
+        weight: 1
+      - path: FlyHub001/FlyRLeg03Collarbone/FlyRLeg031/FlyRLeg032
+        weight: 1
+      - path: FlyHub001/FlyRLeg03Collarbone/FlyRLeg031/FlyRLeg032/FlyRLeg03Ankle
+        weight: 1
+      - path: FlyHub001/FlyRLegCollarbone
+        weight: 1
+      - path: FlyHub001/FlyRLegCollarbone/FlyRLeg1
+        weight: 1
+      - path: FlyHub001/FlyRLegCollarbone/FlyRLeg1/FlyRLeg2
+        weight: 1
+      - path: FlyHub001/FlyRLegCollarbone/FlyRLeg1/FlyRLeg2/FlyRLegAnkle 1
+        weight: 1
+      - path: FlyHub001/FlyRLegCollarbone 1
+        weight: 1
+      - path: FlyHub001/FlyRLegCollarbone 1/FlyRLeg1 1
+        weight: 1
+      - path: FlyHub001/FlyRLegCollarbone 1/FlyRLeg1 1/FlyRLeg2 1
+        weight: 1
+      - path: FlyHub001/FlyRLegCollarbone 1/FlyRLeg1 1/FlyRLeg2 1/FlyRLegAnkle
+        weight: 1
+      - path: FlyHub001/FlyTail1
+        weight: 1
+      - path: FlyHub001/FlyTail1/FlyTail2
+        weight: 1
+      - path: FlyHub001/FlyWing_L1
+        weight: 1
+      - path: FlyHub001/FlyWing_L1/FlyWing_L2
+        weight: 1
+      - path: FlyHub001/FlyWing_R1
+        weight: 1
+      - path: FlyHub001/FlyWing_R1/FlyWing_R2
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

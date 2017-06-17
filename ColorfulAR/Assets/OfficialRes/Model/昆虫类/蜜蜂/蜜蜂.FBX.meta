@@ -1,0 +1,394 @@
+fileFormatVersion: 2
+guid: 1d68350f7e8a6d44db463f662771f61c
+timeCreated: 1476091484
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: bee
+    100002: cryAnimationExportNode
+    100004: cryExporterSettingsNode
+    100006: WaspAntena_L1
+    100008: WaspAntena_L2
+    100010: WaspAntena_R1
+    100012: WaspAntena_R2
+    100014: WaspHead
+    100016: WaspHub001
+    100018: WaspLLeg031
+    100020: WaspLLeg032
+    100022: WaspLLeg03Ankle
+    100024: WaspLLeg03Collarbone
+    100026: WaspLLeg1
+    100028: WaspLLeg1 1
+    100030: WaspLLeg2
+    100032: WaspLLeg2 1
+    100034: WaspLLegAnkle
+    100036: WaspLLegAnkle 1
+    100038: WaspLLegCollarbone
+    100040: WaspLLegCollarbone 1
+    100042: WaspNeck
+    100044: WaspRLeg031
+    100046: WaspRLeg032
+    100048: WaspRLeg03Ankle
+    100050: WaspRLeg03Collarbone
+    100052: WaspRLeg1
+    100054: WaspRLeg1 1
+    100056: WaspRLeg2
+    100058: WaspRLeg2 1
+    100060: WaspRLegAnkle
+    100062: WaspRLegAnkle 1
+    100064: WaspRLegCollarbone
+    100066: WaspRLegCollarbone 1
+    100068: WaspTail1
+    100070: WaspTail2
+    100072: WaspWing_L1
+    100074: WaspWing_L2
+    100076: WaspWing_R1
+    100078: WaspWing_R2
+    100080: //RootNode
+    400000: bee
+    400002: cryAnimationExportNode
+    400004: cryExporterSettingsNode
+    400006: WaspAntena_L1
+    400008: WaspAntena_L2
+    400010: WaspAntena_R1
+    400012: WaspAntena_R2
+    400014: WaspHead
+    400016: WaspHub001
+    400018: WaspLLeg031
+    400020: WaspLLeg032
+    400022: WaspLLeg03Ankle
+    400024: WaspLLeg03Collarbone
+    400026: WaspLLeg1
+    400028: WaspLLeg1 1
+    400030: WaspLLeg2
+    400032: WaspLLeg2 1
+    400034: WaspLLegAnkle
+    400036: WaspLLegAnkle 1
+    400038: WaspLLegCollarbone
+    400040: WaspLLegCollarbone 1
+    400042: WaspNeck
+    400044: WaspRLeg031
+    400046: WaspRLeg032
+    400048: WaspRLeg03Ankle
+    400050: WaspRLeg03Collarbone
+    400052: WaspRLeg1
+    400054: WaspRLeg1 1
+    400056: WaspRLeg2
+    400058: WaspRLeg2 1
+    400060: WaspRLegAnkle
+    400062: WaspRLegAnkle 1
+    400064: WaspRLegCollarbone
+    400066: WaspRLegCollarbone 1
+    400068: WaspTail1
+    400070: WaspTail2
+    400072: WaspWing_L1
+    400074: WaspWing_L2
+    400076: WaspWing_R1
+    400078: WaspWing_R2
+    400080: //RootNode
+    4300000: bee
+    7400000: Take 001
+    7400002: Take 002
+    9500000: //RootNode
+    13700000: bee
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 60
+      lastFrame: 90
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: bee
+        weight: 1
+      - path: cryAnimationExportNode
+        weight: 1
+      - path: cryExporterSettingsNode
+        weight: 1
+      - path: WaspHub001
+        weight: 1
+      - path: WaspHub001/WaspLLeg03Collarbone
+        weight: 1
+      - path: WaspHub001/WaspLLeg03Collarbone/WaspLLeg031
+        weight: 1
+      - path: WaspHub001/WaspLLeg03Collarbone/WaspLLeg031/WaspLLeg032
+        weight: 1
+      - path: WaspHub001/WaspLLeg03Collarbone/WaspLLeg031/WaspLLeg032/WaspLLeg03Ankle
+        weight: 1
+      - path: WaspHub001/WaspLLegCollarbone
+        weight: 1
+      - path: WaspHub001/WaspLLegCollarbone/WaspLLeg1
+        weight: 1
+      - path: WaspHub001/WaspLLegCollarbone/WaspLLeg1/WaspLLeg2
+        weight: 1
+      - path: WaspHub001/WaspLLegCollarbone/WaspLLeg1/WaspLLeg2/WaspLLegAnkle 1
+        weight: 1
+      - path: WaspHub001/WaspLLegCollarbone 1
+        weight: 1
+      - path: WaspHub001/WaspLLegCollarbone 1/WaspLLeg1 1
+        weight: 1
+      - path: WaspHub001/WaspLLegCollarbone 1/WaspLLeg1 1/WaspLLeg2 1
+        weight: 1
+      - path: WaspHub001/WaspLLegCollarbone 1/WaspLLeg1 1/WaspLLeg2 1/WaspLLegAnkle
+        weight: 1
+      - path: WaspHub001/WaspNeck
+        weight: 1
+      - path: WaspHub001/WaspNeck/WaspHead
+        weight: 1
+      - path: WaspHub001/WaspNeck/WaspHead/WaspAntena_L1
+        weight: 1
+      - path: WaspHub001/WaspNeck/WaspHead/WaspAntena_L1/WaspAntena_L2
+        weight: 1
+      - path: WaspHub001/WaspNeck/WaspHead/WaspAntena_R1
+        weight: 1
+      - path: WaspHub001/WaspNeck/WaspHead/WaspAntena_R1/WaspAntena_R2
+        weight: 1
+      - path: WaspHub001/WaspRLeg03Collarbone
+        weight: 1
+      - path: WaspHub001/WaspRLeg03Collarbone/WaspRLeg031
+        weight: 1
+      - path: WaspHub001/WaspRLeg03Collarbone/WaspRLeg031/WaspRLeg032
+        weight: 1
+      - path: WaspHub001/WaspRLeg03Collarbone/WaspRLeg031/WaspRLeg032/WaspRLeg03Ankle
+        weight: 1
+      - path: WaspHub001/WaspRLegCollarbone
+        weight: 1
+      - path: WaspHub001/WaspRLegCollarbone/WaspRLeg1
+        weight: 1
+      - path: WaspHub001/WaspRLegCollarbone/WaspRLeg1/WaspRLeg2
+        weight: 1
+      - path: WaspHub001/WaspRLegCollarbone/WaspRLeg1/WaspRLeg2/WaspRLegAnkle
+        weight: 1
+      - path: WaspHub001/WaspRLegCollarbone 1
+        weight: 1
+      - path: WaspHub001/WaspRLegCollarbone 1/WaspRLeg1 1
+        weight: 1
+      - path: WaspHub001/WaspRLegCollarbone 1/WaspRLeg1 1/WaspRLeg2 1
+        weight: 1
+      - path: WaspHub001/WaspRLegCollarbone 1/WaspRLeg1 1/WaspRLeg2 1/WaspRLegAnkle
+          1
+        weight: 1
+      - path: WaspHub001/WaspTail1
+        weight: 1
+      - path: WaspHub001/WaspTail1/WaspTail2
+        weight: 1
+      - path: WaspHub001/WaspWing_L1
+        weight: 1
+      - path: WaspHub001/WaspWing_L1/WaspWing_L2
+        weight: 1
+      - path: WaspHub001/WaspWing_R1
+        weight: 1
+      - path: WaspHub001/WaspWing_R1/WaspWing_R2
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Take 002
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 45
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 1
+        functionName: Stop
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0
+        functionName: PlayAudio
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: bee
+        weight: 1
+      - path: cryAnimationExportNode
+        weight: 1
+      - path: cryExporterSettingsNode
+        weight: 1
+      - path: WaspHub001
+        weight: 1
+      - path: WaspHub001/WaspLLeg03Collarbone
+        weight: 1
+      - path: WaspHub001/WaspLLeg03Collarbone/WaspLLeg031
+        weight: 1
+      - path: WaspHub001/WaspLLeg03Collarbone/WaspLLeg031/WaspLLeg032
+        weight: 1
+      - path: WaspHub001/WaspLLeg03Collarbone/WaspLLeg031/WaspLLeg032/WaspLLeg03Ankle
+        weight: 1
+      - path: WaspHub001/WaspLLegCollarbone
+        weight: 1
+      - path: WaspHub001/WaspLLegCollarbone/WaspLLeg1
+        weight: 1
+      - path: WaspHub001/WaspLLegCollarbone/WaspLLeg1/WaspLLeg2
+        weight: 1
+      - path: WaspHub001/WaspLLegCollarbone/WaspLLeg1/WaspLLeg2/WaspLLegAnkle 1
+        weight: 1
+      - path: WaspHub001/WaspLLegCollarbone 1
+        weight: 1
+      - path: WaspHub001/WaspLLegCollarbone 1/WaspLLeg1 1
+        weight: 1
+      - path: WaspHub001/WaspLLegCollarbone 1/WaspLLeg1 1/WaspLLeg2 1
+        weight: 1
+      - path: WaspHub001/WaspLLegCollarbone 1/WaspLLeg1 1/WaspLLeg2 1/WaspLLegAnkle
+        weight: 1
+      - path: WaspHub001/WaspNeck
+        weight: 1
+      - path: WaspHub001/WaspNeck/WaspHead
+        weight: 1
+      - path: WaspHub001/WaspNeck/WaspHead/WaspAntena_L1
+        weight: 1
+      - path: WaspHub001/WaspNeck/WaspHead/WaspAntena_L1/WaspAntena_L2
+        weight: 1
+      - path: WaspHub001/WaspNeck/WaspHead/WaspAntena_R1
+        weight: 1
+      - path: WaspHub001/WaspNeck/WaspHead/WaspAntena_R1/WaspAntena_R2
+        weight: 1
+      - path: WaspHub001/WaspRLeg03Collarbone
+        weight: 1
+      - path: WaspHub001/WaspRLeg03Collarbone/WaspRLeg031
+        weight: 1
+      - path: WaspHub001/WaspRLeg03Collarbone/WaspRLeg031/WaspRLeg032
+        weight: 1
+      - path: WaspHub001/WaspRLeg03Collarbone/WaspRLeg031/WaspRLeg032/WaspRLeg03Ankle
+        weight: 1
+      - path: WaspHub001/WaspRLegCollarbone
+        weight: 1
+      - path: WaspHub001/WaspRLegCollarbone/WaspRLeg1
+        weight: 1
+      - path: WaspHub001/WaspRLegCollarbone/WaspRLeg1/WaspRLeg2
+        weight: 1
+      - path: WaspHub001/WaspRLegCollarbone/WaspRLeg1/WaspRLeg2/WaspRLegAnkle
+        weight: 1
+      - path: WaspHub001/WaspRLegCollarbone 1
+        weight: 1
+      - path: WaspHub001/WaspRLegCollarbone 1/WaspRLeg1 1
+        weight: 1
+      - path: WaspHub001/WaspRLegCollarbone 1/WaspRLeg1 1/WaspRLeg2 1
+        weight: 1
+      - path: WaspHub001/WaspRLegCollarbone 1/WaspRLeg1 1/WaspRLeg2 1/WaspRLegAnkle
+          1
+        weight: 1
+      - path: WaspHub001/WaspTail1
+        weight: 1
+      - path: WaspHub001/WaspTail1/WaspTail2
+        weight: 1
+      - path: WaspHub001/WaspWing_L1
+        weight: 1
+      - path: WaspHub001/WaspWing_L1/WaspWing_L2
+        weight: 1
+      - path: WaspHub001/WaspWing_R1
+        weight: 1
+      - path: WaspHub001/WaspWing_R1/WaspWing_R2
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

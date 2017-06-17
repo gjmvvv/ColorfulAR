@@ -1,0 +1,434 @@
+fileFormatVersion: 2
+guid: 17c4d767e6c44ee46aa532b9fb71ecc3
+timeCreated: 1475919601
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: STANDARD_WOLF
+    100002: STANDARD_WOLF_
+    100004: STANDARD_WOLF_ Head
+    100006: STANDARD_WOLF_ L Calf
+    100008: STANDARD_WOLF_ L Clavicle
+    100010: STANDARD_WOLF_ L Finger0
+    100012: STANDARD_WOLF_ L Foot
+    100014: STANDARD_WOLF_ L Forearm
+    100016: STANDARD_WOLF_ L Hand
+    100018: STANDARD_WOLF_ L HorseLink
+    100020: STANDARD_WOLF_ L Thigh
+    100022: STANDARD_WOLF_ L Toe0
+    100024: STANDARD_WOLF_ L UpperArm
+    100026: STANDARD_WOLF_ Neck
+    100028: STANDARD_WOLF_ Neck1
+    100030: STANDARD_WOLF_ Neck2
+    100032: STANDARD_WOLF_ Pelvis
+    100034: STANDARD_WOLF_ Queue de cheval 1
+    100036: STANDARD_WOLF_ R Calf
+    100038: STANDARD_WOLF_ R Clavicle
+    100040: STANDARD_WOLF_ R Finger0
+    100042: STANDARD_WOLF_ R Foot
+    100044: STANDARD_WOLF_ R Forearm
+    100046: STANDARD_WOLF_ R Hand
+    100048: STANDARD_WOLF_ R HorseLink
+    100050: STANDARD_WOLF_ R Thigh
+    100052: STANDARD_WOLF_ R Toe0
+    100054: STANDARD_WOLF_ R UpperArm
+    100056: STANDARD_WOLF_ Spine
+    100058: STANDARD_WOLF_ Spine1
+    100060: STANDARD_WOLF_ Tail
+    100062: STANDARD_WOLF_ Tail1
+    100064: STANDARD_WOLF_ Tail2
+    100066: STANDARD_WOLF_ Tail3
+    100068: STANDARD_WOLF_ Tail4
+    100070: //RootNode
+    400000: STANDARD_WOLF
+    400002: STANDARD_WOLF_
+    400004: STANDARD_WOLF_ Head
+    400006: STANDARD_WOLF_ L Calf
+    400008: STANDARD_WOLF_ L Clavicle
+    400010: STANDARD_WOLF_ L Finger0
+    400012: STANDARD_WOLF_ L Foot
+    400014: STANDARD_WOLF_ L Forearm
+    400016: STANDARD_WOLF_ L Hand
+    400018: STANDARD_WOLF_ L HorseLink
+    400020: STANDARD_WOLF_ L Thigh
+    400022: STANDARD_WOLF_ L Toe0
+    400024: STANDARD_WOLF_ L UpperArm
+    400026: STANDARD_WOLF_ Neck
+    400028: STANDARD_WOLF_ Neck1
+    400030: STANDARD_WOLF_ Neck2
+    400032: STANDARD_WOLF_ Pelvis
+    400034: STANDARD_WOLF_ Queue de cheval 1
+    400036: STANDARD_WOLF_ R Calf
+    400038: STANDARD_WOLF_ R Clavicle
+    400040: STANDARD_WOLF_ R Finger0
+    400042: STANDARD_WOLF_ R Foot
+    400044: STANDARD_WOLF_ R Forearm
+    400046: STANDARD_WOLF_ R Hand
+    400048: STANDARD_WOLF_ R HorseLink
+    400050: STANDARD_WOLF_ R Thigh
+    400052: STANDARD_WOLF_ R Toe0
+    400054: STANDARD_WOLF_ R UpperArm
+    400056: STANDARD_WOLF_ Spine
+    400058: STANDARD_WOLF_ Spine1
+    400060: STANDARD_WOLF_ Tail
+    400062: STANDARD_WOLF_ Tail1
+    400064: STANDARD_WOLF_ Tail2
+    400066: STANDARD_WOLF_ Tail3
+    400068: STANDARD_WOLF_ Tail4
+    400070: //RootNode
+    4300000: STANDARD_WOLF
+    7400000: Take 001
+    7400002: Take 002
+    9500000: //RootNode
+    13700000: STANDARD_WOLF
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 370
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: STANDARD_WOLF
+        weight: 1
+      - path: STANDARD_WOLF_
+        weight: 1
+      - path: STANDARD_WOLF_/STANDARD_WOLF_ Pelvis
+        weight: 1
+      - path: STANDARD_WOLF_/STANDARD_WOLF_ Pelvis/STANDARD_WOLF_ L Thigh
+        weight: 1
+      - path: STANDARD_WOLF_/STANDARD_WOLF_ Pelvis/STANDARD_WOLF_ L Thigh/STANDARD_WOLF_
+          L Calf
+        weight: 1
+      - path: STANDARD_WOLF_/STANDARD_WOLF_ Pelvis/STANDARD_WOLF_ L Thigh/STANDARD_WOLF_
+          L Calf/STANDARD_WOLF_ L HorseLink
+        weight: 1
+      - path: STANDARD_WOLF_/STANDARD_WOLF_ Pelvis/STANDARD_WOLF_ L Thigh/STANDARD_WOLF_
+          L Calf/STANDARD_WOLF_ L HorseLink/STANDARD_WOLF_ L Foot
+        weight: 1
+      - path: STANDARD_WOLF_/STANDARD_WOLF_ Pelvis/STANDARD_WOLF_ L Thigh/STANDARD_WOLF_
+          L Calf/STANDARD_WOLF_ L HorseLink/STANDARD_WOLF_ L Foot/STANDARD_WOLF_ L
+          Toe0
+        weight: 1
+      - path: STANDARD_WOLF_/STANDARD_WOLF_ Pelvis/STANDARD_WOLF_ R Thigh
+        weight: 1
+      - path: STANDARD_WOLF_/STANDARD_WOLF_ Pelvis/STANDARD_WOLF_ R Thigh/STANDARD_WOLF_
+          R Calf
+        weight: 1
+      - path: STANDARD_WOLF_/STANDARD_WOLF_ Pelvis/STANDARD_WOLF_ R Thigh/STANDARD_WOLF_
+          R Calf/STANDARD_WOLF_ R HorseLink
+        weight: 1
+      - path: STANDARD_WOLF_/STANDARD_WOLF_ Pelvis/STANDARD_WOLF_ R Thigh/STANDARD_WOLF_
+          R Calf/STANDARD_WOLF_ R HorseLink/STANDARD_WOLF_ R Foot
+        weight: 1
+      - path: STANDARD_WOLF_/STANDARD_WOLF_ Pelvis/STANDARD_WOLF_ R Thigh/STANDARD_WOLF_
+          R Calf/STANDARD_WOLF_ R HorseLink/STANDARD_WOLF_ R Foot/STANDARD_WOLF_ R
+          Toe0
+        weight: 1
+      - path: STANDARD_WOLF_/STANDARD_WOLF_ Spine
+        weight: 1
+      - path: STANDARD_WOLF_/STANDARD_WOLF_ Spine/STANDARD_WOLF_ Spine1
+        weight: 1
+      - path: STANDARD_WOLF_/STANDARD_WOLF_ Spine/STANDARD_WOLF_ Spine1/STANDARD_WOLF_
+          Neck
+        weight: 1
+      - path: STANDARD_WOLF_/STANDARD_WOLF_ Spine/STANDARD_WOLF_ Spine1/STANDARD_WOLF_
+          Neck/STANDARD_WOLF_ L Clavicle
+        weight: 1
+      - path: STANDARD_WOLF_/STANDARD_WOLF_ Spine/STANDARD_WOLF_ Spine1/STANDARD_WOLF_
+          Neck/STANDARD_WOLF_ L Clavicle/STANDARD_WOLF_ L UpperArm
+        weight: 1
+      - path: STANDARD_WOLF_/STANDARD_WOLF_ Spine/STANDARD_WOLF_ Spine1/STANDARD_WOLF_
+          Neck/STANDARD_WOLF_ L Clavicle/STANDARD_WOLF_ L UpperArm/STANDARD_WOLF_
+          L Forearm
+        weight: 1
+      - path: STANDARD_WOLF_/STANDARD_WOLF_ Spine/STANDARD_WOLF_ Spine1/STANDARD_WOLF_
+          Neck/STANDARD_WOLF_ L Clavicle/STANDARD_WOLF_ L UpperArm/STANDARD_WOLF_
+          L Forearm/STANDARD_WOLF_ L Hand
+        weight: 1
+      - path: STANDARD_WOLF_/STANDARD_WOLF_ Spine/STANDARD_WOLF_ Spine1/STANDARD_WOLF_
+          Neck/STANDARD_WOLF_ L Clavicle/STANDARD_WOLF_ L UpperArm/STANDARD_WOLF_
+          L Forearm/STANDARD_WOLF_ L Hand/STANDARD_WOLF_ L Finger0
+        weight: 1
+      - path: STANDARD_WOLF_/STANDARD_WOLF_ Spine/STANDARD_WOLF_ Spine1/STANDARD_WOLF_
+          Neck/STANDARD_WOLF_ Neck1
+        weight: 1
+      - path: STANDARD_WOLF_/STANDARD_WOLF_ Spine/STANDARD_WOLF_ Spine1/STANDARD_WOLF_
+          Neck/STANDARD_WOLF_ Neck1/STANDARD_WOLF_ Neck2
+        weight: 1
+      - path: STANDARD_WOLF_/STANDARD_WOLF_ Spine/STANDARD_WOLF_ Spine1/STANDARD_WOLF_
+          Neck/STANDARD_WOLF_ Neck1/STANDARD_WOLF_ Neck2/STANDARD_WOLF_ Head
+        weight: 1
+      - path: STANDARD_WOLF_/STANDARD_WOLF_ Spine/STANDARD_WOLF_ Spine1/STANDARD_WOLF_
+          Neck/STANDARD_WOLF_ Neck1/STANDARD_WOLF_ Neck2/STANDARD_WOLF_ Head/STANDARD_WOLF_
+          Queue de cheval 1
+        weight: 1
+      - path: STANDARD_WOLF_/STANDARD_WOLF_ Spine/STANDARD_WOLF_ Spine1/STANDARD_WOLF_
+          Neck/STANDARD_WOLF_ R Clavicle
+        weight: 1
+      - path: STANDARD_WOLF_/STANDARD_WOLF_ Spine/STANDARD_WOLF_ Spine1/STANDARD_WOLF_
+          Neck/STANDARD_WOLF_ R Clavicle/STANDARD_WOLF_ R UpperArm
+        weight: 1
+      - path: STANDARD_WOLF_/STANDARD_WOLF_ Spine/STANDARD_WOLF_ Spine1/STANDARD_WOLF_
+          Neck/STANDARD_WOLF_ R Clavicle/STANDARD_WOLF_ R UpperArm/STANDARD_WOLF_
+          R Forearm
+        weight: 1
+      - path: STANDARD_WOLF_/STANDARD_WOLF_ Spine/STANDARD_WOLF_ Spine1/STANDARD_WOLF_
+          Neck/STANDARD_WOLF_ R Clavicle/STANDARD_WOLF_ R UpperArm/STANDARD_WOLF_
+          R Forearm/STANDARD_WOLF_ R Hand
+        weight: 1
+      - path: STANDARD_WOLF_/STANDARD_WOLF_ Spine/STANDARD_WOLF_ Spine1/STANDARD_WOLF_
+          Neck/STANDARD_WOLF_ R Clavicle/STANDARD_WOLF_ R UpperArm/STANDARD_WOLF_
+          R Forearm/STANDARD_WOLF_ R Hand/STANDARD_WOLF_ R Finger0
+        weight: 1
+      - path: STANDARD_WOLF_/STANDARD_WOLF_ Spine/STANDARD_WOLF_ Tail
+        weight: 1
+      - path: STANDARD_WOLF_/STANDARD_WOLF_ Spine/STANDARD_WOLF_ Tail/STANDARD_WOLF_
+          Tail1
+        weight: 1
+      - path: STANDARD_WOLF_/STANDARD_WOLF_ Spine/STANDARD_WOLF_ Tail/STANDARD_WOLF_
+          Tail1/STANDARD_WOLF_ Tail2
+        weight: 1
+      - path: STANDARD_WOLF_/STANDARD_WOLF_ Spine/STANDARD_WOLF_ Tail/STANDARD_WOLF_
+          Tail1/STANDARD_WOLF_ Tail2/STANDARD_WOLF_ Tail3
+        weight: 1
+      - path: STANDARD_WOLF_/STANDARD_WOLF_ Spine/STANDARD_WOLF_ Tail/STANDARD_WOLF_
+          Tail1/STANDARD_WOLF_ Tail2/STANDARD_WOLF_ Tail3/STANDARD_WOLF_ Tail4
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Take 002
+      takeName: Take 001
+      firstFrame: 370
+      lastFrame: 460
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0
+        functionName: PlayAudio
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 1
+        functionName: Stop
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: STANDARD_WOLF
+        weight: 1
+      - path: STANDARD_WOLF_
+        weight: 1
+      - path: STANDARD_WOLF_/STANDARD_WOLF_ Pelvis
+        weight: 1
+      - path: STANDARD_WOLF_/STANDARD_WOLF_ Pelvis/STANDARD_WOLF_ L Thigh
+        weight: 1
+      - path: STANDARD_WOLF_/STANDARD_WOLF_ Pelvis/STANDARD_WOLF_ L Thigh/STANDARD_WOLF_
+          L Calf
+        weight: 1
+      - path: STANDARD_WOLF_/STANDARD_WOLF_ Pelvis/STANDARD_WOLF_ L Thigh/STANDARD_WOLF_
+          L Calf/STANDARD_WOLF_ L HorseLink
+        weight: 1
+      - path: STANDARD_WOLF_/STANDARD_WOLF_ Pelvis/STANDARD_WOLF_ L Thigh/STANDARD_WOLF_
+          L Calf/STANDARD_WOLF_ L HorseLink/STANDARD_WOLF_ L Foot
+        weight: 1
+      - path: STANDARD_WOLF_/STANDARD_WOLF_ Pelvis/STANDARD_WOLF_ L Thigh/STANDARD_WOLF_
+          L Calf/STANDARD_WOLF_ L HorseLink/STANDARD_WOLF_ L Foot/STANDARD_WOLF_ L
+          Toe0
+        weight: 1
+      - path: STANDARD_WOLF_/STANDARD_WOLF_ Pelvis/STANDARD_WOLF_ R Thigh
+        weight: 1
+      - path: STANDARD_WOLF_/STANDARD_WOLF_ Pelvis/STANDARD_WOLF_ R Thigh/STANDARD_WOLF_
+          R Calf
+        weight: 1
+      - path: STANDARD_WOLF_/STANDARD_WOLF_ Pelvis/STANDARD_WOLF_ R Thigh/STANDARD_WOLF_
+          R Calf/STANDARD_WOLF_ R HorseLink
+        weight: 1
+      - path: STANDARD_WOLF_/STANDARD_WOLF_ Pelvis/STANDARD_WOLF_ R Thigh/STANDARD_WOLF_
+          R Calf/STANDARD_WOLF_ R HorseLink/STANDARD_WOLF_ R Foot
+        weight: 1
+      - path: STANDARD_WOLF_/STANDARD_WOLF_ Pelvis/STANDARD_WOLF_ R Thigh/STANDARD_WOLF_
+          R Calf/STANDARD_WOLF_ R HorseLink/STANDARD_WOLF_ R Foot/STANDARD_WOLF_ R
+          Toe0
+        weight: 1
+      - path: STANDARD_WOLF_/STANDARD_WOLF_ Spine
+        weight: 1
+      - path: STANDARD_WOLF_/STANDARD_WOLF_ Spine/STANDARD_WOLF_ Spine1
+        weight: 1
+      - path: STANDARD_WOLF_/STANDARD_WOLF_ Spine/STANDARD_WOLF_ Spine1/STANDARD_WOLF_
+          Neck
+        weight: 1
+      - path: STANDARD_WOLF_/STANDARD_WOLF_ Spine/STANDARD_WOLF_ Spine1/STANDARD_WOLF_
+          Neck/STANDARD_WOLF_ L Clavicle
+        weight: 1
+      - path: STANDARD_WOLF_/STANDARD_WOLF_ Spine/STANDARD_WOLF_ Spine1/STANDARD_WOLF_
+          Neck/STANDARD_WOLF_ L Clavicle/STANDARD_WOLF_ L UpperArm
+        weight: 1
+      - path: STANDARD_WOLF_/STANDARD_WOLF_ Spine/STANDARD_WOLF_ Spine1/STANDARD_WOLF_
+          Neck/STANDARD_WOLF_ L Clavicle/STANDARD_WOLF_ L UpperArm/STANDARD_WOLF_
+          L Forearm
+        weight: 1
+      - path: STANDARD_WOLF_/STANDARD_WOLF_ Spine/STANDARD_WOLF_ Spine1/STANDARD_WOLF_
+          Neck/STANDARD_WOLF_ L Clavicle/STANDARD_WOLF_ L UpperArm/STANDARD_WOLF_
+          L Forearm/STANDARD_WOLF_ L Hand
+        weight: 1
+      - path: STANDARD_WOLF_/STANDARD_WOLF_ Spine/STANDARD_WOLF_ Spine1/STANDARD_WOLF_
+          Neck/STANDARD_WOLF_ L Clavicle/STANDARD_WOLF_ L UpperArm/STANDARD_WOLF_
+          L Forearm/STANDARD_WOLF_ L Hand/STANDARD_WOLF_ L Finger0
+        weight: 1
+      - path: STANDARD_WOLF_/STANDARD_WOLF_ Spine/STANDARD_WOLF_ Spine1/STANDARD_WOLF_
+          Neck/STANDARD_WOLF_ Neck1
+        weight: 1
+      - path: STANDARD_WOLF_/STANDARD_WOLF_ Spine/STANDARD_WOLF_ Spine1/STANDARD_WOLF_
+          Neck/STANDARD_WOLF_ Neck1/STANDARD_WOLF_ Neck2
+        weight: 1
+      - path: STANDARD_WOLF_/STANDARD_WOLF_ Spine/STANDARD_WOLF_ Spine1/STANDARD_WOLF_
+          Neck/STANDARD_WOLF_ Neck1/STANDARD_WOLF_ Neck2/STANDARD_WOLF_ Head
+        weight: 1
+      - path: STANDARD_WOLF_/STANDARD_WOLF_ Spine/STANDARD_WOLF_ Spine1/STANDARD_WOLF_
+          Neck/STANDARD_WOLF_ Neck1/STANDARD_WOLF_ Neck2/STANDARD_WOLF_ Head/STANDARD_WOLF_
+          Queue de cheval 1
+        weight: 1
+      - path: STANDARD_WOLF_/STANDARD_WOLF_ Spine/STANDARD_WOLF_ Spine1/STANDARD_WOLF_
+          Neck/STANDARD_WOLF_ R Clavicle
+        weight: 1
+      - path: STANDARD_WOLF_/STANDARD_WOLF_ Spine/STANDARD_WOLF_ Spine1/STANDARD_WOLF_
+          Neck/STANDARD_WOLF_ R Clavicle/STANDARD_WOLF_ R UpperArm
+        weight: 1
+      - path: STANDARD_WOLF_/STANDARD_WOLF_ Spine/STANDARD_WOLF_ Spine1/STANDARD_WOLF_
+          Neck/STANDARD_WOLF_ R Clavicle/STANDARD_WOLF_ R UpperArm/STANDARD_WOLF_
+          R Forearm
+        weight: 1
+      - path: STANDARD_WOLF_/STANDARD_WOLF_ Spine/STANDARD_WOLF_ Spine1/STANDARD_WOLF_
+          Neck/STANDARD_WOLF_ R Clavicle/STANDARD_WOLF_ R UpperArm/STANDARD_WOLF_
+          R Forearm/STANDARD_WOLF_ R Hand
+        weight: 1
+      - path: STANDARD_WOLF_/STANDARD_WOLF_ Spine/STANDARD_WOLF_ Spine1/STANDARD_WOLF_
+          Neck/STANDARD_WOLF_ R Clavicle/STANDARD_WOLF_ R UpperArm/STANDARD_WOLF_
+          R Forearm/STANDARD_WOLF_ R Hand/STANDARD_WOLF_ R Finger0
+        weight: 1
+      - path: STANDARD_WOLF_/STANDARD_WOLF_ Spine/STANDARD_WOLF_ Tail
+        weight: 1
+      - path: STANDARD_WOLF_/STANDARD_WOLF_ Spine/STANDARD_WOLF_ Tail/STANDARD_WOLF_
+          Tail1
+        weight: 1
+      - path: STANDARD_WOLF_/STANDARD_WOLF_ Spine/STANDARD_WOLF_ Tail/STANDARD_WOLF_
+          Tail1/STANDARD_WOLF_ Tail2
+        weight: 1
+      - path: STANDARD_WOLF_/STANDARD_WOLF_ Spine/STANDARD_WOLF_ Tail/STANDARD_WOLF_
+          Tail1/STANDARD_WOLF_ Tail2/STANDARD_WOLF_ Tail3
+        weight: 1
+      - path: STANDARD_WOLF_/STANDARD_WOLF_ Spine/STANDARD_WOLF_ Tail/STANDARD_WOLF_
+          Tail1/STANDARD_WOLF_ Tail2/STANDARD_WOLF_ Tail3/STANDARD_WOLF_ Tail4
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

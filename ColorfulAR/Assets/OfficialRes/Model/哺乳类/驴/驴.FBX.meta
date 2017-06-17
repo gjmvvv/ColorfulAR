@@ -1,0 +1,598 @@
+fileFormatVersion: 2
+guid: ec5ff7d0bb5cbca409c6a8b17550bea0
+timeCreated: 1475919617
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: a1:a_BLFemur
+    100002: a1:a_BLFootBone1
+    100004: a1:a_BLFootBone2
+    100006: a1:a_BLFootBone3
+    100008: a1:a_BLFootRoot
+    100010: a1:a_BLLegRoot
+    100012: a1:a_BLMetarsal
+    100014: a1:a_BLTibia
+    100016: a1:a_BRFemur
+    100018: a1:a_BRFootBone1
+    100020: a1:a_BRFootBone2
+    100022: a1:a_BRFootBone3
+    100024: a1:a_BRFootRoot
+    100026: a1:a_BRLegRoot
+    100028: a1:a_BRMetarsal
+    100030: a1:a_BRTibia
+    100032: a1:a_Chest
+    100034: a1:a_Chest1
+    100036: a1:a_ChestEffector
+    100038: a1:a_eff
+    100040: a1:a_eff1
+    100042: a1:a_eff2
+    100044: a1:a_eff4
+    100046: a1:a_eff6
+    100048: a1:a_eff7
+    100050: a1:a_GlobalSRT
+    100052: a1:a_LFootBone1
+    100054: a1:a_LFootBone2
+    100056: a1:a_LFootBone3
+    100058: a1:a_LFootRoot
+    100060: a1:a_LRoot
+    100062: a1:a_LShin
+    100064: a1:a_LShoulder
+    100066: a1:a_LShoulderRoot
+    100068: a1:a_LThigh
+    100070: a1:a_RFootBone1
+    100072: a1:a_RFootBone2
+    100074: a1:a_RFootBone3
+    100076: a1:a_RFootRoot
+    100078: a1:a_root3
+    100080: a1:a_RRoot
+    100082: a1:a_RShin
+    100084: a1:a_RShoulder
+    100086: a1:a_RShoulderRoot
+    100088: a1:a_RThigh
+    100090: a1:a_Spine1
+    100092: a1:a_Spine2
+    100094: a1:a_Spine3
+    100096: a1:a_Spine4
+    100098: a1:a_Spine5
+    100100: a1:a_Spine6
+    100102: a1:a_SpineRoot
+    100104: a1:a_SpineRoot1
+    100106: a1:a_Tail1
+    100108: a1:a_Tail2
+    100110: a1:a_Tail3
+    100112: a1:a_Tail4
+    100114: a1:a_Tail5
+    100116: a1:a_Tail6
+    100118: a1:a_UpperBody
+    100120: a1:bone
+    100122: a1:bone3
+    100124: a1:bone4
+    100126: a1:bone5
+    100128: a1:bone6
+    100130: a1:bone7
+    100132: a1:donkeyM
+    100134: a1:donkeyM_sibian
+    100136: a1:Quadruped_Skeleton
+    100138: a1:root
+    100140: a1:root2
+    100142: a1:root3
+    100144: a1:Scene_Root
+    100146: a1:ske
+    100148: //RootNode
+    400000: a1:a_BLFemur
+    400002: a1:a_BLFootBone1
+    400004: a1:a_BLFootBone2
+    400006: a1:a_BLFootBone3
+    400008: a1:a_BLFootRoot
+    400010: a1:a_BLLegRoot
+    400012: a1:a_BLMetarsal
+    400014: a1:a_BLTibia
+    400016: a1:a_BRFemur
+    400018: a1:a_BRFootBone1
+    400020: a1:a_BRFootBone2
+    400022: a1:a_BRFootBone3
+    400024: a1:a_BRFootRoot
+    400026: a1:a_BRLegRoot
+    400028: a1:a_BRMetarsal
+    400030: a1:a_BRTibia
+    400032: a1:a_Chest
+    400034: a1:a_Chest1
+    400036: a1:a_ChestEffector
+    400038: a1:a_eff
+    400040: a1:a_eff1
+    400042: a1:a_eff2
+    400044: a1:a_eff4
+    400046: a1:a_eff6
+    400048: a1:a_eff7
+    400050: a1:a_GlobalSRT
+    400052: a1:a_LFootBone1
+    400054: a1:a_LFootBone2
+    400056: a1:a_LFootBone3
+    400058: a1:a_LFootRoot
+    400060: a1:a_LRoot
+    400062: a1:a_LShin
+    400064: a1:a_LShoulder
+    400066: a1:a_LShoulderRoot
+    400068: a1:a_LThigh
+    400070: a1:a_RFootBone1
+    400072: a1:a_RFootBone2
+    400074: a1:a_RFootBone3
+    400076: a1:a_RFootRoot
+    400078: a1:a_root3
+    400080: a1:a_RRoot
+    400082: a1:a_RShin
+    400084: a1:a_RShoulder
+    400086: a1:a_RShoulderRoot
+    400088: a1:a_RThigh
+    400090: a1:a_Spine1
+    400092: a1:a_Spine2
+    400094: a1:a_Spine3
+    400096: a1:a_Spine4
+    400098: a1:a_Spine5
+    400100: a1:a_Spine6
+    400102: a1:a_SpineRoot
+    400104: a1:a_SpineRoot1
+    400106: a1:a_Tail1
+    400108: a1:a_Tail2
+    400110: a1:a_Tail3
+    400112: a1:a_Tail4
+    400114: a1:a_Tail5
+    400116: a1:a_Tail6
+    400118: a1:a_UpperBody
+    400120: a1:bone
+    400122: a1:bone3
+    400124: a1:bone4
+    400126: a1:bone5
+    400128: a1:bone6
+    400130: a1:bone7
+    400132: a1:donkeyM
+    400134: a1:donkeyM_sibian
+    400136: a1:Quadruped_Skeleton
+    400138: a1:root
+    400140: a1:root2
+    400142: a1:root3
+    400144: a1:Scene_Root
+    400146: a1:ske
+    400148: //RootNode
+    4300000: a1:donkeyM
+    4300002: a1:donkeyM_sibian
+    7400000: Take 001
+    7400002: Take 002
+    9500000: //RootNode
+    13700000: a1:donkeyM
+    13700002: a1:donkeyM_sibian
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 326
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: a1:donkeyM
+        weight: 1
+      - path: a1:donkeyM_sibian
+        weight: 1
+      - path: a1:ske
+        weight: 1
+      - path: a1:ske/a1:Scene_Root
+        weight: 1
+      - path: a1:ske/a1:Scene_Root/a1:Quadruped_Skeleton
+        weight: 1
+      - path: a1:ske/a1:Scene_Root/a1:Quadruped_Skeleton/a1:a_GlobalSRT
+        weight: 1
+      - path: a1:ske/a1:Scene_Root/a1:Quadruped_Skeleton/a1:a_GlobalSRT/a1:a_UpperBody
+        weight: 1
+      - path: a1:ske/a1:Scene_Root/a1:Quadruped_Skeleton/a1:a_GlobalSRT/a1:a_UpperBody/a1:a_BLLegRoot
+        weight: 1
+      - path: a1:ske/a1:Scene_Root/a1:Quadruped_Skeleton/a1:a_GlobalSRT/a1:a_UpperBody/a1:a_BLLegRoot/a1:a_BLFemur
+        weight: 1
+      - path: a1:ske/a1:Scene_Root/a1:Quadruped_Skeleton/a1:a_GlobalSRT/a1:a_UpperBody/a1:a_BLLegRoot/a1:a_BLFemur/a1:a_BLTibia
+        weight: 1
+      - path: a1:ske/a1:Scene_Root/a1:Quadruped_Skeleton/a1:a_GlobalSRT/a1:a_UpperBody/a1:a_BLLegRoot/a1:a_BLFemur/a1:a_BLTibia/a1:a_BLMetarsal
+        weight: 1
+      - path: a1:ske/a1:Scene_Root/a1:Quadruped_Skeleton/a1:a_GlobalSRT/a1:a_UpperBody/a1:a_BLLegRoot/a1:a_BLFemur/a1:a_BLTibia/a1:a_BLMetarsal/a1:a_eff2
+        weight: 1
+      - path: a1:ske/a1:Scene_Root/a1:Quadruped_Skeleton/a1:a_GlobalSRT/a1:a_UpperBody/a1:a_BLLegRoot/a1:a_BLFemur/a1:a_BLTibia/a1:a_BLMetarsal/a1:a_eff2/a1:a_BLFootRoot
+        weight: 1
+      - path: a1:ske/a1:Scene_Root/a1:Quadruped_Skeleton/a1:a_GlobalSRT/a1:a_UpperBody/a1:a_BLLegRoot/a1:a_BLFemur/a1:a_BLTibia/a1:a_BLMetarsal/a1:a_eff2/a1:a_BLFootRoot/a1:a_BLFootBone1
+        weight: 1
+      - path: a1:ske/a1:Scene_Root/a1:Quadruped_Skeleton/a1:a_GlobalSRT/a1:a_UpperBody/a1:a_BLLegRoot/a1:a_BLFemur/a1:a_BLTibia/a1:a_BLMetarsal/a1:a_eff2/a1:a_BLFootRoot/a1:a_BLFootBone1/a1:a_BLFootBone2
+        weight: 1
+      - path: a1:ske/a1:Scene_Root/a1:Quadruped_Skeleton/a1:a_GlobalSRT/a1:a_UpperBody/a1:a_BLLegRoot/a1:a_BLFemur/a1:a_BLTibia/a1:a_BLMetarsal/a1:a_eff2/a1:a_BLFootRoot/a1:a_BLFootBone1/a1:a_BLFootBone2/a1:a_BLFootBone3
+        weight: 1
+      - path: a1:ske/a1:Scene_Root/a1:Quadruped_Skeleton/a1:a_GlobalSRT/a1:a_UpperBody/a1:a_BRLegRoot
+        weight: 1
+      - path: a1:ske/a1:Scene_Root/a1:Quadruped_Skeleton/a1:a_GlobalSRT/a1:a_UpperBody/a1:a_BRLegRoot/a1:a_BRFemur
+        weight: 1
+      - path: a1:ske/a1:Scene_Root/a1:Quadruped_Skeleton/a1:a_GlobalSRT/a1:a_UpperBody/a1:a_BRLegRoot/a1:a_BRFemur/a1:a_BRTibia
+        weight: 1
+      - path: a1:ske/a1:Scene_Root/a1:Quadruped_Skeleton/a1:a_GlobalSRT/a1:a_UpperBody/a1:a_BRLegRoot/a1:a_BRFemur/a1:a_BRTibia/a1:a_BRMetarsal
+        weight: 1
+      - path: a1:ske/a1:Scene_Root/a1:Quadruped_Skeleton/a1:a_GlobalSRT/a1:a_UpperBody/a1:a_BRLegRoot/a1:a_BRFemur/a1:a_BRTibia/a1:a_BRMetarsal/a1:a_eff4
+        weight: 1
+      - path: a1:ske/a1:Scene_Root/a1:Quadruped_Skeleton/a1:a_GlobalSRT/a1:a_UpperBody/a1:a_BRLegRoot/a1:a_BRFemur/a1:a_BRTibia/a1:a_BRMetarsal/a1:a_eff4/a1:a_BRFootRoot
+        weight: 1
+      - path: a1:ske/a1:Scene_Root/a1:Quadruped_Skeleton/a1:a_GlobalSRT/a1:a_UpperBody/a1:a_BRLegRoot/a1:a_BRFemur/a1:a_BRTibia/a1:a_BRMetarsal/a1:a_eff4/a1:a_BRFootRoot/a1:a_BRFootBone1
+        weight: 1
+      - path: a1:ske/a1:Scene_Root/a1:Quadruped_Skeleton/a1:a_GlobalSRT/a1:a_UpperBody/a1:a_BRLegRoot/a1:a_BRFemur/a1:a_BRTibia/a1:a_BRMetarsal/a1:a_eff4/a1:a_BRFootRoot/a1:a_BRFootBone1/a1:a_BRFootBone2
+        weight: 1
+      - path: a1:ske/a1:Scene_Root/a1:Quadruped_Skeleton/a1:a_GlobalSRT/a1:a_UpperBody/a1:a_BRLegRoot/a1:a_BRFemur/a1:a_BRTibia/a1:a_BRMetarsal/a1:a_eff4/a1:a_BRFootRoot/a1:a_BRFootBone1/a1:a_BRFootBone2/a1:a_BRFootBone3
+        weight: 1
+      - path: a1:ske/a1:Scene_Root/a1:Quadruped_Skeleton/a1:a_GlobalSRT/a1:a_UpperBody/a1:a_root3
+        weight: 1
+      - path: a1:ske/a1:Scene_Root/a1:Quadruped_Skeleton/a1:a_GlobalSRT/a1:a_UpperBody/a1:a_root3/a1:a_Tail1
+        weight: 1
+      - path: a1:ske/a1:Scene_Root/a1:Quadruped_Skeleton/a1:a_GlobalSRT/a1:a_UpperBody/a1:a_root3/a1:a_Tail1/a1:a_Tail2
+        weight: 1
+      - path: a1:ske/a1:Scene_Root/a1:Quadruped_Skeleton/a1:a_GlobalSRT/a1:a_UpperBody/a1:a_root3/a1:a_Tail1/a1:a_Tail2/a1:a_Tail3
+        weight: 1
+      - path: a1:ske/a1:Scene_Root/a1:Quadruped_Skeleton/a1:a_GlobalSRT/a1:a_UpperBody/a1:a_root3/a1:a_Tail1/a1:a_Tail2/a1:a_Tail3/a1:a_Tail4
+        weight: 1
+      - path: a1:ske/a1:Scene_Root/a1:Quadruped_Skeleton/a1:a_GlobalSRT/a1:a_UpperBody/a1:a_root3/a1:a_Tail1/a1:a_Tail2/a1:a_Tail3/a1:a_Tail4/a1:a_Tail5
+        weight: 1
+      - path: a1:ske/a1:Scene_Root/a1:Quadruped_Skeleton/a1:a_GlobalSRT/a1:a_UpperBody/a1:a_root3/a1:a_Tail1/a1:a_Tail2/a1:a_Tail3/a1:a_Tail4/a1:a_Tail5/a1:a_Tail6
+        weight: 1
+      - path: a1:ske/a1:Scene_Root/a1:Quadruped_Skeleton/a1:a_GlobalSRT/a1:a_UpperBody/a1:a_SpineRoot
+        weight: 1
+      - path: a1:ske/a1:Scene_Root/a1:Quadruped_Skeleton/a1:a_GlobalSRT/a1:a_UpperBody/a1:a_SpineRoot/a1:a_Spine1
+        weight: 1
+      - path: a1:ske/a1:Scene_Root/a1:Quadruped_Skeleton/a1:a_GlobalSRT/a1:a_UpperBody/a1:a_SpineRoot/a1:a_Spine1/a1:a_Spine2
+        weight: 1
+      - path: a1:ske/a1:Scene_Root/a1:Quadruped_Skeleton/a1:a_GlobalSRT/a1:a_UpperBody/a1:a_SpineRoot/a1:a_Spine1/a1:a_Spine2/a1:a_Spine3
+        weight: 1
+      - path: a1:ske/a1:Scene_Root/a1:Quadruped_Skeleton/a1:a_GlobalSRT/a1:a_UpperBody/a1:a_SpineRoot/a1:a_Spine1/a1:a_Spine2/a1:a_Spine3/a1:a_Chest
+        weight: 1
+      - path: a1:ske/a1:Scene_Root/a1:Quadruped_Skeleton/a1:a_GlobalSRT/a1:a_UpperBody/a1:a_SpineRoot/a1:a_Spine1/a1:a_Spine2/a1:a_Spine3/a1:a_Chest/a1:a_ChestEffector
+        weight: 1
+      - path: a1:ske/a1:Scene_Root/a1:Quadruped_Skeleton/a1:a_GlobalSRT/a1:a_UpperBody/a1:a_SpineRoot/a1:a_Spine1/a1:a_Spine2/a1:a_Spine3/a1:a_Chest/a1:a_ChestEffector/a1:a_LShoulderRoot
+        weight: 1
+      - path: a1:ske/a1:Scene_Root/a1:Quadruped_Skeleton/a1:a_GlobalSRT/a1:a_UpperBody/a1:a_SpineRoot/a1:a_Spine1/a1:a_Spine2/a1:a_Spine3/a1:a_Chest/a1:a_ChestEffector/a1:a_LShoulderRoot/a1:a_LShoulder
+        weight: 1
+      - path: a1:ske/a1:Scene_Root/a1:Quadruped_Skeleton/a1:a_GlobalSRT/a1:a_UpperBody/a1:a_SpineRoot/a1:a_Spine1/a1:a_Spine2/a1:a_Spine3/a1:a_Chest/a1:a_ChestEffector/a1:a_LShoulderRoot/a1:a_LShoulder/a1:a_eff1
+        weight: 1
+      - path: a1:ske/a1:Scene_Root/a1:Quadruped_Skeleton/a1:a_GlobalSRT/a1:a_UpperBody/a1:a_SpineRoot/a1:a_Spine1/a1:a_Spine2/a1:a_Spine3/a1:a_Chest/a1:a_ChestEffector/a1:a_LShoulderRoot/a1:a_LShoulder/a1:a_eff1/a1:a_LRoot
+        weight: 1
+      - path: a1:ske/a1:Scene_Root/a1:Quadruped_Skeleton/a1:a_GlobalSRT/a1:a_UpperBody/a1:a_SpineRoot/a1:a_Spine1/a1:a_Spine2/a1:a_Spine3/a1:a_Chest/a1:a_ChestEffector/a1:a_LShoulderRoot/a1:a_LShoulder/a1:a_eff1/a1:a_LRoot/a1:a_LThigh
+        weight: 1
+      - path: a1:ske/a1:Scene_Root/a1:Quadruped_Skeleton/a1:a_GlobalSRT/a1:a_UpperBody/a1:a_SpineRoot/a1:a_Spine1/a1:a_Spine2/a1:a_Spine3/a1:a_Chest/a1:a_ChestEffector/a1:a_LShoulderRoot/a1:a_LShoulder/a1:a_eff1/a1:a_LRoot/a1:a_LThigh/a1:a_LShin
+        weight: 1
+      - path: a1:ske/a1:Scene_Root/a1:Quadruped_Skeleton/a1:a_GlobalSRT/a1:a_UpperBody/a1:a_SpineRoot/a1:a_Spine1/a1:a_Spine2/a1:a_Spine3/a1:a_Chest/a1:a_ChestEffector/a1:a_LShoulderRoot/a1:a_LShoulder/a1:a_eff1/a1:a_LRoot/a1:a_LThigh/a1:a_LShin/a1:a_eff6
+        weight: 1
+      - path: a1:ske/a1:Scene_Root/a1:Quadruped_Skeleton/a1:a_GlobalSRT/a1:a_UpperBody/a1:a_SpineRoot/a1:a_Spine1/a1:a_Spine2/a1:a_Spine3/a1:a_Chest/a1:a_ChestEffector/a1:a_LShoulderRoot/a1:a_LShoulder/a1:a_eff1/a1:a_LRoot/a1:a_LThigh/a1:a_LShin/a1:a_eff6/a1:a_LFootRoot
+        weight: 1
+      - path: a1:ske/a1:Scene_Root/a1:Quadruped_Skeleton/a1:a_GlobalSRT/a1:a_UpperBody/a1:a_SpineRoot/a1:a_Spine1/a1:a_Spine2/a1:a_Spine3/a1:a_Chest/a1:a_ChestEffector/a1:a_LShoulderRoot/a1:a_LShoulder/a1:a_eff1/a1:a_LRoot/a1:a_LThigh/a1:a_LShin/a1:a_eff6/a1:a_LFootRoot/a1:a_LFootBone1
+        weight: 1
+      - path: a1:ske/a1:Scene_Root/a1:Quadruped_Skeleton/a1:a_GlobalSRT/a1:a_UpperBody/a1:a_SpineRoot/a1:a_Spine1/a1:a_Spine2/a1:a_Spine3/a1:a_Chest/a1:a_ChestEffector/a1:a_LShoulderRoot/a1:a_LShoulder/a1:a_eff1/a1:a_LRoot/a1:a_LThigh/a1:a_LShin/a1:a_eff6/a1:a_LFootRoot/a1:a_LFootBone1/a1:a_LFootBone2
+        weight: 1
+      - path: a1:ske/a1:Scene_Root/a1:Quadruped_Skeleton/a1:a_GlobalSRT/a1:a_UpperBody/a1:a_SpineRoot/a1:a_Spine1/a1:a_Spine2/a1:a_Spine3/a1:a_Chest/a1:a_ChestEffector/a1:a_LShoulderRoot/a1:a_LShoulder/a1:a_eff1/a1:a_LRoot/a1:a_LThigh/a1:a_LShin/a1:a_eff6/a1:a_LFootRoot/a1:a_LFootBone1/a1:a_LFootBone2/a1:a_LFootBone3
+        weight: 1
+      - path: a1:ske/a1:Scene_Root/a1:Quadruped_Skeleton/a1:a_GlobalSRT/a1:a_UpperBody/a1:a_SpineRoot/a1:a_Spine1/a1:a_Spine2/a1:a_Spine3/a1:a_Chest/a1:a_ChestEffector/a1:a_RShoulderRoot
+        weight: 1
+      - path: a1:ske/a1:Scene_Root/a1:Quadruped_Skeleton/a1:a_GlobalSRT/a1:a_UpperBody/a1:a_SpineRoot/a1:a_Spine1/a1:a_Spine2/a1:a_Spine3/a1:a_Chest/a1:a_ChestEffector/a1:a_RShoulderRoot/a1:a_RShoulder
+        weight: 1
+      - path: a1:ske/a1:Scene_Root/a1:Quadruped_Skeleton/a1:a_GlobalSRT/a1:a_UpperBody/a1:a_SpineRoot/a1:a_Spine1/a1:a_Spine2/a1:a_Spine3/a1:a_Chest/a1:a_ChestEffector/a1:a_RShoulderRoot/a1:a_RShoulder/a1:a_eff
+        weight: 1
+      - path: a1:ske/a1:Scene_Root/a1:Quadruped_Skeleton/a1:a_GlobalSRT/a1:a_UpperBody/a1:a_SpineRoot/a1:a_Spine1/a1:a_Spine2/a1:a_Spine3/a1:a_Chest/a1:a_ChestEffector/a1:a_RShoulderRoot/a1:a_RShoulder/a1:a_eff/a1:a_RRoot
+        weight: 1
+      - path: a1:ske/a1:Scene_Root/a1:Quadruped_Skeleton/a1:a_GlobalSRT/a1:a_UpperBody/a1:a_SpineRoot/a1:a_Spine1/a1:a_Spine2/a1:a_Spine3/a1:a_Chest/a1:a_ChestEffector/a1:a_RShoulderRoot/a1:a_RShoulder/a1:a_eff/a1:a_RRoot/a1:a_RThigh
+        weight: 1
+      - path: a1:ske/a1:Scene_Root/a1:Quadruped_Skeleton/a1:a_GlobalSRT/a1:a_UpperBody/a1:a_SpineRoot/a1:a_Spine1/a1:a_Spine2/a1:a_Spine3/a1:a_Chest/a1:a_ChestEffector/a1:a_RShoulderRoot/a1:a_RShoulder/a1:a_eff/a1:a_RRoot/a1:a_RThigh/a1:a_RShin
+        weight: 1
+      - path: a1:ske/a1:Scene_Root/a1:Quadruped_Skeleton/a1:a_GlobalSRT/a1:a_UpperBody/a1:a_SpineRoot/a1:a_Spine1/a1:a_Spine2/a1:a_Spine3/a1:a_Chest/a1:a_ChestEffector/a1:a_RShoulderRoot/a1:a_RShoulder/a1:a_eff/a1:a_RRoot/a1:a_RThigh/a1:a_RShin/a1:a_eff7
+        weight: 1
+      - path: a1:ske/a1:Scene_Root/a1:Quadruped_Skeleton/a1:a_GlobalSRT/a1:a_UpperBody/a1:a_SpineRoot/a1:a_Spine1/a1:a_Spine2/a1:a_Spine3/a1:a_Chest/a1:a_ChestEffector/a1:a_RShoulderRoot/a1:a_RShoulder/a1:a_eff/a1:a_RRoot/a1:a_RThigh/a1:a_RShin/a1:a_eff7/a1:a_RFootRoot
+        weight: 1
+      - path: a1:ske/a1:Scene_Root/a1:Quadruped_Skeleton/a1:a_GlobalSRT/a1:a_UpperBody/a1:a_SpineRoot/a1:a_Spine1/a1:a_Spine2/a1:a_Spine3/a1:a_Chest/a1:a_ChestEffector/a1:a_RShoulderRoot/a1:a_RShoulder/a1:a_eff/a1:a_RRoot/a1:a_RThigh/a1:a_RShin/a1:a_eff7/a1:a_RFootRoot/a1:a_RFootBone1
+        weight: 1
+      - path: a1:ske/a1:Scene_Root/a1:Quadruped_Skeleton/a1:a_GlobalSRT/a1:a_UpperBody/a1:a_SpineRoot/a1:a_Spine1/a1:a_Spine2/a1:a_Spine3/a1:a_Chest/a1:a_ChestEffector/a1:a_RShoulderRoot/a1:a_RShoulder/a1:a_eff/a1:a_RRoot/a1:a_RThigh/a1:a_RShin/a1:a_eff7/a1:a_RFootRoot/a1:a_RFootBone1/a1:a_RFootBone2
+        weight: 1
+      - path: a1:ske/a1:Scene_Root/a1:Quadruped_Skeleton/a1:a_GlobalSRT/a1:a_UpperBody/a1:a_SpineRoot/a1:a_Spine1/a1:a_Spine2/a1:a_Spine3/a1:a_Chest/a1:a_ChestEffector/a1:a_RShoulderRoot/a1:a_RShoulder/a1:a_eff/a1:a_RRoot/a1:a_RThigh/a1:a_RShin/a1:a_eff7/a1:a_RFootRoot/a1:a_RFootBone1/a1:a_RFootBone2/a1:a_RFootBone3
+        weight: 1
+      - path: a1:ske/a1:Scene_Root/a1:Quadruped_Skeleton/a1:a_GlobalSRT/a1:a_UpperBody/a1:a_SpineRoot/a1:a_Spine1/a1:a_Spine2/a1:a_Spine3/a1:a_Chest/a1:a_ChestEffector/a1:a_SpineRoot1
+        weight: 1
+      - path: a1:ske/a1:Scene_Root/a1:Quadruped_Skeleton/a1:a_GlobalSRT/a1:a_UpperBody/a1:a_SpineRoot/a1:a_Spine1/a1:a_Spine2/a1:a_Spine3/a1:a_Chest/a1:a_ChestEffector/a1:a_SpineRoot1/a1:a_Spine4
+        weight: 1
+      - path: a1:ske/a1:Scene_Root/a1:Quadruped_Skeleton/a1:a_GlobalSRT/a1:a_UpperBody/a1:a_SpineRoot/a1:a_Spine1/a1:a_Spine2/a1:a_Spine3/a1:a_Chest/a1:a_ChestEffector/a1:a_SpineRoot1/a1:a_Spine4/a1:a_Spine5
+        weight: 1
+      - path: a1:ske/a1:Scene_Root/a1:Quadruped_Skeleton/a1:a_GlobalSRT/a1:a_UpperBody/a1:a_SpineRoot/a1:a_Spine1/a1:a_Spine2/a1:a_Spine3/a1:a_Chest/a1:a_ChestEffector/a1:a_SpineRoot1/a1:a_Spine4/a1:a_Spine5/a1:a_Spine6
+        weight: 1
+      - path: a1:ske/a1:Scene_Root/a1:Quadruped_Skeleton/a1:a_GlobalSRT/a1:a_UpperBody/a1:a_SpineRoot/a1:a_Spine1/a1:a_Spine2/a1:a_Spine3/a1:a_Chest/a1:a_ChestEffector/a1:a_SpineRoot1/a1:a_Spine4/a1:a_Spine5/a1:a_Spine6/a1:a_Chest1
+        weight: 1
+      - path: a1:ske/a1:Scene_Root/a1:root
+        weight: 1
+      - path: a1:ske/a1:Scene_Root/a1:root/a1:bone
+        weight: 1
+      - path: a1:ske/a1:Scene_Root/a1:root/a1:bone/a1:bone7
+        weight: 1
+      - path: a1:ske/a1:Scene_Root/a1:root2
+        weight: 1
+      - path: a1:ske/a1:Scene_Root/a1:root2/a1:bone3
+        weight: 1
+      - path: a1:ske/a1:Scene_Root/a1:root2/a1:bone3/a1:bone4
+        weight: 1
+      - path: a1:ske/a1:Scene_Root/a1:root3
+        weight: 1
+      - path: a1:ske/a1:Scene_Root/a1:root3/a1:bone5
+        weight: 1
+      - path: a1:ske/a1:Scene_Root/a1:root3/a1:bone5/a1:bone6
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Take 002
+      takeName: Take 001
+      firstFrame: 360
+      lastFrame: 527
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0.96089387
+        functionName: Stop
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0
+        functionName: PlayAudio
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: a1:donkeyM
+        weight: 1
+      - path: a1:donkeyM_sibian
+        weight: 1
+      - path: a1:ske
+        weight: 1
+      - path: a1:ske/a1:Scene_Root
+        weight: 1
+      - path: a1:ske/a1:Scene_Root/a1:Quadruped_Skeleton
+        weight: 1
+      - path: a1:ske/a1:Scene_Root/a1:Quadruped_Skeleton/a1:a_GlobalSRT
+        weight: 1
+      - path: a1:ske/a1:Scene_Root/a1:Quadruped_Skeleton/a1:a_GlobalSRT/a1:a_UpperBody
+        weight: 1
+      - path: a1:ske/a1:Scene_Root/a1:Quadruped_Skeleton/a1:a_GlobalSRT/a1:a_UpperBody/a1:a_BLLegRoot
+        weight: 1
+      - path: a1:ske/a1:Scene_Root/a1:Quadruped_Skeleton/a1:a_GlobalSRT/a1:a_UpperBody/a1:a_BLLegRoot/a1:a_BLFemur
+        weight: 1
+      - path: a1:ske/a1:Scene_Root/a1:Quadruped_Skeleton/a1:a_GlobalSRT/a1:a_UpperBody/a1:a_BLLegRoot/a1:a_BLFemur/a1:a_BLTibia
+        weight: 1
+      - path: a1:ske/a1:Scene_Root/a1:Quadruped_Skeleton/a1:a_GlobalSRT/a1:a_UpperBody/a1:a_BLLegRoot/a1:a_BLFemur/a1:a_BLTibia/a1:a_BLMetarsal
+        weight: 1
+      - path: a1:ske/a1:Scene_Root/a1:Quadruped_Skeleton/a1:a_GlobalSRT/a1:a_UpperBody/a1:a_BLLegRoot/a1:a_BLFemur/a1:a_BLTibia/a1:a_BLMetarsal/a1:a_eff2
+        weight: 1
+      - path: a1:ske/a1:Scene_Root/a1:Quadruped_Skeleton/a1:a_GlobalSRT/a1:a_UpperBody/a1:a_BLLegRoot/a1:a_BLFemur/a1:a_BLTibia/a1:a_BLMetarsal/a1:a_eff2/a1:a_BLFootRoot
+        weight: 1
+      - path: a1:ske/a1:Scene_Root/a1:Quadruped_Skeleton/a1:a_GlobalSRT/a1:a_UpperBody/a1:a_BLLegRoot/a1:a_BLFemur/a1:a_BLTibia/a1:a_BLMetarsal/a1:a_eff2/a1:a_BLFootRoot/a1:a_BLFootBone1
+        weight: 1
+      - path: a1:ske/a1:Scene_Root/a1:Quadruped_Skeleton/a1:a_GlobalSRT/a1:a_UpperBody/a1:a_BLLegRoot/a1:a_BLFemur/a1:a_BLTibia/a1:a_BLMetarsal/a1:a_eff2/a1:a_BLFootRoot/a1:a_BLFootBone1/a1:a_BLFootBone2
+        weight: 1
+      - path: a1:ske/a1:Scene_Root/a1:Quadruped_Skeleton/a1:a_GlobalSRT/a1:a_UpperBody/a1:a_BLLegRoot/a1:a_BLFemur/a1:a_BLTibia/a1:a_BLMetarsal/a1:a_eff2/a1:a_BLFootRoot/a1:a_BLFootBone1/a1:a_BLFootBone2/a1:a_BLFootBone3
+        weight: 1
+      - path: a1:ske/a1:Scene_Root/a1:Quadruped_Skeleton/a1:a_GlobalSRT/a1:a_UpperBody/a1:a_BRLegRoot
+        weight: 1
+      - path: a1:ske/a1:Scene_Root/a1:Quadruped_Skeleton/a1:a_GlobalSRT/a1:a_UpperBody/a1:a_BRLegRoot/a1:a_BRFemur
+        weight: 1
+      - path: a1:ske/a1:Scene_Root/a1:Quadruped_Skeleton/a1:a_GlobalSRT/a1:a_UpperBody/a1:a_BRLegRoot/a1:a_BRFemur/a1:a_BRTibia
+        weight: 1
+      - path: a1:ske/a1:Scene_Root/a1:Quadruped_Skeleton/a1:a_GlobalSRT/a1:a_UpperBody/a1:a_BRLegRoot/a1:a_BRFemur/a1:a_BRTibia/a1:a_BRMetarsal
+        weight: 1
+      - path: a1:ske/a1:Scene_Root/a1:Quadruped_Skeleton/a1:a_GlobalSRT/a1:a_UpperBody/a1:a_BRLegRoot/a1:a_BRFemur/a1:a_BRTibia/a1:a_BRMetarsal/a1:a_eff4
+        weight: 1
+      - path: a1:ske/a1:Scene_Root/a1:Quadruped_Skeleton/a1:a_GlobalSRT/a1:a_UpperBody/a1:a_BRLegRoot/a1:a_BRFemur/a1:a_BRTibia/a1:a_BRMetarsal/a1:a_eff4/a1:a_BRFootRoot
+        weight: 1
+      - path: a1:ske/a1:Scene_Root/a1:Quadruped_Skeleton/a1:a_GlobalSRT/a1:a_UpperBody/a1:a_BRLegRoot/a1:a_BRFemur/a1:a_BRTibia/a1:a_BRMetarsal/a1:a_eff4/a1:a_BRFootRoot/a1:a_BRFootBone1
+        weight: 1
+      - path: a1:ske/a1:Scene_Root/a1:Quadruped_Skeleton/a1:a_GlobalSRT/a1:a_UpperBody/a1:a_BRLegRoot/a1:a_BRFemur/a1:a_BRTibia/a1:a_BRMetarsal/a1:a_eff4/a1:a_BRFootRoot/a1:a_BRFootBone1/a1:a_BRFootBone2
+        weight: 1
+      - path: a1:ske/a1:Scene_Root/a1:Quadruped_Skeleton/a1:a_GlobalSRT/a1:a_UpperBody/a1:a_BRLegRoot/a1:a_BRFemur/a1:a_BRTibia/a1:a_BRMetarsal/a1:a_eff4/a1:a_BRFootRoot/a1:a_BRFootBone1/a1:a_BRFootBone2/a1:a_BRFootBone3
+        weight: 1
+      - path: a1:ske/a1:Scene_Root/a1:Quadruped_Skeleton/a1:a_GlobalSRT/a1:a_UpperBody/a1:a_root3
+        weight: 1
+      - path: a1:ske/a1:Scene_Root/a1:Quadruped_Skeleton/a1:a_GlobalSRT/a1:a_UpperBody/a1:a_root3/a1:a_Tail1
+        weight: 1
+      - path: a1:ske/a1:Scene_Root/a1:Quadruped_Skeleton/a1:a_GlobalSRT/a1:a_UpperBody/a1:a_root3/a1:a_Tail1/a1:a_Tail2
+        weight: 1
+      - path: a1:ske/a1:Scene_Root/a1:Quadruped_Skeleton/a1:a_GlobalSRT/a1:a_UpperBody/a1:a_root3/a1:a_Tail1/a1:a_Tail2/a1:a_Tail3
+        weight: 1
+      - path: a1:ske/a1:Scene_Root/a1:Quadruped_Skeleton/a1:a_GlobalSRT/a1:a_UpperBody/a1:a_root3/a1:a_Tail1/a1:a_Tail2/a1:a_Tail3/a1:a_Tail4
+        weight: 1
+      - path: a1:ske/a1:Scene_Root/a1:Quadruped_Skeleton/a1:a_GlobalSRT/a1:a_UpperBody/a1:a_root3/a1:a_Tail1/a1:a_Tail2/a1:a_Tail3/a1:a_Tail4/a1:a_Tail5
+        weight: 1
+      - path: a1:ske/a1:Scene_Root/a1:Quadruped_Skeleton/a1:a_GlobalSRT/a1:a_UpperBody/a1:a_root3/a1:a_Tail1/a1:a_Tail2/a1:a_Tail3/a1:a_Tail4/a1:a_Tail5/a1:a_Tail6
+        weight: 1
+      - path: a1:ske/a1:Scene_Root/a1:Quadruped_Skeleton/a1:a_GlobalSRT/a1:a_UpperBody/a1:a_SpineRoot
+        weight: 1
+      - path: a1:ske/a1:Scene_Root/a1:Quadruped_Skeleton/a1:a_GlobalSRT/a1:a_UpperBody/a1:a_SpineRoot/a1:a_Spine1
+        weight: 1
+      - path: a1:ske/a1:Scene_Root/a1:Quadruped_Skeleton/a1:a_GlobalSRT/a1:a_UpperBody/a1:a_SpineRoot/a1:a_Spine1/a1:a_Spine2
+        weight: 1
+      - path: a1:ske/a1:Scene_Root/a1:Quadruped_Skeleton/a1:a_GlobalSRT/a1:a_UpperBody/a1:a_SpineRoot/a1:a_Spine1/a1:a_Spine2/a1:a_Spine3
+        weight: 1
+      - path: a1:ske/a1:Scene_Root/a1:Quadruped_Skeleton/a1:a_GlobalSRT/a1:a_UpperBody/a1:a_SpineRoot/a1:a_Spine1/a1:a_Spine2/a1:a_Spine3/a1:a_Chest
+        weight: 1
+      - path: a1:ske/a1:Scene_Root/a1:Quadruped_Skeleton/a1:a_GlobalSRT/a1:a_UpperBody/a1:a_SpineRoot/a1:a_Spine1/a1:a_Spine2/a1:a_Spine3/a1:a_Chest/a1:a_ChestEffector
+        weight: 1
+      - path: a1:ske/a1:Scene_Root/a1:Quadruped_Skeleton/a1:a_GlobalSRT/a1:a_UpperBody/a1:a_SpineRoot/a1:a_Spine1/a1:a_Spine2/a1:a_Spine3/a1:a_Chest/a1:a_ChestEffector/a1:a_LShoulderRoot
+        weight: 1
+      - path: a1:ske/a1:Scene_Root/a1:Quadruped_Skeleton/a1:a_GlobalSRT/a1:a_UpperBody/a1:a_SpineRoot/a1:a_Spine1/a1:a_Spine2/a1:a_Spine3/a1:a_Chest/a1:a_ChestEffector/a1:a_LShoulderRoot/a1:a_LShoulder
+        weight: 1
+      - path: a1:ske/a1:Scene_Root/a1:Quadruped_Skeleton/a1:a_GlobalSRT/a1:a_UpperBody/a1:a_SpineRoot/a1:a_Spine1/a1:a_Spine2/a1:a_Spine3/a1:a_Chest/a1:a_ChestEffector/a1:a_LShoulderRoot/a1:a_LShoulder/a1:a_eff1
+        weight: 1
+      - path: a1:ske/a1:Scene_Root/a1:Quadruped_Skeleton/a1:a_GlobalSRT/a1:a_UpperBody/a1:a_SpineRoot/a1:a_Spine1/a1:a_Spine2/a1:a_Spine3/a1:a_Chest/a1:a_ChestEffector/a1:a_LShoulderRoot/a1:a_LShoulder/a1:a_eff1/a1:a_LRoot
+        weight: 1
+      - path: a1:ske/a1:Scene_Root/a1:Quadruped_Skeleton/a1:a_GlobalSRT/a1:a_UpperBody/a1:a_SpineRoot/a1:a_Spine1/a1:a_Spine2/a1:a_Spine3/a1:a_Chest/a1:a_ChestEffector/a1:a_LShoulderRoot/a1:a_LShoulder/a1:a_eff1/a1:a_LRoot/a1:a_LThigh
+        weight: 1
+      - path: a1:ske/a1:Scene_Root/a1:Quadruped_Skeleton/a1:a_GlobalSRT/a1:a_UpperBody/a1:a_SpineRoot/a1:a_Spine1/a1:a_Spine2/a1:a_Spine3/a1:a_Chest/a1:a_ChestEffector/a1:a_LShoulderRoot/a1:a_LShoulder/a1:a_eff1/a1:a_LRoot/a1:a_LThigh/a1:a_LShin
+        weight: 1
+      - path: a1:ske/a1:Scene_Root/a1:Quadruped_Skeleton/a1:a_GlobalSRT/a1:a_UpperBody/a1:a_SpineRoot/a1:a_Spine1/a1:a_Spine2/a1:a_Spine3/a1:a_Chest/a1:a_ChestEffector/a1:a_LShoulderRoot/a1:a_LShoulder/a1:a_eff1/a1:a_LRoot/a1:a_LThigh/a1:a_LShin/a1:a_eff6
+        weight: 1
+      - path: a1:ske/a1:Scene_Root/a1:Quadruped_Skeleton/a1:a_GlobalSRT/a1:a_UpperBody/a1:a_SpineRoot/a1:a_Spine1/a1:a_Spine2/a1:a_Spine3/a1:a_Chest/a1:a_ChestEffector/a1:a_LShoulderRoot/a1:a_LShoulder/a1:a_eff1/a1:a_LRoot/a1:a_LThigh/a1:a_LShin/a1:a_eff6/a1:a_LFootRoot
+        weight: 1
+      - path: a1:ske/a1:Scene_Root/a1:Quadruped_Skeleton/a1:a_GlobalSRT/a1:a_UpperBody/a1:a_SpineRoot/a1:a_Spine1/a1:a_Spine2/a1:a_Spine3/a1:a_Chest/a1:a_ChestEffector/a1:a_LShoulderRoot/a1:a_LShoulder/a1:a_eff1/a1:a_LRoot/a1:a_LThigh/a1:a_LShin/a1:a_eff6/a1:a_LFootRoot/a1:a_LFootBone1
+        weight: 1
+      - path: a1:ske/a1:Scene_Root/a1:Quadruped_Skeleton/a1:a_GlobalSRT/a1:a_UpperBody/a1:a_SpineRoot/a1:a_Spine1/a1:a_Spine2/a1:a_Spine3/a1:a_Chest/a1:a_ChestEffector/a1:a_LShoulderRoot/a1:a_LShoulder/a1:a_eff1/a1:a_LRoot/a1:a_LThigh/a1:a_LShin/a1:a_eff6/a1:a_LFootRoot/a1:a_LFootBone1/a1:a_LFootBone2
+        weight: 1
+      - path: a1:ske/a1:Scene_Root/a1:Quadruped_Skeleton/a1:a_GlobalSRT/a1:a_UpperBody/a1:a_SpineRoot/a1:a_Spine1/a1:a_Spine2/a1:a_Spine3/a1:a_Chest/a1:a_ChestEffector/a1:a_LShoulderRoot/a1:a_LShoulder/a1:a_eff1/a1:a_LRoot/a1:a_LThigh/a1:a_LShin/a1:a_eff6/a1:a_LFootRoot/a1:a_LFootBone1/a1:a_LFootBone2/a1:a_LFootBone3
+        weight: 1
+      - path: a1:ske/a1:Scene_Root/a1:Quadruped_Skeleton/a1:a_GlobalSRT/a1:a_UpperBody/a1:a_SpineRoot/a1:a_Spine1/a1:a_Spine2/a1:a_Spine3/a1:a_Chest/a1:a_ChestEffector/a1:a_RShoulderRoot
+        weight: 1
+      - path: a1:ske/a1:Scene_Root/a1:Quadruped_Skeleton/a1:a_GlobalSRT/a1:a_UpperBody/a1:a_SpineRoot/a1:a_Spine1/a1:a_Spine2/a1:a_Spine3/a1:a_Chest/a1:a_ChestEffector/a1:a_RShoulderRoot/a1:a_RShoulder
+        weight: 1
+      - path: a1:ske/a1:Scene_Root/a1:Quadruped_Skeleton/a1:a_GlobalSRT/a1:a_UpperBody/a1:a_SpineRoot/a1:a_Spine1/a1:a_Spine2/a1:a_Spine3/a1:a_Chest/a1:a_ChestEffector/a1:a_RShoulderRoot/a1:a_RShoulder/a1:a_eff
+        weight: 1
+      - path: a1:ske/a1:Scene_Root/a1:Quadruped_Skeleton/a1:a_GlobalSRT/a1:a_UpperBody/a1:a_SpineRoot/a1:a_Spine1/a1:a_Spine2/a1:a_Spine3/a1:a_Chest/a1:a_ChestEffector/a1:a_RShoulderRoot/a1:a_RShoulder/a1:a_eff/a1:a_RRoot
+        weight: 1
+      - path: a1:ske/a1:Scene_Root/a1:Quadruped_Skeleton/a1:a_GlobalSRT/a1:a_UpperBody/a1:a_SpineRoot/a1:a_Spine1/a1:a_Spine2/a1:a_Spine3/a1:a_Chest/a1:a_ChestEffector/a1:a_RShoulderRoot/a1:a_RShoulder/a1:a_eff/a1:a_RRoot/a1:a_RThigh
+        weight: 1
+      - path: a1:ske/a1:Scene_Root/a1:Quadruped_Skeleton/a1:a_GlobalSRT/a1:a_UpperBody/a1:a_SpineRoot/a1:a_Spine1/a1:a_Spine2/a1:a_Spine3/a1:a_Chest/a1:a_ChestEffector/a1:a_RShoulderRoot/a1:a_RShoulder/a1:a_eff/a1:a_RRoot/a1:a_RThigh/a1:a_RShin
+        weight: 1
+      - path: a1:ske/a1:Scene_Root/a1:Quadruped_Skeleton/a1:a_GlobalSRT/a1:a_UpperBody/a1:a_SpineRoot/a1:a_Spine1/a1:a_Spine2/a1:a_Spine3/a1:a_Chest/a1:a_ChestEffector/a1:a_RShoulderRoot/a1:a_RShoulder/a1:a_eff/a1:a_RRoot/a1:a_RThigh/a1:a_RShin/a1:a_eff7
+        weight: 1
+      - path: a1:ske/a1:Scene_Root/a1:Quadruped_Skeleton/a1:a_GlobalSRT/a1:a_UpperBody/a1:a_SpineRoot/a1:a_Spine1/a1:a_Spine2/a1:a_Spine3/a1:a_Chest/a1:a_ChestEffector/a1:a_RShoulderRoot/a1:a_RShoulder/a1:a_eff/a1:a_RRoot/a1:a_RThigh/a1:a_RShin/a1:a_eff7/a1:a_RFootRoot
+        weight: 1
+      - path: a1:ske/a1:Scene_Root/a1:Quadruped_Skeleton/a1:a_GlobalSRT/a1:a_UpperBody/a1:a_SpineRoot/a1:a_Spine1/a1:a_Spine2/a1:a_Spine3/a1:a_Chest/a1:a_ChestEffector/a1:a_RShoulderRoot/a1:a_RShoulder/a1:a_eff/a1:a_RRoot/a1:a_RThigh/a1:a_RShin/a1:a_eff7/a1:a_RFootRoot/a1:a_RFootBone1
+        weight: 1
+      - path: a1:ske/a1:Scene_Root/a1:Quadruped_Skeleton/a1:a_GlobalSRT/a1:a_UpperBody/a1:a_SpineRoot/a1:a_Spine1/a1:a_Spine2/a1:a_Spine3/a1:a_Chest/a1:a_ChestEffector/a1:a_RShoulderRoot/a1:a_RShoulder/a1:a_eff/a1:a_RRoot/a1:a_RThigh/a1:a_RShin/a1:a_eff7/a1:a_RFootRoot/a1:a_RFootBone1/a1:a_RFootBone2
+        weight: 1
+      - path: a1:ske/a1:Scene_Root/a1:Quadruped_Skeleton/a1:a_GlobalSRT/a1:a_UpperBody/a1:a_SpineRoot/a1:a_Spine1/a1:a_Spine2/a1:a_Spine3/a1:a_Chest/a1:a_ChestEffector/a1:a_RShoulderRoot/a1:a_RShoulder/a1:a_eff/a1:a_RRoot/a1:a_RThigh/a1:a_RShin/a1:a_eff7/a1:a_RFootRoot/a1:a_RFootBone1/a1:a_RFootBone2/a1:a_RFootBone3
+        weight: 1
+      - path: a1:ske/a1:Scene_Root/a1:Quadruped_Skeleton/a1:a_GlobalSRT/a1:a_UpperBody/a1:a_SpineRoot/a1:a_Spine1/a1:a_Spine2/a1:a_Spine3/a1:a_Chest/a1:a_ChestEffector/a1:a_SpineRoot1
+        weight: 1
+      - path: a1:ske/a1:Scene_Root/a1:Quadruped_Skeleton/a1:a_GlobalSRT/a1:a_UpperBody/a1:a_SpineRoot/a1:a_Spine1/a1:a_Spine2/a1:a_Spine3/a1:a_Chest/a1:a_ChestEffector/a1:a_SpineRoot1/a1:a_Spine4
+        weight: 1
+      - path: a1:ske/a1:Scene_Root/a1:Quadruped_Skeleton/a1:a_GlobalSRT/a1:a_UpperBody/a1:a_SpineRoot/a1:a_Spine1/a1:a_Spine2/a1:a_Spine3/a1:a_Chest/a1:a_ChestEffector/a1:a_SpineRoot1/a1:a_Spine4/a1:a_Spine5
+        weight: 1
+      - path: a1:ske/a1:Scene_Root/a1:Quadruped_Skeleton/a1:a_GlobalSRT/a1:a_UpperBody/a1:a_SpineRoot/a1:a_Spine1/a1:a_Spine2/a1:a_Spine3/a1:a_Chest/a1:a_ChestEffector/a1:a_SpineRoot1/a1:a_Spine4/a1:a_Spine5/a1:a_Spine6
+        weight: 1
+      - path: a1:ske/a1:Scene_Root/a1:Quadruped_Skeleton/a1:a_GlobalSRT/a1:a_UpperBody/a1:a_SpineRoot/a1:a_Spine1/a1:a_Spine2/a1:a_Spine3/a1:a_Chest/a1:a_ChestEffector/a1:a_SpineRoot1/a1:a_Spine4/a1:a_Spine5/a1:a_Spine6/a1:a_Chest1
+        weight: 1
+      - path: a1:ske/a1:Scene_Root/a1:root
+        weight: 1
+      - path: a1:ske/a1:Scene_Root/a1:root/a1:bone
+        weight: 1
+      - path: a1:ske/a1:Scene_Root/a1:root/a1:bone/a1:bone7
+        weight: 1
+      - path: a1:ske/a1:Scene_Root/a1:root2
+        weight: 1
+      - path: a1:ske/a1:Scene_Root/a1:root2/a1:bone3
+        weight: 1
+      - path: a1:ske/a1:Scene_Root/a1:root2/a1:bone3/a1:bone4
+        weight: 1
+      - path: a1:ske/a1:Scene_Root/a1:root3
+        weight: 1
+      - path: a1:ske/a1:Scene_Root/a1:root3/a1:bone5
+        weight: 1
+      - path: a1:ske/a1:Scene_Root/a1:root3/a1:bone5/a1:bone6
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

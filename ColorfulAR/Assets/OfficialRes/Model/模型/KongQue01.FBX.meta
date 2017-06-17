@@ -1,0 +1,340 @@
+fileFormatVersion: 2
+guid: d572698284c010e428f6a711ad23cb34
+timeCreated: 1476753703
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: CATRig1Bone001
+    100002: CATRig1Bone001 1
+    100004: CATRig1Bone001Bone001
+    100006: CATRig1Bone001Bone001 1
+    100008: CATRig2Bone001
+    100010: CATRig2Bone001 1
+    100012: CATRig2Bone001Bone001
+    100014: CATRig2Bone001Bone001 1
+    100016: CATRig4Bone001
+    100018: CATRig4Bone001 1
+    100020: CATRig4Bone001Bone001
+    100022: CATRig4Bone001Bone001 1
+    100024: CATRig7Bone001
+    100026: CATRig7Bone001 1
+    100028: CATRigAnkleBone001
+    100030: CATRigAnkleBone001 1
+    100032: CATRigAnkleBone001Bone001
+    100034: CATRigAnkleBone001Bone001 1
+    100036: CATRigAnkleBone001Bone001 2
+    100038: CATRigAnkleBone001Bone001 3
+    100040: CATRigAnkleBone001Bone001 4
+    100042: CATRigAnkleBone001Bone001 5
+    100044: CATRigAnkleBone001Bone001Bone001
+    100046: CATRigAnkleBone001Bone001Bone001 1
+    100048: CATRigAnkleBone001Bone001Bone001 2
+    100050: CATRigAnkleBone001Bone001Bone001 3
+    100052: CATRigAnkleBone001Bone001Bone001 4
+    100054: CATRigAnkleBone001Bone001Bone001 5
+    100056: CATRigAnkleBone002
+    100058: CATRigAnkleBone002 1
+    100060: CATRigAnkleBone003
+    100062: CATRigAnkleBone003 1
+    100064: CATRigHub002
+    100066: CATRigHub002Bone001
+    100068: CATRigHub002Bone001Bone001
+    100070: CATRigHub002Bone001Bone001Bone001
+    100072: CATRigHub002Bone001Bone001Bone001Bone001
+    100074: CATRigHub002Bone001Bone001Bone001Bone001Bone001
+    100076: CATRigHub002Bone001Bone001Bone001Bone001Bone001Bone001
+    100078: CATRigHub002Bone001Bone001Bone001Bone001Bone001Bone001Bone001
+    100080: CATRigHub002Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001
+    100082: CATRigHub002Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001
+    100084: CATRigHub002Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001
+    100086: CATRigHub002Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001
+    100088: CATRigHub002Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone002
+    100090: CATRigHub002Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone002Bone001
+    100092: CATRigHub002Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone002Bone001Bone001
+    100094: CATRigLLeg1
+    100096: CATRigLLeg2
+    100098: CATRigLLegAnkle
+    100100: CATRigLLegPlatform
+    100102: CATRigRLeg1
+    100104: CATRigRLeg2
+    100106: CATRigRLegAnkle
+    100108: CATRigRLegPlatform
+    100110: CATRigTail1
+    100112: CATRigTail1 1
+    100114: CATRigTail1 2
+    100116: CATRigTail1 3
+    100118: CATRigTail1 4
+    100120: CATRigTail1 5
+    100122: CATRigTail1 6
+    100124: CATRigTail1 7
+    100126: CATRigTail2
+    100128: CATRigTail2 1
+    100130: CATRigTail2 2
+    100132: CATRigTail2 3
+    100134: CATRigTail2 4
+    100136: CATRigTail2 5
+    100138: CATRigTail2 6
+    100140: CATRigTail2 7
+    100142: CATRigTail3
+    100144: CATRigTail3 1
+    100146: CATRigTail3 2
+    100148: CATRigTail3 3
+    100150: CATRigTail3 4
+    100152: CATRigTail3 5
+    100154: CATRigTail3 6
+    100156: CATRigTail3 7
+    100158: CATRigTail4
+    100160: CATRigTail4 1
+    100162: CATRigTail4 2
+    100164: CATRigTail4 3
+    100166: CATRigTail4 4
+    100168: CATRigTail4 5
+    100170: CATRigTail5
+    100172: CATRigTail5 1
+    100174: CATRigTail5 2
+    100176: CATRigTail5 3
+    100178: CATRigTail5 4
+    100180: CATRigTail5 5
+    100182: CATRigTail6
+    100184: CATRigTail6 1
+    100186: CATRigTail6 2
+    100188: CATRigTail6 3
+    100190: CATRigTail6 4
+    100192: CATRigTail6 5
+    100194: CATRigTail7
+    100196: CATRigTail7 1
+    100198: CATRigTail7 2
+    100200: CATRigTail7 3
+    100202: CATRigTail7 4
+    100204: CATRigTail7 5
+    100206: CATRigTail8
+    100208: CATRigTail8 1
+    100210: CATRigTail8 2
+    100212: CATRigTail8 3
+    100214: Character001
+    100216: cryAnimationExportNode
+    100218: cryExporterSettingsNode
+    100220: //RootNode
+    100222: Mesh01
+    100224: Mesh06
+    100226: Mesh07
+    100228: Mesh08
+    100230: Mesh09
+    100232: Mesh10
+    100234: Mesh11
+    100236: Mesh12
+    100238: Mesh13
+    100240: Object001
+    100242: Object002
+    400000: CATRig1Bone001
+    400002: CATRig1Bone001 1
+    400004: CATRig1Bone001Bone001
+    400006: CATRig1Bone001Bone001 1
+    400008: CATRig2Bone001
+    400010: CATRig2Bone001 1
+    400012: CATRig2Bone001Bone001
+    400014: CATRig2Bone001Bone001 1
+    400016: CATRig4Bone001
+    400018: CATRig4Bone001 1
+    400020: CATRig4Bone001Bone001
+    400022: CATRig4Bone001Bone001 1
+    400024: CATRig7Bone001
+    400026: CATRig7Bone001 1
+    400028: CATRigAnkleBone001
+    400030: CATRigAnkleBone001 1
+    400032: CATRigAnkleBone001Bone001
+    400034: CATRigAnkleBone001Bone001 1
+    400036: CATRigAnkleBone001Bone001 2
+    400038: CATRigAnkleBone001Bone001 3
+    400040: CATRigAnkleBone001Bone001 4
+    400042: CATRigAnkleBone001Bone001 5
+    400044: CATRigAnkleBone001Bone001Bone001
+    400046: CATRigAnkleBone001Bone001Bone001 1
+    400048: CATRigAnkleBone001Bone001Bone001 2
+    400050: CATRigAnkleBone001Bone001Bone001 3
+    400052: CATRigAnkleBone001Bone001Bone001 4
+    400054: CATRigAnkleBone001Bone001Bone001 5
+    400056: CATRigAnkleBone002
+    400058: CATRigAnkleBone002 1
+    400060: CATRigAnkleBone003
+    400062: CATRigAnkleBone003 1
+    400064: CATRigHub002
+    400066: CATRigHub002Bone001
+    400068: CATRigHub002Bone001Bone001
+    400070: CATRigHub002Bone001Bone001Bone001
+    400072: CATRigHub002Bone001Bone001Bone001Bone001
+    400074: CATRigHub002Bone001Bone001Bone001Bone001Bone001
+    400076: CATRigHub002Bone001Bone001Bone001Bone001Bone001Bone001
+    400078: CATRigHub002Bone001Bone001Bone001Bone001Bone001Bone001Bone001
+    400080: CATRigHub002Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001
+    400082: CATRigHub002Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001
+    400084: CATRigHub002Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001
+    400086: CATRigHub002Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001
+    400088: CATRigHub002Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone002
+    400090: CATRigHub002Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone002Bone001
+    400092: CATRigHub002Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone001Bone002Bone001Bone001
+    400094: CATRigLLeg1
+    400096: CATRigLLeg2
+    400098: CATRigLLegAnkle
+    400100: CATRigLLegPlatform
+    400102: CATRigRLeg1
+    400104: CATRigRLeg2
+    400106: CATRigRLegAnkle
+    400108: CATRigRLegPlatform
+    400110: CATRigTail1
+    400112: CATRigTail1 1
+    400114: CATRigTail1 2
+    400116: CATRigTail1 3
+    400118: CATRigTail1 4
+    400120: CATRigTail1 5
+    400122: CATRigTail1 6
+    400124: CATRigTail1 7
+    400126: CATRigTail2
+    400128: CATRigTail2 1
+    400130: CATRigTail2 2
+    400132: CATRigTail2 3
+    400134: CATRigTail2 4
+    400136: CATRigTail2 5
+    400138: CATRigTail2 6
+    400140: CATRigTail2 7
+    400142: CATRigTail3
+    400144: CATRigTail3 1
+    400146: CATRigTail3 2
+    400148: CATRigTail3 3
+    400150: CATRigTail3 4
+    400152: CATRigTail3 5
+    400154: CATRigTail3 6
+    400156: CATRigTail3 7
+    400158: CATRigTail4
+    400160: CATRigTail4 1
+    400162: CATRigTail4 2
+    400164: CATRigTail4 3
+    400166: CATRigTail4 4
+    400168: CATRigTail4 5
+    400170: CATRigTail5
+    400172: CATRigTail5 1
+    400174: CATRigTail5 2
+    400176: CATRigTail5 3
+    400178: CATRigTail5 4
+    400180: CATRigTail5 5
+    400182: CATRigTail6
+    400184: CATRigTail6 1
+    400186: CATRigTail6 2
+    400188: CATRigTail6 3
+    400190: CATRigTail6 4
+    400192: CATRigTail6 5
+    400194: CATRigTail7
+    400196: CATRigTail7 1
+    400198: CATRigTail7 2
+    400200: CATRigTail7 3
+    400202: CATRigTail7 4
+    400204: CATRigTail7 5
+    400206: CATRigTail8
+    400208: CATRigTail8 1
+    400210: CATRigTail8 2
+    400212: CATRigTail8 3
+    400214: Character001
+    400216: cryAnimationExportNode
+    400218: cryExporterSettingsNode
+    400220: //RootNode
+    400222: Mesh01
+    400224: Mesh06
+    400226: Mesh07
+    400228: Mesh08
+    400230: Mesh09
+    400232: Mesh10
+    400234: Mesh11
+    400236: Mesh12
+    400238: Mesh13
+    400240: Object001
+    400242: Object002
+    2300000: Mesh06
+    3300000: Mesh06
+    4300000: Mesh06
+    4300002: Mesh01
+    4300004: Mesh13
+    4300006: Mesh12
+    4300008: Mesh11
+    4300010: Mesh10
+    4300012: Mesh09
+    4300014: Mesh08
+    4300016: Mesh07
+    4300018: Object001
+    4300020: Object002
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Mesh01
+    13700002: Mesh07
+    13700004: Mesh08
+    13700006: Mesh09
+    13700008: Mesh10
+    13700010: Mesh11
+    13700012: Mesh12
+    13700014: Mesh13
+    13700016: Object001
+    13700018: Object002
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

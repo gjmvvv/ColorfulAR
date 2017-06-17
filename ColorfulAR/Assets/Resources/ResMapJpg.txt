@@ -1,0 +1,8 @@
+Elephant=ImageTarget/TYPE_Mammal/Elephant
+Koalas=ImageTarget/TYPE_Mammal/Koalas
+Rabbit=ImageTarget/TYPE_Mammal/Rabbit
+Seals=ImageTarget/TYPE_Mammal/Seals
+Sikadeer=ImageTarget/TYPE_Mammal/Sikadeer
+Squirrel=ImageTarget/TYPE_Mammal/Squirrel
+Wildebeest=ImageTarget/TYPE_Mammal/Wildebeest
+zebra=ImageTarget/TYPE_Mammal/zebra

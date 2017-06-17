@@ -1,0 +1,288 @@
+fileFormatVersion: 2
+guid: fa3323d52880cdf4e8816670de7c6ba8
+timeCreated: 1475919618
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: biped
+    100002: biped Footsteps
+    100004: biped Head
+    100006: biped HeadNub
+    100008: biped L Calf
+    100010: biped L Clavicle
+    100012: biped L Finger0
+    100014: biped L Finger0Nub
+    100016: biped L Foot
+    100018: biped L ForeArm
+    100020: biped L Hand
+    100022: biped L HorseLink
+    100024: biped L Thigh
+    100026: biped L Toe0
+    100028: biped L Toe0Nub
+    100030: biped L UpperArm
+    100032: biped Neck
+    100034: biped Neck1
+    100036: biped Pelvis
+    100038: biped R Calf
+    100040: biped R Clavicle
+    100042: biped R Finger0
+    100044: biped R Finger0Nub
+    100046: biped R Foot
+    100048: biped R ForeArm
+    100050: biped R Hand
+    100052: biped R HorseLink
+    100054: biped R Thigh
+    100056: biped R Toe0
+    100058: biped R Toe0Nub
+    100060: biped R UpperArm
+    100062: biped Spine
+    100064: biped Spine1
+    100066: biped Tail
+    100068: biped Tail1
+    100070: biped Tail2
+    100072: biped Tail3
+    100074: biped TailNub
+    100076: Object01
+    100078: Object03
+    100080: //RootNode
+    400000: biped
+    400002: biped Footsteps
+    400004: biped Head
+    400006: biped HeadNub
+    400008: biped L Calf
+    400010: biped L Clavicle
+    400012: biped L Finger0
+    400014: biped L Finger0Nub
+    400016: biped L Foot
+    400018: biped L ForeArm
+    400020: biped L Hand
+    400022: biped L HorseLink
+    400024: biped L Thigh
+    400026: biped L Toe0
+    400028: biped L Toe0Nub
+    400030: biped L UpperArm
+    400032: biped Neck
+    400034: biped Neck1
+    400036: biped Pelvis
+    400038: biped R Calf
+    400040: biped R Clavicle
+    400042: biped R Finger0
+    400044: biped R Finger0Nub
+    400046: biped R Foot
+    400048: biped R ForeArm
+    400050: biped R Hand
+    400052: biped R HorseLink
+    400054: biped R Thigh
+    400056: biped R Toe0
+    400058: biped R Toe0Nub
+    400060: biped R UpperArm
+    400062: biped Spine
+    400064: biped Spine1
+    400066: biped Tail
+    400068: biped Tail1
+    400070: biped Tail2
+    400072: biped Tail3
+    400074: biped TailNub
+    400076: Object01
+    400078: Object03
+    400080: //RootNode
+    4300000: Object03
+    4300002: Object01
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Object01
+    13700002: Object03
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 100
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: biped
+        weight: 1
+      - path: biped/biped Footsteps
+        weight: 1
+      - path: biped/biped Pelvis
+        weight: 1
+      - path: biped/biped Pelvis/biped L Thigh
+        weight: 1
+      - path: biped/biped Pelvis/biped L Thigh/biped L Calf
+        weight: 1
+      - path: biped/biped Pelvis/biped L Thigh/biped L Calf/biped L HorseLink
+        weight: 1
+      - path: biped/biped Pelvis/biped L Thigh/biped L Calf/biped L HorseLink/biped
+          L Foot
+        weight: 1
+      - path: biped/biped Pelvis/biped L Thigh/biped L Calf/biped L HorseLink/biped
+          L Foot/biped L Toe0
+        weight: 1
+      - path: biped/biped Pelvis/biped L Thigh/biped L Calf/biped L HorseLink/biped
+          L Foot/biped L Toe0/biped L Toe0Nub
+        weight: 1
+      - path: biped/biped Pelvis/biped R Thigh
+        weight: 1
+      - path: biped/biped Pelvis/biped R Thigh/biped R Calf
+        weight: 1
+      - path: biped/biped Pelvis/biped R Thigh/biped R Calf/biped R HorseLink
+        weight: 1
+      - path: biped/biped Pelvis/biped R Thigh/biped R Calf/biped R HorseLink/biped
+          R Foot
+        weight: 1
+      - path: biped/biped Pelvis/biped R Thigh/biped R Calf/biped R HorseLink/biped
+          R Foot/biped R Toe0
+        weight: 1
+      - path: biped/biped Pelvis/biped R Thigh/biped R Calf/biped R HorseLink/biped
+          R Foot/biped R Toe0/biped R Toe0Nub
+        weight: 1
+      - path: biped/biped Pelvis/biped Spine
+        weight: 1
+      - path: biped/biped Pelvis/biped Spine/biped Spine1
+        weight: 1
+      - path: biped/biped Pelvis/biped Spine/biped Spine1/biped Neck
+        weight: 1
+      - path: biped/biped Pelvis/biped Spine/biped Spine1/biped Neck/biped L Clavicle
+        weight: 1
+      - path: biped/biped Pelvis/biped Spine/biped Spine1/biped Neck/biped L Clavicle/biped
+          L UpperArm
+        weight: 1
+      - path: biped/biped Pelvis/biped Spine/biped Spine1/biped Neck/biped L Clavicle/biped
+          L UpperArm/biped L ForeArm
+        weight: 1
+      - path: biped/biped Pelvis/biped Spine/biped Spine1/biped Neck/biped L Clavicle/biped
+          L UpperArm/biped L ForeArm/biped L Hand
+        weight: 1
+      - path: biped/biped Pelvis/biped Spine/biped Spine1/biped Neck/biped L Clavicle/biped
+          L UpperArm/biped L ForeArm/biped L Hand/biped L Finger0
+        weight: 1
+      - path: biped/biped Pelvis/biped Spine/biped Spine1/biped Neck/biped L Clavicle/biped
+          L UpperArm/biped L ForeArm/biped L Hand/biped L Finger0/biped L Finger0Nub
+        weight: 1
+      - path: biped/biped Pelvis/biped Spine/biped Spine1/biped Neck/biped Neck1
+        weight: 1
+      - path: biped/biped Pelvis/biped Spine/biped Spine1/biped Neck/biped Neck1/biped
+          Head
+        weight: 1
+      - path: biped/biped Pelvis/biped Spine/biped Spine1/biped Neck/biped Neck1/biped
+          Head/biped HeadNub
+        weight: 1
+      - path: biped/biped Pelvis/biped Spine/biped Spine1/biped Neck/biped R Clavicle
+        weight: 1
+      - path: biped/biped Pelvis/biped Spine/biped Spine1/biped Neck/biped R Clavicle/biped
+          R UpperArm
+        weight: 1
+      - path: biped/biped Pelvis/biped Spine/biped Spine1/biped Neck/biped R Clavicle/biped
+          R UpperArm/biped R ForeArm
+        weight: 1
+      - path: biped/biped Pelvis/biped Spine/biped Spine1/biped Neck/biped R Clavicle/biped
+          R UpperArm/biped R ForeArm/biped R Hand
+        weight: 1
+      - path: biped/biped Pelvis/biped Spine/biped Spine1/biped Neck/biped R Clavicle/biped
+          R UpperArm/biped R ForeArm/biped R Hand/biped R Finger0
+        weight: 1
+      - path: biped/biped Pelvis/biped Spine/biped Spine1/biped Neck/biped R Clavicle/biped
+          R UpperArm/biped R ForeArm/biped R Hand/biped R Finger0/biped R Finger0Nub
+        weight: 1
+      - path: biped/biped Pelvis/biped Tail
+        weight: 1
+      - path: biped/biped Pelvis/biped Tail/biped Tail1
+        weight: 1
+      - path: biped/biped Pelvis/biped Tail/biped Tail1/biped Tail2
+        weight: 1
+      - path: biped/biped Pelvis/biped Tail/biped Tail1/biped Tail2/biped Tail3
+        weight: 1
+      - path: biped/biped Pelvis/biped Tail/biped Tail1/biped Tail2/biped Tail3/biped
+          TailNub
+        weight: 1
+      - path: Object01
+        weight: 1
+      - path: Object03
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

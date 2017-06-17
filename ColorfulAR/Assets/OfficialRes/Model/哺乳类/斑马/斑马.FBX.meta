@@ -1,0 +1,598 @@
+fileFormatVersion: 2
+guid: 318bafb24e06301489564252756d2370
+timeCreated: 1475919605
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: bone
+    100002: bone1
+    100004: bone2
+    100006: bone3
+    100008: bone4
+    100010: bone5
+    100012: modelGro
+    100014: Quadruped_Skeleton
+    100016: Quadruped_Skeleton_BLFemur
+    100018: Quadruped_Skeleton_BLFootBone1
+    100020: Quadruped_Skeleton_BLFootBone2
+    100022: Quadruped_Skeleton_BLFootBone3
+    100024: Quadruped_Skeleton_BLFootRoot
+    100026: Quadruped_Skeleton_BLLegRoot
+    100028: Quadruped_Skeleton_BLMetarsal
+    100030: Quadruped_Skeleton_BLTibia
+    100032: Quadruped_Skeleton_BRFemur
+    100034: Quadruped_Skeleton_BRFootBone1
+    100036: Quadruped_Skeleton_BRFootBone2
+    100038: Quadruped_Skeleton_BRFootBone3
+    100040: Quadruped_Skeleton_BRFootRoot
+    100042: Quadruped_Skeleton_BRLegRoot
+    100044: Quadruped_Skeleton_BRMetarsal
+    100046: Quadruped_Skeleton_BRTibia
+    100048: Quadruped_Skeleton_Chest
+    100050: Quadruped_Skeleton_Chest1
+    100052: Quadruped_Skeleton_ChestEffector
+    100054: Quadruped_Skeleton_eff
+    100056: Quadruped_Skeleton_eff1
+    100058: Quadruped_Skeleton_eff2
+    100060: Quadruped_Skeleton_eff4
+    100062: Quadruped_Skeleton_eff6
+    100064: Quadruped_Skeleton_eff7
+    100066: Quadruped_Skeleton_GlobalSRT
+    100068: Quadruped_Skeleton_LFootBone1
+    100070: Quadruped_Skeleton_LFootBone2
+    100072: Quadruped_Skeleton_LFootBone3
+    100074: Quadruped_Skeleton_LFootRoot
+    100076: Quadruped_Skeleton_LRoot
+    100078: Quadruped_Skeleton_LShin
+    100080: Quadruped_Skeleton_LShoulder
+    100082: Quadruped_Skeleton_LShoulderRoot
+    100084: Quadruped_Skeleton_LThigh
+    100086: Quadruped_Skeleton_RFootBone1
+    100088: Quadruped_Skeleton_RFootBone2
+    100090: Quadruped_Skeleton_RFootBone3
+    100092: Quadruped_Skeleton_RFootRoot
+    100094: Quadruped_Skeleton_root3
+    100096: Quadruped_Skeleton_RRoot
+    100098: Quadruped_Skeleton_RShin
+    100100: Quadruped_Skeleton_RShoulder
+    100102: Quadruped_Skeleton_RShoulderRoot
+    100104: Quadruped_Skeleton_RThigh
+    100106: Quadruped_Skeleton_Spine1
+    100108: Quadruped_Skeleton_Spine2
+    100110: Quadruped_Skeleton_Spine3
+    100112: Quadruped_Skeleton_Spine4
+    100114: Quadruped_Skeleton_Spine5
+    100116: Quadruped_Skeleton_Spine6
+    100118: Quadruped_Skeleton_SpineRoot
+    100120: Quadruped_Skeleton_SpineRoot1
+    100122: Quadruped_Skeleton_Tail1
+    100124: Quadruped_Skeleton_Tail2
+    100126: Quadruped_Skeleton_Tail3
+    100128: Quadruped_Skeleton_Tail4
+    100130: Quadruped_Skeleton_Tail5
+    100132: Quadruped_Skeleton_Tail6
+    100134: Quadruped_Skeleton_UpperBody
+    100136: root
+    100138: root1
+    100140: root2
+    100142: Scene_Root
+    100144: Zebra
+    100146: ZebraTRS1
+    100148: //RootNode
+    400000: bone
+    400002: bone1
+    400004: bone2
+    400006: bone3
+    400008: bone4
+    400010: bone5
+    400012: modelGro
+    400014: Quadruped_Skeleton
+    400016: Quadruped_Skeleton_BLFemur
+    400018: Quadruped_Skeleton_BLFootBone1
+    400020: Quadruped_Skeleton_BLFootBone2
+    400022: Quadruped_Skeleton_BLFootBone3
+    400024: Quadruped_Skeleton_BLFootRoot
+    400026: Quadruped_Skeleton_BLLegRoot
+    400028: Quadruped_Skeleton_BLMetarsal
+    400030: Quadruped_Skeleton_BLTibia
+    400032: Quadruped_Skeleton_BRFemur
+    400034: Quadruped_Skeleton_BRFootBone1
+    400036: Quadruped_Skeleton_BRFootBone2
+    400038: Quadruped_Skeleton_BRFootBone3
+    400040: Quadruped_Skeleton_BRFootRoot
+    400042: Quadruped_Skeleton_BRLegRoot
+    400044: Quadruped_Skeleton_BRMetarsal
+    400046: Quadruped_Skeleton_BRTibia
+    400048: Quadruped_Skeleton_Chest
+    400050: Quadruped_Skeleton_Chest1
+    400052: Quadruped_Skeleton_ChestEffector
+    400054: Quadruped_Skeleton_eff
+    400056: Quadruped_Skeleton_eff1
+    400058: Quadruped_Skeleton_eff2
+    400060: Quadruped_Skeleton_eff4
+    400062: Quadruped_Skeleton_eff6
+    400064: Quadruped_Skeleton_eff7
+    400066: Quadruped_Skeleton_GlobalSRT
+    400068: Quadruped_Skeleton_LFootBone1
+    400070: Quadruped_Skeleton_LFootBone2
+    400072: Quadruped_Skeleton_LFootBone3
+    400074: Quadruped_Skeleton_LFootRoot
+    400076: Quadruped_Skeleton_LRoot
+    400078: Quadruped_Skeleton_LShin
+    400080: Quadruped_Skeleton_LShoulder
+    400082: Quadruped_Skeleton_LShoulderRoot
+    400084: Quadruped_Skeleton_LThigh
+    400086: Quadruped_Skeleton_RFootBone1
+    400088: Quadruped_Skeleton_RFootBone2
+    400090: Quadruped_Skeleton_RFootBone3
+    400092: Quadruped_Skeleton_RFootRoot
+    400094: Quadruped_Skeleton_root3
+    400096: Quadruped_Skeleton_RRoot
+    400098: Quadruped_Skeleton_RShin
+    400100: Quadruped_Skeleton_RShoulder
+    400102: Quadruped_Skeleton_RShoulderRoot
+    400104: Quadruped_Skeleton_RThigh
+    400106: Quadruped_Skeleton_Spine1
+    400108: Quadruped_Skeleton_Spine2
+    400110: Quadruped_Skeleton_Spine3
+    400112: Quadruped_Skeleton_Spine4
+    400114: Quadruped_Skeleton_Spine5
+    400116: Quadruped_Skeleton_Spine6
+    400118: Quadruped_Skeleton_SpineRoot
+    400120: Quadruped_Skeleton_SpineRoot1
+    400122: Quadruped_Skeleton_Tail1
+    400124: Quadruped_Skeleton_Tail2
+    400126: Quadruped_Skeleton_Tail3
+    400128: Quadruped_Skeleton_Tail4
+    400130: Quadruped_Skeleton_Tail5
+    400132: Quadruped_Skeleton_Tail6
+    400134: Quadruped_Skeleton_UpperBody
+    400136: root
+    400138: root1
+    400140: root2
+    400142: Scene_Root
+    400144: Zebra
+    400146: ZebraTRS1
+    400148: //RootNode
+    4300000: ZebraTRS1
+    4300002: Zebra
+    7400000: Take 001
+    7400002: Take 002
+    9500000: //RootNode
+    13700000: Zebra
+    13700002: ZebraTRS1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 105
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: modelGro
+        weight: 1
+      - path: modelGro/Zebra
+        weight: 1
+      - path: modelGro/ZebraTRS1
+        weight: 1
+      - path: Scene_Root
+        weight: 1
+      - path: Scene_Root/Quadruped_Skeleton
+        weight: 1
+      - path: Scene_Root/Quadruped_Skeleton/Quadruped_Skeleton_GlobalSRT
+        weight: 1
+      - path: Scene_Root/Quadruped_Skeleton/Quadruped_Skeleton_GlobalSRT/Quadruped_Skeleton_UpperBody
+        weight: 1
+      - path: Scene_Root/Quadruped_Skeleton/Quadruped_Skeleton_GlobalSRT/Quadruped_Skeleton_UpperBody/Quadruped_Skeleton_BLLegRoot
+        weight: 1
+      - path: Scene_Root/Quadruped_Skeleton/Quadruped_Skeleton_GlobalSRT/Quadruped_Skeleton_UpperBody/Quadruped_Skeleton_BLLegRoot/Quadruped_Skeleton_BLFemur
+        weight: 1
+      - path: Scene_Root/Quadruped_Skeleton/Quadruped_Skeleton_GlobalSRT/Quadruped_Skeleton_UpperBody/Quadruped_Skeleton_BLLegRoot/Quadruped_Skeleton_BLFemur/Quadruped_Skeleton_BLTibia
+        weight: 1
+      - path: Scene_Root/Quadruped_Skeleton/Quadruped_Skeleton_GlobalSRT/Quadruped_Skeleton_UpperBody/Quadruped_Skeleton_BLLegRoot/Quadruped_Skeleton_BLFemur/Quadruped_Skeleton_BLTibia/Quadruped_Skeleton_BLMetarsal
+        weight: 1
+      - path: Scene_Root/Quadruped_Skeleton/Quadruped_Skeleton_GlobalSRT/Quadruped_Skeleton_UpperBody/Quadruped_Skeleton_BLLegRoot/Quadruped_Skeleton_BLFemur/Quadruped_Skeleton_BLTibia/Quadruped_Skeleton_BLMetarsal/Quadruped_Skeleton_eff2
+        weight: 1
+      - path: Scene_Root/Quadruped_Skeleton/Quadruped_Skeleton_GlobalSRT/Quadruped_Skeleton_UpperBody/Quadruped_Skeleton_BLLegRoot/Quadruped_Skeleton_BLFemur/Quadruped_Skeleton_BLTibia/Quadruped_Skeleton_BLMetarsal/Quadruped_Skeleton_eff2/Quadruped_Skeleton_BLFootRoot
+        weight: 1
+      - path: Scene_Root/Quadruped_Skeleton/Quadruped_Skeleton_GlobalSRT/Quadruped_Skeleton_UpperBody/Quadruped_Skeleton_BLLegRoot/Quadruped_Skeleton_BLFemur/Quadruped_Skeleton_BLTibia/Quadruped_Skeleton_BLMetarsal/Quadruped_Skeleton_eff2/Quadruped_Skeleton_BLFootRoot/Quadruped_Skeleton_BLFootBone1
+        weight: 1
+      - path: Scene_Root/Quadruped_Skeleton/Quadruped_Skeleton_GlobalSRT/Quadruped_Skeleton_UpperBody/Quadruped_Skeleton_BLLegRoot/Quadruped_Skeleton_BLFemur/Quadruped_Skeleton_BLTibia/Quadruped_Skeleton_BLMetarsal/Quadruped_Skeleton_eff2/Quadruped_Skeleton_BLFootRoot/Quadruped_Skeleton_BLFootBone1/Quadruped_Skeleton_BLFootBone2
+        weight: 1
+      - path: Scene_Root/Quadruped_Skeleton/Quadruped_Skeleton_GlobalSRT/Quadruped_Skeleton_UpperBody/Quadruped_Skeleton_BLLegRoot/Quadruped_Skeleton_BLFemur/Quadruped_Skeleton_BLTibia/Quadruped_Skeleton_BLMetarsal/Quadruped_Skeleton_eff2/Quadruped_Skeleton_BLFootRoot/Quadruped_Skeleton_BLFootBone1/Quadruped_Skeleton_BLFootBone2/Quadruped_Skeleton_BLFootBone3
+        weight: 1
+      - path: Scene_Root/Quadruped_Skeleton/Quadruped_Skeleton_GlobalSRT/Quadruped_Skeleton_UpperBody/Quadruped_Skeleton_BRLegRoot
+        weight: 1
+      - path: Scene_Root/Quadruped_Skeleton/Quadruped_Skeleton_GlobalSRT/Quadruped_Skeleton_UpperBody/Quadruped_Skeleton_BRLegRoot/Quadruped_Skeleton_BRFemur
+        weight: 1
+      - path: Scene_Root/Quadruped_Skeleton/Quadruped_Skeleton_GlobalSRT/Quadruped_Skeleton_UpperBody/Quadruped_Skeleton_BRLegRoot/Quadruped_Skeleton_BRFemur/Quadruped_Skeleton_BRTibia
+        weight: 1
+      - path: Scene_Root/Quadruped_Skeleton/Quadruped_Skeleton_GlobalSRT/Quadruped_Skeleton_UpperBody/Quadruped_Skeleton_BRLegRoot/Quadruped_Skeleton_BRFemur/Quadruped_Skeleton_BRTibia/Quadruped_Skeleton_BRMetarsal
+        weight: 1
+      - path: Scene_Root/Quadruped_Skeleton/Quadruped_Skeleton_GlobalSRT/Quadruped_Skeleton_UpperBody/Quadruped_Skeleton_BRLegRoot/Quadruped_Skeleton_BRFemur/Quadruped_Skeleton_BRTibia/Quadruped_Skeleton_BRMetarsal/Quadruped_Skeleton_eff4
+        weight: 1
+      - path: Scene_Root/Quadruped_Skeleton/Quadruped_Skeleton_GlobalSRT/Quadruped_Skeleton_UpperBody/Quadruped_Skeleton_BRLegRoot/Quadruped_Skeleton_BRFemur/Quadruped_Skeleton_BRTibia/Quadruped_Skeleton_BRMetarsal/Quadruped_Skeleton_eff4/Quadruped_Skeleton_BRFootRoot
+        weight: 1
+      - path: Scene_Root/Quadruped_Skeleton/Quadruped_Skeleton_GlobalSRT/Quadruped_Skeleton_UpperBody/Quadruped_Skeleton_BRLegRoot/Quadruped_Skeleton_BRFemur/Quadruped_Skeleton_BRTibia/Quadruped_Skeleton_BRMetarsal/Quadruped_Skeleton_eff4/Quadruped_Skeleton_BRFootRoot/Quadruped_Skeleton_BRFootBone1
+        weight: 1
+      - path: Scene_Root/Quadruped_Skeleton/Quadruped_Skeleton_GlobalSRT/Quadruped_Skeleton_UpperBody/Quadruped_Skeleton_BRLegRoot/Quadruped_Skeleton_BRFemur/Quadruped_Skeleton_BRTibia/Quadruped_Skeleton_BRMetarsal/Quadruped_Skeleton_eff4/Quadruped_Skeleton_BRFootRoot/Quadruped_Skeleton_BRFootBone1/Quadruped_Skeleton_BRFootBone2
+        weight: 1
+      - path: Scene_Root/Quadruped_Skeleton/Quadruped_Skeleton_GlobalSRT/Quadruped_Skeleton_UpperBody/Quadruped_Skeleton_BRLegRoot/Quadruped_Skeleton_BRFemur/Quadruped_Skeleton_BRTibia/Quadruped_Skeleton_BRMetarsal/Quadruped_Skeleton_eff4/Quadruped_Skeleton_BRFootRoot/Quadruped_Skeleton_BRFootBone1/Quadruped_Skeleton_BRFootBone2/Quadruped_Skeleton_BRFootBone3
+        weight: 1
+      - path: Scene_Root/Quadruped_Skeleton/Quadruped_Skeleton_GlobalSRT/Quadruped_Skeleton_UpperBody/Quadruped_Skeleton_root3
+        weight: 1
+      - path: Scene_Root/Quadruped_Skeleton/Quadruped_Skeleton_GlobalSRT/Quadruped_Skeleton_UpperBody/Quadruped_Skeleton_root3/Quadruped_Skeleton_Tail1
+        weight: 1
+      - path: Scene_Root/Quadruped_Skeleton/Quadruped_Skeleton_GlobalSRT/Quadruped_Skeleton_UpperBody/Quadruped_Skeleton_root3/Quadruped_Skeleton_Tail1/Quadruped_Skeleton_Tail2
+        weight: 1
+      - path: Scene_Root/Quadruped_Skeleton/Quadruped_Skeleton_GlobalSRT/Quadruped_Skeleton_UpperBody/Quadruped_Skeleton_root3/Quadruped_Skeleton_Tail1/Quadruped_Skeleton_Tail2/Quadruped_Skeleton_Tail3
+        weight: 1
+      - path: Scene_Root/Quadruped_Skeleton/Quadruped_Skeleton_GlobalSRT/Quadruped_Skeleton_UpperBody/Quadruped_Skeleton_root3/Quadruped_Skeleton_Tail1/Quadruped_Skeleton_Tail2/Quadruped_Skeleton_Tail3/Quadruped_Skeleton_Tail4
+        weight: 1
+      - path: Scene_Root/Quadruped_Skeleton/Quadruped_Skeleton_GlobalSRT/Quadruped_Skeleton_UpperBody/Quadruped_Skeleton_root3/Quadruped_Skeleton_Tail1/Quadruped_Skeleton_Tail2/Quadruped_Skeleton_Tail3/Quadruped_Skeleton_Tail4/Quadruped_Skeleton_Tail5
+        weight: 1
+      - path: Scene_Root/Quadruped_Skeleton/Quadruped_Skeleton_GlobalSRT/Quadruped_Skeleton_UpperBody/Quadruped_Skeleton_root3/Quadruped_Skeleton_Tail1/Quadruped_Skeleton_Tail2/Quadruped_Skeleton_Tail3/Quadruped_Skeleton_Tail4/Quadruped_Skeleton_Tail5/Quadruped_Skeleton_Tail6
+        weight: 1
+      - path: Scene_Root/Quadruped_Skeleton/Quadruped_Skeleton_GlobalSRT/Quadruped_Skeleton_UpperBody/Quadruped_Skeleton_SpineRoot
+        weight: 1
+      - path: Scene_Root/Quadruped_Skeleton/Quadruped_Skeleton_GlobalSRT/Quadruped_Skeleton_UpperBody/Quadruped_Skeleton_SpineRoot/Quadruped_Skeleton_Spine1
+        weight: 1
+      - path: Scene_Root/Quadruped_Skeleton/Quadruped_Skeleton_GlobalSRT/Quadruped_Skeleton_UpperBody/Quadruped_Skeleton_SpineRoot/Quadruped_Skeleton_Spine1/Quadruped_Skeleton_Spine2
+        weight: 1
+      - path: Scene_Root/Quadruped_Skeleton/Quadruped_Skeleton_GlobalSRT/Quadruped_Skeleton_UpperBody/Quadruped_Skeleton_SpineRoot/Quadruped_Skeleton_Spine1/Quadruped_Skeleton_Spine2/Quadruped_Skeleton_Spine3
+        weight: 1
+      - path: Scene_Root/Quadruped_Skeleton/Quadruped_Skeleton_GlobalSRT/Quadruped_Skeleton_UpperBody/Quadruped_Skeleton_SpineRoot/Quadruped_Skeleton_Spine1/Quadruped_Skeleton_Spine2/Quadruped_Skeleton_Spine3/Quadruped_Skeleton_Chest
+        weight: 1
+      - path: Scene_Root/Quadruped_Skeleton/Quadruped_Skeleton_GlobalSRT/Quadruped_Skeleton_UpperBody/Quadruped_Skeleton_SpineRoot/Quadruped_Skeleton_Spine1/Quadruped_Skeleton_Spine2/Quadruped_Skeleton_Spine3/Quadruped_Skeleton_Chest/Quadruped_Skeleton_ChestEffector
+        weight: 1
+      - path: Scene_Root/Quadruped_Skeleton/Quadruped_Skeleton_GlobalSRT/Quadruped_Skeleton_UpperBody/Quadruped_Skeleton_SpineRoot/Quadruped_Skeleton_Spine1/Quadruped_Skeleton_Spine2/Quadruped_Skeleton_Spine3/Quadruped_Skeleton_Chest/Quadruped_Skeleton_ChestEffector/Quadruped_Skeleton_LShoulderRoot
+        weight: 1
+      - path: Scene_Root/Quadruped_Skeleton/Quadruped_Skeleton_GlobalSRT/Quadruped_Skeleton_UpperBody/Quadruped_Skeleton_SpineRoot/Quadruped_Skeleton_Spine1/Quadruped_Skeleton_Spine2/Quadruped_Skeleton_Spine3/Quadruped_Skeleton_Chest/Quadruped_Skeleton_ChestEffector/Quadruped_Skeleton_LShoulderRoot/Quadruped_Skeleton_LShoulder
+        weight: 1
+      - path: Scene_Root/Quadruped_Skeleton/Quadruped_Skeleton_GlobalSRT/Quadruped_Skeleton_UpperBody/Quadruped_Skeleton_SpineRoot/Quadruped_Skeleton_Spine1/Quadruped_Skeleton_Spine2/Quadruped_Skeleton_Spine3/Quadruped_Skeleton_Chest/Quadruped_Skeleton_ChestEffector/Quadruped_Skeleton_LShoulderRoot/Quadruped_Skeleton_LShoulder/Quadruped_Skeleton_eff1
+        weight: 1
+      - path: Scene_Root/Quadruped_Skeleton/Quadruped_Skeleton_GlobalSRT/Quadruped_Skeleton_UpperBody/Quadruped_Skeleton_SpineRoot/Quadruped_Skeleton_Spine1/Quadruped_Skeleton_Spine2/Quadruped_Skeleton_Spine3/Quadruped_Skeleton_Chest/Quadruped_Skeleton_ChestEffector/Quadruped_Skeleton_LShoulderRoot/Quadruped_Skeleton_LShoulder/Quadruped_Skeleton_eff1/Quadruped_Skeleton_LRoot
+        weight: 1
+      - path: Scene_Root/Quadruped_Skeleton/Quadruped_Skeleton_GlobalSRT/Quadruped_Skeleton_UpperBody/Quadruped_Skeleton_SpineRoot/Quadruped_Skeleton_Spine1/Quadruped_Skeleton_Spine2/Quadruped_Skeleton_Spine3/Quadruped_Skeleton_Chest/Quadruped_Skeleton_ChestEffector/Quadruped_Skeleton_LShoulderRoot/Quadruped_Skeleton_LShoulder/Quadruped_Skeleton_eff1/Quadruped_Skeleton_LRoot/Quadruped_Skeleton_LThigh
+        weight: 1
+      - path: Scene_Root/Quadruped_Skeleton/Quadruped_Skeleton_GlobalSRT/Quadruped_Skeleton_UpperBody/Quadruped_Skeleton_SpineRoot/Quadruped_Skeleton_Spine1/Quadruped_Skeleton_Spine2/Quadruped_Skeleton_Spine3/Quadruped_Skeleton_Chest/Quadruped_Skeleton_ChestEffector/Quadruped_Skeleton_LShoulderRoot/Quadruped_Skeleton_LShoulder/Quadruped_Skeleton_eff1/Quadruped_Skeleton_LRoot/Quadruped_Skeleton_LThigh/Quadruped_Skeleton_LShin
+        weight: 1
+      - path: Scene_Root/Quadruped_Skeleton/Quadruped_Skeleton_GlobalSRT/Quadruped_Skeleton_UpperBody/Quadruped_Skeleton_SpineRoot/Quadruped_Skeleton_Spine1/Quadruped_Skeleton_Spine2/Quadruped_Skeleton_Spine3/Quadruped_Skeleton_Chest/Quadruped_Skeleton_ChestEffector/Quadruped_Skeleton_LShoulderRoot/Quadruped_Skeleton_LShoulder/Quadruped_Skeleton_eff1/Quadruped_Skeleton_LRoot/Quadruped_Skeleton_LThigh/Quadruped_Skeleton_LShin/Quadruped_Skeleton_eff6
+        weight: 1
+      - path: Scene_Root/Quadruped_Skeleton/Quadruped_Skeleton_GlobalSRT/Quadruped_Skeleton_UpperBody/Quadruped_Skeleton_SpineRoot/Quadruped_Skeleton_Spine1/Quadruped_Skeleton_Spine2/Quadruped_Skeleton_Spine3/Quadruped_Skeleton_Chest/Quadruped_Skeleton_ChestEffector/Quadruped_Skeleton_LShoulderRoot/Quadruped_Skeleton_LShoulder/Quadruped_Skeleton_eff1/Quadruped_Skeleton_LRoot/Quadruped_Skeleton_LThigh/Quadruped_Skeleton_LShin/Quadruped_Skeleton_eff6/Quadruped_Skeleton_LFootRoot
+        weight: 1
+      - path: Scene_Root/Quadruped_Skeleton/Quadruped_Skeleton_GlobalSRT/Quadruped_Skeleton_UpperBody/Quadruped_Skeleton_SpineRoot/Quadruped_Skeleton_Spine1/Quadruped_Skeleton_Spine2/Quadruped_Skeleton_Spine3/Quadruped_Skeleton_Chest/Quadruped_Skeleton_ChestEffector/Quadruped_Skeleton_LShoulderRoot/Quadruped_Skeleton_LShoulder/Quadruped_Skeleton_eff1/Quadruped_Skeleton_LRoot/Quadruped_Skeleton_LThigh/Quadruped_Skeleton_LShin/Quadruped_Skeleton_eff6/Quadruped_Skeleton_LFootRoot/Quadruped_Skeleton_LFootBone1
+        weight: 1
+      - path: Scene_Root/Quadruped_Skeleton/Quadruped_Skeleton_GlobalSRT/Quadruped_Skeleton_UpperBody/Quadruped_Skeleton_SpineRoot/Quadruped_Skeleton_Spine1/Quadruped_Skeleton_Spine2/Quadruped_Skeleton_Spine3/Quadruped_Skeleton_Chest/Quadruped_Skeleton_ChestEffector/Quadruped_Skeleton_LShoulderRoot/Quadruped_Skeleton_LShoulder/Quadruped_Skeleton_eff1/Quadruped_Skeleton_LRoot/Quadruped_Skeleton_LThigh/Quadruped_Skeleton_LShin/Quadruped_Skeleton_eff6/Quadruped_Skeleton_LFootRoot/Quadruped_Skeleton_LFootBone1/Quadruped_Skeleton_LFootBone2
+        weight: 1
+      - path: Scene_Root/Quadruped_Skeleton/Quadruped_Skeleton_GlobalSRT/Quadruped_Skeleton_UpperBody/Quadruped_Skeleton_SpineRoot/Quadruped_Skeleton_Spine1/Quadruped_Skeleton_Spine2/Quadruped_Skeleton_Spine3/Quadruped_Skeleton_Chest/Quadruped_Skeleton_ChestEffector/Quadruped_Skeleton_LShoulderRoot/Quadruped_Skeleton_LShoulder/Quadruped_Skeleton_eff1/Quadruped_Skeleton_LRoot/Quadruped_Skeleton_LThigh/Quadruped_Skeleton_LShin/Quadruped_Skeleton_eff6/Quadruped_Skeleton_LFootRoot/Quadruped_Skeleton_LFootBone1/Quadruped_Skeleton_LFootBone2/Quadruped_Skeleton_LFootBone3
+        weight: 1
+      - path: Scene_Root/Quadruped_Skeleton/Quadruped_Skeleton_GlobalSRT/Quadruped_Skeleton_UpperBody/Quadruped_Skeleton_SpineRoot/Quadruped_Skeleton_Spine1/Quadruped_Skeleton_Spine2/Quadruped_Skeleton_Spine3/Quadruped_Skeleton_Chest/Quadruped_Skeleton_ChestEffector/Quadruped_Skeleton_RShoulderRoot
+        weight: 1
+      - path: Scene_Root/Quadruped_Skeleton/Quadruped_Skeleton_GlobalSRT/Quadruped_Skeleton_UpperBody/Quadruped_Skeleton_SpineRoot/Quadruped_Skeleton_Spine1/Quadruped_Skeleton_Spine2/Quadruped_Skeleton_Spine3/Quadruped_Skeleton_Chest/Quadruped_Skeleton_ChestEffector/Quadruped_Skeleton_RShoulderRoot/Quadruped_Skeleton_RShoulder
+        weight: 1
+      - path: Scene_Root/Quadruped_Skeleton/Quadruped_Skeleton_GlobalSRT/Quadruped_Skeleton_UpperBody/Quadruped_Skeleton_SpineRoot/Quadruped_Skeleton_Spine1/Quadruped_Skeleton_Spine2/Quadruped_Skeleton_Spine3/Quadruped_Skeleton_Chest/Quadruped_Skeleton_ChestEffector/Quadruped_Skeleton_RShoulderRoot/Quadruped_Skeleton_RShoulder/Quadruped_Skeleton_eff
+        weight: 1
+      - path: Scene_Root/Quadruped_Skeleton/Quadruped_Skeleton_GlobalSRT/Quadruped_Skeleton_UpperBody/Quadruped_Skeleton_SpineRoot/Quadruped_Skeleton_Spine1/Quadruped_Skeleton_Spine2/Quadruped_Skeleton_Spine3/Quadruped_Skeleton_Chest/Quadruped_Skeleton_ChestEffector/Quadruped_Skeleton_RShoulderRoot/Quadruped_Skeleton_RShoulder/Quadruped_Skeleton_eff/Quadruped_Skeleton_RRoot
+        weight: 1
+      - path: Scene_Root/Quadruped_Skeleton/Quadruped_Skeleton_GlobalSRT/Quadruped_Skeleton_UpperBody/Quadruped_Skeleton_SpineRoot/Quadruped_Skeleton_Spine1/Quadruped_Skeleton_Spine2/Quadruped_Skeleton_Spine3/Quadruped_Skeleton_Chest/Quadruped_Skeleton_ChestEffector/Quadruped_Skeleton_RShoulderRoot/Quadruped_Skeleton_RShoulder/Quadruped_Skeleton_eff/Quadruped_Skeleton_RRoot/Quadruped_Skeleton_RThigh
+        weight: 1
+      - path: Scene_Root/Quadruped_Skeleton/Quadruped_Skeleton_GlobalSRT/Quadruped_Skeleton_UpperBody/Quadruped_Skeleton_SpineRoot/Quadruped_Skeleton_Spine1/Quadruped_Skeleton_Spine2/Quadruped_Skeleton_Spine3/Quadruped_Skeleton_Chest/Quadruped_Skeleton_ChestEffector/Quadruped_Skeleton_RShoulderRoot/Quadruped_Skeleton_RShoulder/Quadruped_Skeleton_eff/Quadruped_Skeleton_RRoot/Quadruped_Skeleton_RThigh/Quadruped_Skeleton_RShin
+        weight: 1
+      - path: Scene_Root/Quadruped_Skeleton/Quadruped_Skeleton_GlobalSRT/Quadruped_Skeleton_UpperBody/Quadruped_Skeleton_SpineRoot/Quadruped_Skeleton_Spine1/Quadruped_Skeleton_Spine2/Quadruped_Skeleton_Spine3/Quadruped_Skeleton_Chest/Quadruped_Skeleton_ChestEffector/Quadruped_Skeleton_RShoulderRoot/Quadruped_Skeleton_RShoulder/Quadruped_Skeleton_eff/Quadruped_Skeleton_RRoot/Quadruped_Skeleton_RThigh/Quadruped_Skeleton_RShin/Quadruped_Skeleton_eff7
+        weight: 1
+      - path: Scene_Root/Quadruped_Skeleton/Quadruped_Skeleton_GlobalSRT/Quadruped_Skeleton_UpperBody/Quadruped_Skeleton_SpineRoot/Quadruped_Skeleton_Spine1/Quadruped_Skeleton_Spine2/Quadruped_Skeleton_Spine3/Quadruped_Skeleton_Chest/Quadruped_Skeleton_ChestEffector/Quadruped_Skeleton_RShoulderRoot/Quadruped_Skeleton_RShoulder/Quadruped_Skeleton_eff/Quadruped_Skeleton_RRoot/Quadruped_Skeleton_RThigh/Quadruped_Skeleton_RShin/Quadruped_Skeleton_eff7/Quadruped_Skeleton_RFootRoot
+        weight: 1
+      - path: Scene_Root/Quadruped_Skeleton/Quadruped_Skeleton_GlobalSRT/Quadruped_Skeleton_UpperBody/Quadruped_Skeleton_SpineRoot/Quadruped_Skeleton_Spine1/Quadruped_Skeleton_Spine2/Quadruped_Skeleton_Spine3/Quadruped_Skeleton_Chest/Quadruped_Skeleton_ChestEffector/Quadruped_Skeleton_RShoulderRoot/Quadruped_Skeleton_RShoulder/Quadruped_Skeleton_eff/Quadruped_Skeleton_RRoot/Quadruped_Skeleton_RThigh/Quadruped_Skeleton_RShin/Quadruped_Skeleton_eff7/Quadruped_Skeleton_RFootRoot/Quadruped_Skeleton_RFootBone1
+        weight: 1
+      - path: Scene_Root/Quadruped_Skeleton/Quadruped_Skeleton_GlobalSRT/Quadruped_Skeleton_UpperBody/Quadruped_Skeleton_SpineRoot/Quadruped_Skeleton_Spine1/Quadruped_Skeleton_Spine2/Quadruped_Skeleton_Spine3/Quadruped_Skeleton_Chest/Quadruped_Skeleton_ChestEffector/Quadruped_Skeleton_RShoulderRoot/Quadruped_Skeleton_RShoulder/Quadruped_Skeleton_eff/Quadruped_Skeleton_RRoot/Quadruped_Skeleton_RThigh/Quadruped_Skeleton_RShin/Quadruped_Skeleton_eff7/Quadruped_Skeleton_RFootRoot/Quadruped_Skeleton_RFootBone1/Quadruped_Skeleton_RFootBone2
+        weight: 1
+      - path: Scene_Root/Quadruped_Skeleton/Quadruped_Skeleton_GlobalSRT/Quadruped_Skeleton_UpperBody/Quadruped_Skeleton_SpineRoot/Quadruped_Skeleton_Spine1/Quadruped_Skeleton_Spine2/Quadruped_Skeleton_Spine3/Quadruped_Skeleton_Chest/Quadruped_Skeleton_ChestEffector/Quadruped_Skeleton_RShoulderRoot/Quadruped_Skeleton_RShoulder/Quadruped_Skeleton_eff/Quadruped_Skeleton_RRoot/Quadruped_Skeleton_RThigh/Quadruped_Skeleton_RShin/Quadruped_Skeleton_eff7/Quadruped_Skeleton_RFootRoot/Quadruped_Skeleton_RFootBone1/Quadruped_Skeleton_RFootBone2/Quadruped_Skeleton_RFootBone3
+        weight: 1
+      - path: Scene_Root/Quadruped_Skeleton/Quadruped_Skeleton_GlobalSRT/Quadruped_Skeleton_UpperBody/Quadruped_Skeleton_SpineRoot/Quadruped_Skeleton_Spine1/Quadruped_Skeleton_Spine2/Quadruped_Skeleton_Spine3/Quadruped_Skeleton_Chest/Quadruped_Skeleton_ChestEffector/Quadruped_Skeleton_SpineRoot1
+        weight: 1
+      - path: Scene_Root/Quadruped_Skeleton/Quadruped_Skeleton_GlobalSRT/Quadruped_Skeleton_UpperBody/Quadruped_Skeleton_SpineRoot/Quadruped_Skeleton_Spine1/Quadruped_Skeleton_Spine2/Quadruped_Skeleton_Spine3/Quadruped_Skeleton_Chest/Quadruped_Skeleton_ChestEffector/Quadruped_Skeleton_SpineRoot1/Quadruped_Skeleton_Spine4
+        weight: 1
+      - path: Scene_Root/Quadruped_Skeleton/Quadruped_Skeleton_GlobalSRT/Quadruped_Skeleton_UpperBody/Quadruped_Skeleton_SpineRoot/Quadruped_Skeleton_Spine1/Quadruped_Skeleton_Spine2/Quadruped_Skeleton_Spine3/Quadruped_Skeleton_Chest/Quadruped_Skeleton_ChestEffector/Quadruped_Skeleton_SpineRoot1/Quadruped_Skeleton_Spine4/Quadruped_Skeleton_Spine5
+        weight: 1
+      - path: Scene_Root/Quadruped_Skeleton/Quadruped_Skeleton_GlobalSRT/Quadruped_Skeleton_UpperBody/Quadruped_Skeleton_SpineRoot/Quadruped_Skeleton_Spine1/Quadruped_Skeleton_Spine2/Quadruped_Skeleton_Spine3/Quadruped_Skeleton_Chest/Quadruped_Skeleton_ChestEffector/Quadruped_Skeleton_SpineRoot1/Quadruped_Skeleton_Spine4/Quadruped_Skeleton_Spine5/Quadruped_Skeleton_Spine6
+        weight: 1
+      - path: Scene_Root/Quadruped_Skeleton/Quadruped_Skeleton_GlobalSRT/Quadruped_Skeleton_UpperBody/Quadruped_Skeleton_SpineRoot/Quadruped_Skeleton_Spine1/Quadruped_Skeleton_Spine2/Quadruped_Skeleton_Spine3/Quadruped_Skeleton_Chest/Quadruped_Skeleton_ChestEffector/Quadruped_Skeleton_SpineRoot1/Quadruped_Skeleton_Spine4/Quadruped_Skeleton_Spine5/Quadruped_Skeleton_Spine6/Quadruped_Skeleton_Chest1
+        weight: 1
+      - path: Scene_Root/root
+        weight: 1
+      - path: Scene_Root/root/bone
+        weight: 1
+      - path: Scene_Root/root/bone/bone1
+        weight: 1
+      - path: Scene_Root/root1
+        weight: 1
+      - path: Scene_Root/root1/bone2
+        weight: 1
+      - path: Scene_Root/root1/bone2/bone3
+        weight: 1
+      - path: Scene_Root/root2
+        weight: 1
+      - path: Scene_Root/root2/bone4
+        weight: 1
+      - path: Scene_Root/root2/bone4/bone5
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Take 002
+      takeName: Take 001
+      firstFrame: 120
+      lastFrame: 183
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0
+        functionName: PlayAudio
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.9831933
+        functionName: Stop
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: modelGro
+        weight: 1
+      - path: modelGro/Zebra
+        weight: 1
+      - path: modelGro/ZebraTRS1
+        weight: 1
+      - path: Scene_Root
+        weight: 1
+      - path: Scene_Root/Quadruped_Skeleton
+        weight: 1
+      - path: Scene_Root/Quadruped_Skeleton/Quadruped_Skeleton_GlobalSRT
+        weight: 1
+      - path: Scene_Root/Quadruped_Skeleton/Quadruped_Skeleton_GlobalSRT/Quadruped_Skeleton_UpperBody
+        weight: 1
+      - path: Scene_Root/Quadruped_Skeleton/Quadruped_Skeleton_GlobalSRT/Quadruped_Skeleton_UpperBody/Quadruped_Skeleton_BLLegRoot
+        weight: 1
+      - path: Scene_Root/Quadruped_Skeleton/Quadruped_Skeleton_GlobalSRT/Quadruped_Skeleton_UpperBody/Quadruped_Skeleton_BLLegRoot/Quadruped_Skeleton_BLFemur
+        weight: 1
+      - path: Scene_Root/Quadruped_Skeleton/Quadruped_Skeleton_GlobalSRT/Quadruped_Skeleton_UpperBody/Quadruped_Skeleton_BLLegRoot/Quadruped_Skeleton_BLFemur/Quadruped_Skeleton_BLTibia
+        weight: 1
+      - path: Scene_Root/Quadruped_Skeleton/Quadruped_Skeleton_GlobalSRT/Quadruped_Skeleton_UpperBody/Quadruped_Skeleton_BLLegRoot/Quadruped_Skeleton_BLFemur/Quadruped_Skeleton_BLTibia/Quadruped_Skeleton_BLMetarsal
+        weight: 1
+      - path: Scene_Root/Quadruped_Skeleton/Quadruped_Skeleton_GlobalSRT/Quadruped_Skeleton_UpperBody/Quadruped_Skeleton_BLLegRoot/Quadruped_Skeleton_BLFemur/Quadruped_Skeleton_BLTibia/Quadruped_Skeleton_BLMetarsal/Quadruped_Skeleton_eff2
+        weight: 1
+      - path: Scene_Root/Quadruped_Skeleton/Quadruped_Skeleton_GlobalSRT/Quadruped_Skeleton_UpperBody/Quadruped_Skeleton_BLLegRoot/Quadruped_Skeleton_BLFemur/Quadruped_Skeleton_BLTibia/Quadruped_Skeleton_BLMetarsal/Quadruped_Skeleton_eff2/Quadruped_Skeleton_BLFootRoot
+        weight: 1
+      - path: Scene_Root/Quadruped_Skeleton/Quadruped_Skeleton_GlobalSRT/Quadruped_Skeleton_UpperBody/Quadruped_Skeleton_BLLegRoot/Quadruped_Skeleton_BLFemur/Quadruped_Skeleton_BLTibia/Quadruped_Skeleton_BLMetarsal/Quadruped_Skeleton_eff2/Quadruped_Skeleton_BLFootRoot/Quadruped_Skeleton_BLFootBone1
+        weight: 1
+      - path: Scene_Root/Quadruped_Skeleton/Quadruped_Skeleton_GlobalSRT/Quadruped_Skeleton_UpperBody/Quadruped_Skeleton_BLLegRoot/Quadruped_Skeleton_BLFemur/Quadruped_Skeleton_BLTibia/Quadruped_Skeleton_BLMetarsal/Quadruped_Skeleton_eff2/Quadruped_Skeleton_BLFootRoot/Quadruped_Skeleton_BLFootBone1/Quadruped_Skeleton_BLFootBone2
+        weight: 1
+      - path: Scene_Root/Quadruped_Skeleton/Quadruped_Skeleton_GlobalSRT/Quadruped_Skeleton_UpperBody/Quadruped_Skeleton_BLLegRoot/Quadruped_Skeleton_BLFemur/Quadruped_Skeleton_BLTibia/Quadruped_Skeleton_BLMetarsal/Quadruped_Skeleton_eff2/Quadruped_Skeleton_BLFootRoot/Quadruped_Skeleton_BLFootBone1/Quadruped_Skeleton_BLFootBone2/Quadruped_Skeleton_BLFootBone3
+        weight: 1
+      - path: Scene_Root/Quadruped_Skeleton/Quadruped_Skeleton_GlobalSRT/Quadruped_Skeleton_UpperBody/Quadruped_Skeleton_BRLegRoot
+        weight: 1
+      - path: Scene_Root/Quadruped_Skeleton/Quadruped_Skeleton_GlobalSRT/Quadruped_Skeleton_UpperBody/Quadruped_Skeleton_BRLegRoot/Quadruped_Skeleton_BRFemur
+        weight: 1
+      - path: Scene_Root/Quadruped_Skeleton/Quadruped_Skeleton_GlobalSRT/Quadruped_Skeleton_UpperBody/Quadruped_Skeleton_BRLegRoot/Quadruped_Skeleton_BRFemur/Quadruped_Skeleton_BRTibia
+        weight: 1
+      - path: Scene_Root/Quadruped_Skeleton/Quadruped_Skeleton_GlobalSRT/Quadruped_Skeleton_UpperBody/Quadruped_Skeleton_BRLegRoot/Quadruped_Skeleton_BRFemur/Quadruped_Skeleton_BRTibia/Quadruped_Skeleton_BRMetarsal
+        weight: 1
+      - path: Scene_Root/Quadruped_Skeleton/Quadruped_Skeleton_GlobalSRT/Quadruped_Skeleton_UpperBody/Quadruped_Skeleton_BRLegRoot/Quadruped_Skeleton_BRFemur/Quadruped_Skeleton_BRTibia/Quadruped_Skeleton_BRMetarsal/Quadruped_Skeleton_eff4
+        weight: 1
+      - path: Scene_Root/Quadruped_Skeleton/Quadruped_Skeleton_GlobalSRT/Quadruped_Skeleton_UpperBody/Quadruped_Skeleton_BRLegRoot/Quadruped_Skeleton_BRFemur/Quadruped_Skeleton_BRTibia/Quadruped_Skeleton_BRMetarsal/Quadruped_Skeleton_eff4/Quadruped_Skeleton_BRFootRoot
+        weight: 1
+      - path: Scene_Root/Quadruped_Skeleton/Quadruped_Skeleton_GlobalSRT/Quadruped_Skeleton_UpperBody/Quadruped_Skeleton_BRLegRoot/Quadruped_Skeleton_BRFemur/Quadruped_Skeleton_BRTibia/Quadruped_Skeleton_BRMetarsal/Quadruped_Skeleton_eff4/Quadruped_Skeleton_BRFootRoot/Quadruped_Skeleton_BRFootBone1
+        weight: 1
+      - path: Scene_Root/Quadruped_Skeleton/Quadruped_Skeleton_GlobalSRT/Quadruped_Skeleton_UpperBody/Quadruped_Skeleton_BRLegRoot/Quadruped_Skeleton_BRFemur/Quadruped_Skeleton_BRTibia/Quadruped_Skeleton_BRMetarsal/Quadruped_Skeleton_eff4/Quadruped_Skeleton_BRFootRoot/Quadruped_Skeleton_BRFootBone1/Quadruped_Skeleton_BRFootBone2
+        weight: 1
+      - path: Scene_Root/Quadruped_Skeleton/Quadruped_Skeleton_GlobalSRT/Quadruped_Skeleton_UpperBody/Quadruped_Skeleton_BRLegRoot/Quadruped_Skeleton_BRFemur/Quadruped_Skeleton_BRTibia/Quadruped_Skeleton_BRMetarsal/Quadruped_Skeleton_eff4/Quadruped_Skeleton_BRFootRoot/Quadruped_Skeleton_BRFootBone1/Quadruped_Skeleton_BRFootBone2/Quadruped_Skeleton_BRFootBone3
+        weight: 1
+      - path: Scene_Root/Quadruped_Skeleton/Quadruped_Skeleton_GlobalSRT/Quadruped_Skeleton_UpperBody/Quadruped_Skeleton_root3
+        weight: 1
+      - path: Scene_Root/Quadruped_Skeleton/Quadruped_Skeleton_GlobalSRT/Quadruped_Skeleton_UpperBody/Quadruped_Skeleton_root3/Quadruped_Skeleton_Tail1
+        weight: 1
+      - path: Scene_Root/Quadruped_Skeleton/Quadruped_Skeleton_GlobalSRT/Quadruped_Skeleton_UpperBody/Quadruped_Skeleton_root3/Quadruped_Skeleton_Tail1/Quadruped_Skeleton_Tail2
+        weight: 1
+      - path: Scene_Root/Quadruped_Skeleton/Quadruped_Skeleton_GlobalSRT/Quadruped_Skeleton_UpperBody/Quadruped_Skeleton_root3/Quadruped_Skeleton_Tail1/Quadruped_Skeleton_Tail2/Quadruped_Skeleton_Tail3
+        weight: 1
+      - path: Scene_Root/Quadruped_Skeleton/Quadruped_Skeleton_GlobalSRT/Quadruped_Skeleton_UpperBody/Quadruped_Skeleton_root3/Quadruped_Skeleton_Tail1/Quadruped_Skeleton_Tail2/Quadruped_Skeleton_Tail3/Quadruped_Skeleton_Tail4
+        weight: 1
+      - path: Scene_Root/Quadruped_Skeleton/Quadruped_Skeleton_GlobalSRT/Quadruped_Skeleton_UpperBody/Quadruped_Skeleton_root3/Quadruped_Skeleton_Tail1/Quadruped_Skeleton_Tail2/Quadruped_Skeleton_Tail3/Quadruped_Skeleton_Tail4/Quadruped_Skeleton_Tail5
+        weight: 1
+      - path: Scene_Root/Quadruped_Skeleton/Quadruped_Skeleton_GlobalSRT/Quadruped_Skeleton_UpperBody/Quadruped_Skeleton_root3/Quadruped_Skeleton_Tail1/Quadruped_Skeleton_Tail2/Quadruped_Skeleton_Tail3/Quadruped_Skeleton_Tail4/Quadruped_Skeleton_Tail5/Quadruped_Skeleton_Tail6
+        weight: 1
+      - path: Scene_Root/Quadruped_Skeleton/Quadruped_Skeleton_GlobalSRT/Quadruped_Skeleton_UpperBody/Quadruped_Skeleton_SpineRoot
+        weight: 1
+      - path: Scene_Root/Quadruped_Skeleton/Quadruped_Skeleton_GlobalSRT/Quadruped_Skeleton_UpperBody/Quadruped_Skeleton_SpineRoot/Quadruped_Skeleton_Spine1
+        weight: 1
+      - path: Scene_Root/Quadruped_Skeleton/Quadruped_Skeleton_GlobalSRT/Quadruped_Skeleton_UpperBody/Quadruped_Skeleton_SpineRoot/Quadruped_Skeleton_Spine1/Quadruped_Skeleton_Spine2
+        weight: 1
+      - path: Scene_Root/Quadruped_Skeleton/Quadruped_Skeleton_GlobalSRT/Quadruped_Skeleton_UpperBody/Quadruped_Skeleton_SpineRoot/Quadruped_Skeleton_Spine1/Quadruped_Skeleton_Spine2/Quadruped_Skeleton_Spine3
+        weight: 1
+      - path: Scene_Root/Quadruped_Skeleton/Quadruped_Skeleton_GlobalSRT/Quadruped_Skeleton_UpperBody/Quadruped_Skeleton_SpineRoot/Quadruped_Skeleton_Spine1/Quadruped_Skeleton_Spine2/Quadruped_Skeleton_Spine3/Quadruped_Skeleton_Chest
+        weight: 1
+      - path: Scene_Root/Quadruped_Skeleton/Quadruped_Skeleton_GlobalSRT/Quadruped_Skeleton_UpperBody/Quadruped_Skeleton_SpineRoot/Quadruped_Skeleton_Spine1/Quadruped_Skeleton_Spine2/Quadruped_Skeleton_Spine3/Quadruped_Skeleton_Chest/Quadruped_Skeleton_ChestEffector
+        weight: 1
+      - path: Scene_Root/Quadruped_Skeleton/Quadruped_Skeleton_GlobalSRT/Quadruped_Skeleton_UpperBody/Quadruped_Skeleton_SpineRoot/Quadruped_Skeleton_Spine1/Quadruped_Skeleton_Spine2/Quadruped_Skeleton_Spine3/Quadruped_Skeleton_Chest/Quadruped_Skeleton_ChestEffector/Quadruped_Skeleton_LShoulderRoot
+        weight: 1
+      - path: Scene_Root/Quadruped_Skeleton/Quadruped_Skeleton_GlobalSRT/Quadruped_Skeleton_UpperBody/Quadruped_Skeleton_SpineRoot/Quadruped_Skeleton_Spine1/Quadruped_Skeleton_Spine2/Quadruped_Skeleton_Spine3/Quadruped_Skeleton_Chest/Quadruped_Skeleton_ChestEffector/Quadruped_Skeleton_LShoulderRoot/Quadruped_Skeleton_LShoulder
+        weight: 1
+      - path: Scene_Root/Quadruped_Skeleton/Quadruped_Skeleton_GlobalSRT/Quadruped_Skeleton_UpperBody/Quadruped_Skeleton_SpineRoot/Quadruped_Skeleton_Spine1/Quadruped_Skeleton_Spine2/Quadruped_Skeleton_Spine3/Quadruped_Skeleton_Chest/Quadruped_Skeleton_ChestEffector/Quadruped_Skeleton_LShoulderRoot/Quadruped_Skeleton_LShoulder/Quadruped_Skeleton_eff1
+        weight: 1
+      - path: Scene_Root/Quadruped_Skeleton/Quadruped_Skeleton_GlobalSRT/Quadruped_Skeleton_UpperBody/Quadruped_Skeleton_SpineRoot/Quadruped_Skeleton_Spine1/Quadruped_Skeleton_Spine2/Quadruped_Skeleton_Spine3/Quadruped_Skeleton_Chest/Quadruped_Skeleton_ChestEffector/Quadruped_Skeleton_LShoulderRoot/Quadruped_Skeleton_LShoulder/Quadruped_Skeleton_eff1/Quadruped_Skeleton_LRoot
+        weight: 1
+      - path: Scene_Root/Quadruped_Skeleton/Quadruped_Skeleton_GlobalSRT/Quadruped_Skeleton_UpperBody/Quadruped_Skeleton_SpineRoot/Quadruped_Skeleton_Spine1/Quadruped_Skeleton_Spine2/Quadruped_Skeleton_Spine3/Quadruped_Skeleton_Chest/Quadruped_Skeleton_ChestEffector/Quadruped_Skeleton_LShoulderRoot/Quadruped_Skeleton_LShoulder/Quadruped_Skeleton_eff1/Quadruped_Skeleton_LRoot/Quadruped_Skeleton_LThigh
+        weight: 1
+      - path: Scene_Root/Quadruped_Skeleton/Quadruped_Skeleton_GlobalSRT/Quadruped_Skeleton_UpperBody/Quadruped_Skeleton_SpineRoot/Quadruped_Skeleton_Spine1/Quadruped_Skeleton_Spine2/Quadruped_Skeleton_Spine3/Quadruped_Skeleton_Chest/Quadruped_Skeleton_ChestEffector/Quadruped_Skeleton_LShoulderRoot/Quadruped_Skeleton_LShoulder/Quadruped_Skeleton_eff1/Quadruped_Skeleton_LRoot/Quadruped_Skeleton_LThigh/Quadruped_Skeleton_LShin
+        weight: 1
+      - path: Scene_Root/Quadruped_Skeleton/Quadruped_Skeleton_GlobalSRT/Quadruped_Skeleton_UpperBody/Quadruped_Skeleton_SpineRoot/Quadruped_Skeleton_Spine1/Quadruped_Skeleton_Spine2/Quadruped_Skeleton_Spine3/Quadruped_Skeleton_Chest/Quadruped_Skeleton_ChestEffector/Quadruped_Skeleton_LShoulderRoot/Quadruped_Skeleton_LShoulder/Quadruped_Skeleton_eff1/Quadruped_Skeleton_LRoot/Quadruped_Skeleton_LThigh/Quadruped_Skeleton_LShin/Quadruped_Skeleton_eff6
+        weight: 1
+      - path: Scene_Root/Quadruped_Skeleton/Quadruped_Skeleton_GlobalSRT/Quadruped_Skeleton_UpperBody/Quadruped_Skeleton_SpineRoot/Quadruped_Skeleton_Spine1/Quadruped_Skeleton_Spine2/Quadruped_Skeleton_Spine3/Quadruped_Skeleton_Chest/Quadruped_Skeleton_ChestEffector/Quadruped_Skeleton_LShoulderRoot/Quadruped_Skeleton_LShoulder/Quadruped_Skeleton_eff1/Quadruped_Skeleton_LRoot/Quadruped_Skeleton_LThigh/Quadruped_Skeleton_LShin/Quadruped_Skeleton_eff6/Quadruped_Skeleton_LFootRoot
+        weight: 1
+      - path: Scene_Root/Quadruped_Skeleton/Quadruped_Skeleton_GlobalSRT/Quadruped_Skeleton_UpperBody/Quadruped_Skeleton_SpineRoot/Quadruped_Skeleton_Spine1/Quadruped_Skeleton_Spine2/Quadruped_Skeleton_Spine3/Quadruped_Skeleton_Chest/Quadruped_Skeleton_ChestEffector/Quadruped_Skeleton_LShoulderRoot/Quadruped_Skeleton_LShoulder/Quadruped_Skeleton_eff1/Quadruped_Skeleton_LRoot/Quadruped_Skeleton_LThigh/Quadruped_Skeleton_LShin/Quadruped_Skeleton_eff6/Quadruped_Skeleton_LFootRoot/Quadruped_Skeleton_LFootBone1
+        weight: 1
+      - path: Scene_Root/Quadruped_Skeleton/Quadruped_Skeleton_GlobalSRT/Quadruped_Skeleton_UpperBody/Quadruped_Skeleton_SpineRoot/Quadruped_Skeleton_Spine1/Quadruped_Skeleton_Spine2/Quadruped_Skeleton_Spine3/Quadruped_Skeleton_Chest/Quadruped_Skeleton_ChestEffector/Quadruped_Skeleton_LShoulderRoot/Quadruped_Skeleton_LShoulder/Quadruped_Skeleton_eff1/Quadruped_Skeleton_LRoot/Quadruped_Skeleton_LThigh/Quadruped_Skeleton_LShin/Quadruped_Skeleton_eff6/Quadruped_Skeleton_LFootRoot/Quadruped_Skeleton_LFootBone1/Quadruped_Skeleton_LFootBone2
+        weight: 1
+      - path: Scene_Root/Quadruped_Skeleton/Quadruped_Skeleton_GlobalSRT/Quadruped_Skeleton_UpperBody/Quadruped_Skeleton_SpineRoot/Quadruped_Skeleton_Spine1/Quadruped_Skeleton_Spine2/Quadruped_Skeleton_Spine3/Quadruped_Skeleton_Chest/Quadruped_Skeleton_ChestEffector/Quadruped_Skeleton_LShoulderRoot/Quadruped_Skeleton_LShoulder/Quadruped_Skeleton_eff1/Quadruped_Skeleton_LRoot/Quadruped_Skeleton_LThigh/Quadruped_Skeleton_LShin/Quadruped_Skeleton_eff6/Quadruped_Skeleton_LFootRoot/Quadruped_Skeleton_LFootBone1/Quadruped_Skeleton_LFootBone2/Quadruped_Skeleton_LFootBone3
+        weight: 1
+      - path: Scene_Root/Quadruped_Skeleton/Quadruped_Skeleton_GlobalSRT/Quadruped_Skeleton_UpperBody/Quadruped_Skeleton_SpineRoot/Quadruped_Skeleton_Spine1/Quadruped_Skeleton_Spine2/Quadruped_Skeleton_Spine3/Quadruped_Skeleton_Chest/Quadruped_Skeleton_ChestEffector/Quadruped_Skeleton_RShoulderRoot
+        weight: 1
+      - path: Scene_Root/Quadruped_Skeleton/Quadruped_Skeleton_GlobalSRT/Quadruped_Skeleton_UpperBody/Quadruped_Skeleton_SpineRoot/Quadruped_Skeleton_Spine1/Quadruped_Skeleton_Spine2/Quadruped_Skeleton_Spine3/Quadruped_Skeleton_Chest/Quadruped_Skeleton_ChestEffector/Quadruped_Skeleton_RShoulderRoot/Quadruped_Skeleton_RShoulder
+        weight: 1
+      - path: Scene_Root/Quadruped_Skeleton/Quadruped_Skeleton_GlobalSRT/Quadruped_Skeleton_UpperBody/Quadruped_Skeleton_SpineRoot/Quadruped_Skeleton_Spine1/Quadruped_Skeleton_Spine2/Quadruped_Skeleton_Spine3/Quadruped_Skeleton_Chest/Quadruped_Skeleton_ChestEffector/Quadruped_Skeleton_RShoulderRoot/Quadruped_Skeleton_RShoulder/Quadruped_Skeleton_eff
+        weight: 1
+      - path: Scene_Root/Quadruped_Skeleton/Quadruped_Skeleton_GlobalSRT/Quadruped_Skeleton_UpperBody/Quadruped_Skeleton_SpineRoot/Quadruped_Skeleton_Spine1/Quadruped_Skeleton_Spine2/Quadruped_Skeleton_Spine3/Quadruped_Skeleton_Chest/Quadruped_Skeleton_ChestEffector/Quadruped_Skeleton_RShoulderRoot/Quadruped_Skeleton_RShoulder/Quadruped_Skeleton_eff/Quadruped_Skeleton_RRoot
+        weight: 1
+      - path: Scene_Root/Quadruped_Skeleton/Quadruped_Skeleton_GlobalSRT/Quadruped_Skeleton_UpperBody/Quadruped_Skeleton_SpineRoot/Quadruped_Skeleton_Spine1/Quadruped_Skeleton_Spine2/Quadruped_Skeleton_Spine3/Quadruped_Skeleton_Chest/Quadruped_Skeleton_ChestEffector/Quadruped_Skeleton_RShoulderRoot/Quadruped_Skeleton_RShoulder/Quadruped_Skeleton_eff/Quadruped_Skeleton_RRoot/Quadruped_Skeleton_RThigh
+        weight: 1
+      - path: Scene_Root/Quadruped_Skeleton/Quadruped_Skeleton_GlobalSRT/Quadruped_Skeleton_UpperBody/Quadruped_Skeleton_SpineRoot/Quadruped_Skeleton_Spine1/Quadruped_Skeleton_Spine2/Quadruped_Skeleton_Spine3/Quadruped_Skeleton_Chest/Quadruped_Skeleton_ChestEffector/Quadruped_Skeleton_RShoulderRoot/Quadruped_Skeleton_RShoulder/Quadruped_Skeleton_eff/Quadruped_Skeleton_RRoot/Quadruped_Skeleton_RThigh/Quadruped_Skeleton_RShin
+        weight: 1
+      - path: Scene_Root/Quadruped_Skeleton/Quadruped_Skeleton_GlobalSRT/Quadruped_Skeleton_UpperBody/Quadruped_Skeleton_SpineRoot/Quadruped_Skeleton_Spine1/Quadruped_Skeleton_Spine2/Quadruped_Skeleton_Spine3/Quadruped_Skeleton_Chest/Quadruped_Skeleton_ChestEffector/Quadruped_Skeleton_RShoulderRoot/Quadruped_Skeleton_RShoulder/Quadruped_Skeleton_eff/Quadruped_Skeleton_RRoot/Quadruped_Skeleton_RThigh/Quadruped_Skeleton_RShin/Quadruped_Skeleton_eff7
+        weight: 1
+      - path: Scene_Root/Quadruped_Skeleton/Quadruped_Skeleton_GlobalSRT/Quadruped_Skeleton_UpperBody/Quadruped_Skeleton_SpineRoot/Quadruped_Skeleton_Spine1/Quadruped_Skeleton_Spine2/Quadruped_Skeleton_Spine3/Quadruped_Skeleton_Chest/Quadruped_Skeleton_ChestEffector/Quadruped_Skeleton_RShoulderRoot/Quadruped_Skeleton_RShoulder/Quadruped_Skeleton_eff/Quadruped_Skeleton_RRoot/Quadruped_Skeleton_RThigh/Quadruped_Skeleton_RShin/Quadruped_Skeleton_eff7/Quadruped_Skeleton_RFootRoot
+        weight: 1
+      - path: Scene_Root/Quadruped_Skeleton/Quadruped_Skeleton_GlobalSRT/Quadruped_Skeleton_UpperBody/Quadruped_Skeleton_SpineRoot/Quadruped_Skeleton_Spine1/Quadruped_Skeleton_Spine2/Quadruped_Skeleton_Spine3/Quadruped_Skeleton_Chest/Quadruped_Skeleton_ChestEffector/Quadruped_Skeleton_RShoulderRoot/Quadruped_Skeleton_RShoulder/Quadruped_Skeleton_eff/Quadruped_Skeleton_RRoot/Quadruped_Skeleton_RThigh/Quadruped_Skeleton_RShin/Quadruped_Skeleton_eff7/Quadruped_Skeleton_RFootRoot/Quadruped_Skeleton_RFootBone1
+        weight: 1
+      - path: Scene_Root/Quadruped_Skeleton/Quadruped_Skeleton_GlobalSRT/Quadruped_Skeleton_UpperBody/Quadruped_Skeleton_SpineRoot/Quadruped_Skeleton_Spine1/Quadruped_Skeleton_Spine2/Quadruped_Skeleton_Spine3/Quadruped_Skeleton_Chest/Quadruped_Skeleton_ChestEffector/Quadruped_Skeleton_RShoulderRoot/Quadruped_Skeleton_RShoulder/Quadruped_Skeleton_eff/Quadruped_Skeleton_RRoot/Quadruped_Skeleton_RThigh/Quadruped_Skeleton_RShin/Quadruped_Skeleton_eff7/Quadruped_Skeleton_RFootRoot/Quadruped_Skeleton_RFootBone1/Quadruped_Skeleton_RFootBone2
+        weight: 1
+      - path: Scene_Root/Quadruped_Skeleton/Quadruped_Skeleton_GlobalSRT/Quadruped_Skeleton_UpperBody/Quadruped_Skeleton_SpineRoot/Quadruped_Skeleton_Spine1/Quadruped_Skeleton_Spine2/Quadruped_Skeleton_Spine3/Quadruped_Skeleton_Chest/Quadruped_Skeleton_ChestEffector/Quadruped_Skeleton_RShoulderRoot/Quadruped_Skeleton_RShoulder/Quadruped_Skeleton_eff/Quadruped_Skeleton_RRoot/Quadruped_Skeleton_RThigh/Quadruped_Skeleton_RShin/Quadruped_Skeleton_eff7/Quadruped_Skeleton_RFootRoot/Quadruped_Skeleton_RFootBone1/Quadruped_Skeleton_RFootBone2/Quadruped_Skeleton_RFootBone3
+        weight: 1
+      - path: Scene_Root/Quadruped_Skeleton/Quadruped_Skeleton_GlobalSRT/Quadruped_Skeleton_UpperBody/Quadruped_Skeleton_SpineRoot/Quadruped_Skeleton_Spine1/Quadruped_Skeleton_Spine2/Quadruped_Skeleton_Spine3/Quadruped_Skeleton_Chest/Quadruped_Skeleton_ChestEffector/Quadruped_Skeleton_SpineRoot1
+        weight: 1
+      - path: Scene_Root/Quadruped_Skeleton/Quadruped_Skeleton_GlobalSRT/Quadruped_Skeleton_UpperBody/Quadruped_Skeleton_SpineRoot/Quadruped_Skeleton_Spine1/Quadruped_Skeleton_Spine2/Quadruped_Skeleton_Spine3/Quadruped_Skeleton_Chest/Quadruped_Skeleton_ChestEffector/Quadruped_Skeleton_SpineRoot1/Quadruped_Skeleton_Spine4
+        weight: 1
+      - path: Scene_Root/Quadruped_Skeleton/Quadruped_Skeleton_GlobalSRT/Quadruped_Skeleton_UpperBody/Quadruped_Skeleton_SpineRoot/Quadruped_Skeleton_Spine1/Quadruped_Skeleton_Spine2/Quadruped_Skeleton_Spine3/Quadruped_Skeleton_Chest/Quadruped_Skeleton_ChestEffector/Quadruped_Skeleton_SpineRoot1/Quadruped_Skeleton_Spine4/Quadruped_Skeleton_Spine5
+        weight: 1
+      - path: Scene_Root/Quadruped_Skeleton/Quadruped_Skeleton_GlobalSRT/Quadruped_Skeleton_UpperBody/Quadruped_Skeleton_SpineRoot/Quadruped_Skeleton_Spine1/Quadruped_Skeleton_Spine2/Quadruped_Skeleton_Spine3/Quadruped_Skeleton_Chest/Quadruped_Skeleton_ChestEffector/Quadruped_Skeleton_SpineRoot1/Quadruped_Skeleton_Spine4/Quadruped_Skeleton_Spine5/Quadruped_Skeleton_Spine6
+        weight: 1
+      - path: Scene_Root/Quadruped_Skeleton/Quadruped_Skeleton_GlobalSRT/Quadruped_Skeleton_UpperBody/Quadruped_Skeleton_SpineRoot/Quadruped_Skeleton_Spine1/Quadruped_Skeleton_Spine2/Quadruped_Skeleton_Spine3/Quadruped_Skeleton_Chest/Quadruped_Skeleton_ChestEffector/Quadruped_Skeleton_SpineRoot1/Quadruped_Skeleton_Spine4/Quadruped_Skeleton_Spine5/Quadruped_Skeleton_Spine6/Quadruped_Skeleton_Chest1
+        weight: 1
+      - path: Scene_Root/root
+        weight: 1
+      - path: Scene_Root/root/bone
+        weight: 1
+      - path: Scene_Root/root/bone/bone1
+        weight: 1
+      - path: Scene_Root/root1
+        weight: 1
+      - path: Scene_Root/root1/bone2
+        weight: 1
+      - path: Scene_Root/root1/bone2/bone3
+        weight: 1
+      - path: Scene_Root/root2
+        weight: 1
+      - path: Scene_Root/root2/bone4
+        weight: 1
+      - path: Scene_Root/root2/bone4/bone5
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

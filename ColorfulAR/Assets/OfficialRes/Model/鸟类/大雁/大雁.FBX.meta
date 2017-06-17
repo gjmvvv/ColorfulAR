@@ -1,0 +1,594 @@
+fileFormatVersion: 2
+guid: c0d48275a68e5a34e8216a96315dcc2a
+timeCreated: 1476091503
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: DaYan
+    100002: English Dragon
+    100004: English DragonHead
+    100006: English DragonLLeg1
+    100008: English DragonLLeg2
+    100010: English DragonLLeg3
+    100012: English DragonLLegPalm
+    100014: English DragonLLegPlatform
+    100016: English DragonPelvis
+    100018: English DragonRibcage
+    100020: English DragonRLeg1
+    100022: English DragonRLeg2
+    100024: English DragonRLeg3
+    100026: English DragonRLegPalm
+    100028: English DragonRLegPlatform
+    100030: English DragonSpine1
+    100032: English DragonSpine1 1
+    100034: English DragonSpine2
+    100036: English DragonSpine2 1
+    100038: English DragonSpine3
+    100040: English DragonSpine3 1
+    100042: English DragonSpine4
+    100044: English DragonSpine4 1
+    100046: English DragonSpine5
+    100048: English DragonSpine5 1
+    100050: English DragonSpine6
+    100052: English DragonTail1
+    100054: English DragonTail1 1
+    100056: English DragonTail1 2
+    100058: English DragonTail1 3
+    100060: English DragonTail2
+    100062: English DragonTail2 1
+    100064: English DragonTail2 2
+    100066: English DragonTail2 3
+    100068: English DragonTail3
+    100070: English DragonTail3 1
+    100072: English DragonTail3 2
+    100074: English DragonTail4
+    100076: English DragonTail4 1
+    100078: English DragonTail4 2
+    100080: English DragonTail5
+    100082: English DragonTail5 1
+    100084: English DragonTail5 2
+    100086: English DragonTail6
+    100088: English DragonTail6 1
+    100090: English DragonTail7
+    100092: English DragonTail7 1
+    100094: Particle View 01
+    100096: //RootNode
+    400000: DaYan
+    400002: English Dragon
+    400004: English DragonHead
+    400006: English DragonLLeg1
+    400008: English DragonLLeg2
+    400010: English DragonLLeg3
+    400012: English DragonLLegPalm
+    400014: English DragonLLegPlatform
+    400016: English DragonPelvis
+    400018: English DragonRibcage
+    400020: English DragonRLeg1
+    400022: English DragonRLeg2
+    400024: English DragonRLeg3
+    400026: English DragonRLegPalm
+    400028: English DragonRLegPlatform
+    400030: English DragonSpine1
+    400032: English DragonSpine1 1
+    400034: English DragonSpine2
+    400036: English DragonSpine2 1
+    400038: English DragonSpine3
+    400040: English DragonSpine3 1
+    400042: English DragonSpine4
+    400044: English DragonSpine4 1
+    400046: English DragonSpine5
+    400048: English DragonSpine5 1
+    400050: English DragonSpine6
+    400052: English DragonTail1
+    400054: English DragonTail1 1
+    400056: English DragonTail1 2
+    400058: English DragonTail1 3
+    400060: English DragonTail2
+    400062: English DragonTail2 1
+    400064: English DragonTail2 2
+    400066: English DragonTail2 3
+    400068: English DragonTail3
+    400070: English DragonTail3 1
+    400072: English DragonTail3 2
+    400074: English DragonTail4
+    400076: English DragonTail4 1
+    400078: English DragonTail4 2
+    400080: English DragonTail5
+    400082: English DragonTail5 1
+    400084: English DragonTail5 2
+    400086: English DragonTail6
+    400088: English DragonTail6 1
+    400090: English DragonTail7
+    400092: English DragonTail7 1
+    400094: Particle View 01
+    400096: //RootNode
+    4300000: DaYan
+    7400000: Take 001
+    7400002: Take 002
+    9500000: //RootNode
+    13700000: DaYan
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: DaYan
+        weight: 1
+      - path: English Dragon
+        weight: 1
+      - path: English DragonLLegPlatform
+        weight: 1
+      - path: English DragonPelvis
+        weight: 1
+      - path: English DragonPelvis/English DragonLLeg1
+        weight: 1
+      - path: English DragonPelvis/English DragonLLeg1/English DragonLLeg2
+        weight: 1
+      - path: English DragonPelvis/English DragonLLeg1/English DragonLLeg2/English
+          DragonLLeg3
+        weight: 1
+      - path: English DragonPelvis/English DragonLLeg1/English DragonLLeg2/English
+          DragonLLeg3/English DragonLLegPalm
+        weight: 1
+      - path: English DragonPelvis/English DragonRLeg1
+        weight: 1
+      - path: English DragonPelvis/English DragonRLeg1/English DragonRLeg2
+        weight: 1
+      - path: English DragonPelvis/English DragonRLeg1/English DragonRLeg2/English
+          DragonRLeg3
+        weight: 1
+      - path: English DragonPelvis/English DragonRLeg1/English DragonRLeg2/English
+          DragonRLeg3/English DragonRLegPalm
+        weight: 1
+      - path: English DragonPelvis/English DragonSpine1
+        weight: 1
+      - path: English DragonPelvis/English DragonSpine1/English DragonSpine2
+        weight: 1
+      - path: English DragonPelvis/English DragonSpine1/English DragonSpine2/English
+          DragonSpine3
+        weight: 1
+      - path: English DragonPelvis/English DragonSpine1/English DragonSpine2/English
+          DragonSpine3/English DragonSpine4
+        weight: 1
+      - path: English DragonPelvis/English DragonSpine1/English DragonSpine2/English
+          DragonSpine3/English DragonSpine4/English DragonSpine5
+        weight: 1
+      - path: English DragonPelvis/English DragonSpine1/English DragonSpine2/English
+          DragonSpine3/English DragonSpine4/English DragonSpine5/English DragonSpine6
+        weight: 1
+      - path: English DragonPelvis/English DragonSpine1/English DragonSpine2/English
+          DragonSpine3/English DragonSpine4/English DragonSpine5/English DragonSpine6/English
+          DragonRibcage
+        weight: 1
+      - path: English DragonPelvis/English DragonSpine1/English DragonSpine2/English
+          DragonSpine3/English DragonSpine4/English DragonSpine5/English DragonSpine6/English
+          DragonRibcage/English DragonSpine1 1
+        weight: 1
+      - path: English DragonPelvis/English DragonSpine1/English DragonSpine2/English
+          DragonSpine3/English DragonSpine4/English DragonSpine5/English DragonSpine6/English
+          DragonRibcage/English DragonSpine1 1/English DragonSpine2 1
+        weight: 1
+      - path: English DragonPelvis/English DragonSpine1/English DragonSpine2/English
+          DragonSpine3/English DragonSpine4/English DragonSpine5/English DragonSpine6/English
+          DragonRibcage/English DragonSpine1 1/English DragonSpine2 1/English DragonSpine3
+          1
+        weight: 1
+      - path: English DragonPelvis/English DragonSpine1/English DragonSpine2/English
+          DragonSpine3/English DragonSpine4/English DragonSpine5/English DragonSpine6/English
+          DragonRibcage/English DragonSpine1 1/English DragonSpine2 1/English DragonSpine3
+          1/English DragonSpine4 1
+        weight: 1
+      - path: English DragonPelvis/English DragonSpine1/English DragonSpine2/English
+          DragonSpine3/English DragonSpine4/English DragonSpine5/English DragonSpine6/English
+          DragonRibcage/English DragonSpine1 1/English DragonSpine2 1/English DragonSpine3
+          1/English DragonSpine4 1/English DragonSpine5 1
+        weight: 1
+      - path: English DragonPelvis/English DragonSpine1/English DragonSpine2/English
+          DragonSpine3/English DragonSpine4/English DragonSpine5/English DragonSpine6/English
+          DragonRibcage/English DragonSpine1 1/English DragonSpine2 1/English DragonSpine3
+          1/English DragonSpine4 1/English DragonSpine5 1/English DragonHead
+        weight: 1
+      - path: English DragonPelvis/English DragonSpine1/English DragonSpine2/English
+          DragonSpine3/English DragonSpine4/English DragonSpine5/English DragonSpine6/English
+          DragonRibcage/English DragonSpine1 1/English DragonSpine2 1/English DragonSpine3
+          1/English DragonSpine4 1/English DragonSpine5 1/English DragonHead/English
+          DragonTail1 3
+        weight: 1
+      - path: English DragonPelvis/English DragonSpine1/English DragonSpine2/English
+          DragonSpine3/English DragonSpine4/English DragonSpine5/English DragonSpine6/English
+          DragonRibcage/English DragonSpine1 1/English DragonSpine2 1/English DragonSpine3
+          1/English DragonSpine4 1/English DragonSpine5 1/English DragonHead/English
+          DragonTail1 3/English DragonTail2 3
+        weight: 1
+      - path: English DragonPelvis/English DragonSpine1/English DragonSpine2/English
+          DragonSpine3/English DragonSpine4/English DragonSpine5/English DragonSpine6/English
+          DragonRibcage/English DragonTail1 1
+        weight: 1
+      - path: English DragonPelvis/English DragonSpine1/English DragonSpine2/English
+          DragonSpine3/English DragonSpine4/English DragonSpine5/English DragonSpine6/English
+          DragonRibcage/English DragonTail1 1/English DragonTail2 1
+        weight: 1
+      - path: English DragonPelvis/English DragonSpine1/English DragonSpine2/English
+          DragonSpine3/English DragonSpine4/English DragonSpine5/English DragonSpine6/English
+          DragonRibcage/English DragonTail1 1/English DragonTail2 1/English DragonTail3
+          2
+        weight: 1
+      - path: English DragonPelvis/English DragonSpine1/English DragonSpine2/English
+          DragonSpine3/English DragonSpine4/English DragonSpine5/English DragonSpine6/English
+          DragonRibcage/English DragonTail1 1/English DragonTail2 1/English DragonTail3
+          2/English DragonTail4 2
+        weight: 1
+      - path: English DragonPelvis/English DragonSpine1/English DragonSpine2/English
+          DragonSpine3/English DragonSpine4/English DragonSpine5/English DragonSpine6/English
+          DragonRibcage/English DragonTail1 1/English DragonTail2 1/English DragonTail3
+          2/English DragonTail4 2/English DragonTail5 2
+        weight: 1
+      - path: English DragonPelvis/English DragonSpine1/English DragonSpine2/English
+          DragonSpine3/English DragonSpine4/English DragonSpine5/English DragonSpine6/English
+          DragonRibcage/English DragonTail1 1/English DragonTail2 1/English DragonTail3
+          2/English DragonTail4 2/English DragonTail5 2/English DragonTail6
+        weight: 1
+      - path: English DragonPelvis/English DragonSpine1/English DragonSpine2/English
+          DragonSpine3/English DragonSpine4/English DragonSpine5/English DragonSpine6/English
+          DragonRibcage/English DragonTail1 1/English DragonTail2 1/English DragonTail3
+          2/English DragonTail4 2/English DragonTail5 2/English DragonTail6/English
+          DragonTail7
+        weight: 1
+      - path: English DragonPelvis/English DragonSpine1/English DragonSpine2/English
+          DragonSpine3/English DragonSpine4/English DragonSpine5/English DragonSpine6/English
+          DragonRibcage/English DragonTail1 2
+        weight: 1
+      - path: English DragonPelvis/English DragonSpine1/English DragonSpine2/English
+          DragonSpine3/English DragonSpine4/English DragonSpine5/English DragonSpine6/English
+          DragonRibcage/English DragonTail1 2/English DragonTail2 2
+        weight: 1
+      - path: English DragonPelvis/English DragonSpine1/English DragonSpine2/English
+          DragonSpine3/English DragonSpine4/English DragonSpine5/English DragonSpine6/English
+          DragonRibcage/English DragonTail1 2/English DragonTail2 2/English DragonTail3
+          1
+        weight: 1
+      - path: English DragonPelvis/English DragonSpine1/English DragonSpine2/English
+          DragonSpine3/English DragonSpine4/English DragonSpine5/English DragonSpine6/English
+          DragonRibcage/English DragonTail1 2/English DragonTail2 2/English DragonTail3
+          1/English DragonTail4 1
+        weight: 1
+      - path: English DragonPelvis/English DragonSpine1/English DragonSpine2/English
+          DragonSpine3/English DragonSpine4/English DragonSpine5/English DragonSpine6/English
+          DragonRibcage/English DragonTail1 2/English DragonTail2 2/English DragonTail3
+          1/English DragonTail4 1/English DragonTail5 1
+        weight: 1
+      - path: English DragonPelvis/English DragonSpine1/English DragonSpine2/English
+          DragonSpine3/English DragonSpine4/English DragonSpine5/English DragonSpine6/English
+          DragonRibcage/English DragonTail1 2/English DragonTail2 2/English DragonTail3
+          1/English DragonTail4 1/English DragonTail5 1/English DragonTail6 1
+        weight: 1
+      - path: English DragonPelvis/English DragonSpine1/English DragonSpine2/English
+          DragonSpine3/English DragonSpine4/English DragonSpine5/English DragonSpine6/English
+          DragonRibcage/English DragonTail1 2/English DragonTail2 2/English DragonTail3
+          1/English DragonTail4 1/English DragonTail5 1/English DragonTail6 1/English
+          DragonTail7 1
+        weight: 1
+      - path: English DragonPelvis/English DragonTail1
+        weight: 1
+      - path: English DragonPelvis/English DragonTail1/English DragonTail2
+        weight: 1
+      - path: English DragonPelvis/English DragonTail1/English DragonTail2/English
+          DragonTail3
+        weight: 1
+      - path: English DragonPelvis/English DragonTail1/English DragonTail2/English
+          DragonTail3/English DragonTail4
+        weight: 1
+      - path: English DragonPelvis/English DragonTail1/English DragonTail2/English
+          DragonTail3/English DragonTail4/English DragonTail5
+        weight: 1
+      - path: English DragonRLegPlatform
+        weight: 1
+      - path: Particle View 01
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Take 002
+      takeName: Take 001
+      firstFrame: 60
+      lastFrame: 194
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0
+        functionName: PlayAudio
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 1
+        functionName: Stop
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: DaYan
+        weight: 1
+      - path: English Dragon
+        weight: 1
+      - path: English DragonLLegPlatform
+        weight: 1
+      - path: English DragonPelvis
+        weight: 1
+      - path: English DragonPelvis/English DragonLLeg1
+        weight: 1
+      - path: English DragonPelvis/English DragonLLeg1/English DragonLLeg2
+        weight: 1
+      - path: English DragonPelvis/English DragonLLeg1/English DragonLLeg2/English
+          DragonLLeg3
+        weight: 1
+      - path: English DragonPelvis/English DragonLLeg1/English DragonLLeg2/English
+          DragonLLeg3/English DragonLLegPalm
+        weight: 1
+      - path: English DragonPelvis/English DragonRLeg1
+        weight: 1
+      - path: English DragonPelvis/English DragonRLeg1/English DragonRLeg2
+        weight: 1
+      - path: English DragonPelvis/English DragonRLeg1/English DragonRLeg2/English
+          DragonRLeg3
+        weight: 1
+      - path: English DragonPelvis/English DragonRLeg1/English DragonRLeg2/English
+          DragonRLeg3/English DragonRLegPalm
+        weight: 1
+      - path: English DragonPelvis/English DragonSpine1
+        weight: 1
+      - path: English DragonPelvis/English DragonSpine1/English DragonSpine2
+        weight: 1
+      - path: English DragonPelvis/English DragonSpine1/English DragonSpine2/English
+          DragonSpine3
+        weight: 1
+      - path: English DragonPelvis/English DragonSpine1/English DragonSpine2/English
+          DragonSpine3/English DragonSpine4
+        weight: 1
+      - path: English DragonPelvis/English DragonSpine1/English DragonSpine2/English
+          DragonSpine3/English DragonSpine4/English DragonSpine5
+        weight: 1
+      - path: English DragonPelvis/English DragonSpine1/English DragonSpine2/English
+          DragonSpine3/English DragonSpine4/English DragonSpine5/English DragonSpine6
+        weight: 1
+      - path: English DragonPelvis/English DragonSpine1/English DragonSpine2/English
+          DragonSpine3/English DragonSpine4/English DragonSpine5/English DragonSpine6/English
+          DragonRibcage
+        weight: 1
+      - path: English DragonPelvis/English DragonSpine1/English DragonSpine2/English
+          DragonSpine3/English DragonSpine4/English DragonSpine5/English DragonSpine6/English
+          DragonRibcage/English DragonSpine1 1
+        weight: 1
+      - path: English DragonPelvis/English DragonSpine1/English DragonSpine2/English
+          DragonSpine3/English DragonSpine4/English DragonSpine5/English DragonSpine6/English
+          DragonRibcage/English DragonSpine1 1/English DragonSpine2 1
+        weight: 1
+      - path: English DragonPelvis/English DragonSpine1/English DragonSpine2/English
+          DragonSpine3/English DragonSpine4/English DragonSpine5/English DragonSpine6/English
+          DragonRibcage/English DragonSpine1 1/English DragonSpine2 1/English DragonSpine3
+          1
+        weight: 1
+      - path: English DragonPelvis/English DragonSpine1/English DragonSpine2/English
+          DragonSpine3/English DragonSpine4/English DragonSpine5/English DragonSpine6/English
+          DragonRibcage/English DragonSpine1 1/English DragonSpine2 1/English DragonSpine3
+          1/English DragonSpine4 1
+        weight: 1
+      - path: English DragonPelvis/English DragonSpine1/English DragonSpine2/English
+          DragonSpine3/English DragonSpine4/English DragonSpine5/English DragonSpine6/English
+          DragonRibcage/English DragonSpine1 1/English DragonSpine2 1/English DragonSpine3
+          1/English DragonSpine4 1/English DragonSpine5 1
+        weight: 1
+      - path: English DragonPelvis/English DragonSpine1/English DragonSpine2/English
+          DragonSpine3/English DragonSpine4/English DragonSpine5/English DragonSpine6/English
+          DragonRibcage/English DragonSpine1 1/English DragonSpine2 1/English DragonSpine3
+          1/English DragonSpine4 1/English DragonSpine5 1/English DragonHead
+        weight: 1
+      - path: English DragonPelvis/English DragonSpine1/English DragonSpine2/English
+          DragonSpine3/English DragonSpine4/English DragonSpine5/English DragonSpine6/English
+          DragonRibcage/English DragonSpine1 1/English DragonSpine2 1/English DragonSpine3
+          1/English DragonSpine4 1/English DragonSpine5 1/English DragonHead/English
+          DragonTail1 3
+        weight: 1
+      - path: English DragonPelvis/English DragonSpine1/English DragonSpine2/English
+          DragonSpine3/English DragonSpine4/English DragonSpine5/English DragonSpine6/English
+          DragonRibcage/English DragonSpine1 1/English DragonSpine2 1/English DragonSpine3
+          1/English DragonSpine4 1/English DragonSpine5 1/English DragonHead/English
+          DragonTail1 3/English DragonTail2 3
+        weight: 1
+      - path: English DragonPelvis/English DragonSpine1/English DragonSpine2/English
+          DragonSpine3/English DragonSpine4/English DragonSpine5/English DragonSpine6/English
+          DragonRibcage/English DragonTail1 1
+        weight: 1
+      - path: English DragonPelvis/English DragonSpine1/English DragonSpine2/English
+          DragonSpine3/English DragonSpine4/English DragonSpine5/English DragonSpine6/English
+          DragonRibcage/English DragonTail1 1/English DragonTail2 1
+        weight: 1
+      - path: English DragonPelvis/English DragonSpine1/English DragonSpine2/English
+          DragonSpine3/English DragonSpine4/English DragonSpine5/English DragonSpine6/English
+          DragonRibcage/English DragonTail1 1/English DragonTail2 1/English DragonTail3
+          2
+        weight: 1
+      - path: English DragonPelvis/English DragonSpine1/English DragonSpine2/English
+          DragonSpine3/English DragonSpine4/English DragonSpine5/English DragonSpine6/English
+          DragonRibcage/English DragonTail1 1/English DragonTail2 1/English DragonTail3
+          2/English DragonTail4 2
+        weight: 1
+      - path: English DragonPelvis/English DragonSpine1/English DragonSpine2/English
+          DragonSpine3/English DragonSpine4/English DragonSpine5/English DragonSpine6/English
+          DragonRibcage/English DragonTail1 1/English DragonTail2 1/English DragonTail3
+          2/English DragonTail4 2/English DragonTail5 2
+        weight: 1
+      - path: English DragonPelvis/English DragonSpine1/English DragonSpine2/English
+          DragonSpine3/English DragonSpine4/English DragonSpine5/English DragonSpine6/English
+          DragonRibcage/English DragonTail1 1/English DragonTail2 1/English DragonTail3
+          2/English DragonTail4 2/English DragonTail5 2/English DragonTail6
+        weight: 1
+      - path: English DragonPelvis/English DragonSpine1/English DragonSpine2/English
+          DragonSpine3/English DragonSpine4/English DragonSpine5/English DragonSpine6/English
+          DragonRibcage/English DragonTail1 1/English DragonTail2 1/English DragonTail3
+          2/English DragonTail4 2/English DragonTail5 2/English DragonTail6/English
+          DragonTail7
+        weight: 1
+      - path: English DragonPelvis/English DragonSpine1/English DragonSpine2/English
+          DragonSpine3/English DragonSpine4/English DragonSpine5/English DragonSpine6/English
+          DragonRibcage/English DragonTail1 2
+        weight: 1
+      - path: English DragonPelvis/English DragonSpine1/English DragonSpine2/English
+          DragonSpine3/English DragonSpine4/English DragonSpine5/English DragonSpine6/English
+          DragonRibcage/English DragonTail1 2/English DragonTail2 2
+        weight: 1
+      - path: English DragonPelvis/English DragonSpine1/English DragonSpine2/English
+          DragonSpine3/English DragonSpine4/English DragonSpine5/English DragonSpine6/English
+          DragonRibcage/English DragonTail1 2/English DragonTail2 2/English DragonTail3
+          1
+        weight: 1
+      - path: English DragonPelvis/English DragonSpine1/English DragonSpine2/English
+          DragonSpine3/English DragonSpine4/English DragonSpine5/English DragonSpine6/English
+          DragonRibcage/English DragonTail1 2/English DragonTail2 2/English DragonTail3
+          1/English DragonTail4 1
+        weight: 1
+      - path: English DragonPelvis/English DragonSpine1/English DragonSpine2/English
+          DragonSpine3/English DragonSpine4/English DragonSpine5/English DragonSpine6/English
+          DragonRibcage/English DragonTail1 2/English DragonTail2 2/English DragonTail3
+          1/English DragonTail4 1/English DragonTail5 1
+        weight: 1
+      - path: English DragonPelvis/English DragonSpine1/English DragonSpine2/English
+          DragonSpine3/English DragonSpine4/English DragonSpine5/English DragonSpine6/English
+          DragonRibcage/English DragonTail1 2/English DragonTail2 2/English DragonTail3
+          1/English DragonTail4 1/English DragonTail5 1/English DragonTail6 1
+        weight: 1
+      - path: English DragonPelvis/English DragonSpine1/English DragonSpine2/English
+          DragonSpine3/English DragonSpine4/English DragonSpine5/English DragonSpine6/English
+          DragonRibcage/English DragonTail1 2/English DragonTail2 2/English DragonTail3
+          1/English DragonTail4 1/English DragonTail5 1/English DragonTail6 1/English
+          DragonTail7 1
+        weight: 1
+      - path: English DragonPelvis/English DragonTail1
+        weight: 1
+      - path: English DragonPelvis/English DragonTail1/English DragonTail2
+        weight: 1
+      - path: English DragonPelvis/English DragonTail1/English DragonTail2/English
+          DragonTail3
+        weight: 1
+      - path: English DragonPelvis/English DragonTail1/English DragonTail2/English
+          DragonTail3/English DragonTail4
+        weight: 1
+      - path: English DragonPelvis/English DragonTail1/English DragonTail2/English
+          DragonTail3/English DragonTail4/English DragonTail5
+        weight: 1
+      - path: English DragonRLegPlatform
+        weight: 1
+      - path: Particle View 01
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

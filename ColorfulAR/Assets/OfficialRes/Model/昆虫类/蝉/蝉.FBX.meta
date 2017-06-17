@@ -1,0 +1,504 @@
+fileFormatVersion: 2
+guid: 2ebe9db4376512941bc8ab75861008b3
+timeCreated: 1476091487
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: CATRigAnkleBone001
+    100002: CATRigAnkleBone001 1
+    100004: CATRigAnkleBone001 2
+    100006: CATRigAnkleBone001 3
+    100008: CATRigAnkleBone001Bone001
+    100010: CATRigAnkleBone001Bone001 1
+    100012: CATRigAnkleBone001Bone001 2
+    100014: CATRigAnkleBone001Bone001 3
+    100016: CATRigAnkleBone002
+    100018: CATRigAnkleBone002 1
+    100020: CATRigAnkleBone002Bone001
+    100022: CATRigAnkleBone002Bone001 1
+    100024: CATRigAnkleBone002Bone001Bone001
+    100026: CATRigAnkleBone002Bone001Bone001 1
+    100028: CATRigAnkleBone002Bone001Bone001Bone001
+    100030: CATRigAnkleBone002Bone001Bone001Bone001 1
+    100032: CATRigAnkleBone002Bone001Bone001Bone001Bone001
+    100034: CATRigAnkleBone002Bone001Bone001Bone001Bone001 1
+    100036: CATRigHub001
+    100038: CATRigHub001Bone001
+    100040: CATRigHub001Bone002
+    100042: CATRigHub002
+    100044: CATRigLLeg1
+    100046: CATRigLLeg1 1
+    100048: CATRigLLeg1 2
+    100050: CATRigLLeg2
+    100052: CATRigLLeg2 1
+    100054: CATRigLLeg2 2
+    100056: CATRigLLegAnkle
+    100058: CATRigLLegAnkle 1
+    100060: CATRigLLegAnkle 2
+    100062: CATRigLLegPlatform
+    100064: CATRigLLegPlatform 1
+    100066: CATRigLLegPlatform 2
+    100068: CATRigRLeg1
+    100070: CATRigRLeg1 1
+    100072: CATRigRLeg1 2
+    100074: CATRigRLeg2
+    100076: CATRigRLeg2 1
+    100078: CATRigRLeg2 2
+    100080: CATRigRLegAnkle
+    100082: CATRigRLegAnkle 1
+    100084: CATRigRLegAnkle 2
+    100086: CATRigRLegPlatform
+    100088: CATRigRLegPlatform 1
+    100090: CATRigRLegPlatform 2
+    100092: CATRigSpine2
+    100094: CATRigSpineCATRigSpine1
+    100096: CATRigTail1
+    100098: CATRigTail2
+    100100: CATRigTail3
+    100102: CATRigTail4
+    100104: Character001
+    100106: ZhiLiao
+    100108: //RootNode
+    400000: CATRigAnkleBone001
+    400002: CATRigAnkleBone001 1
+    400004: CATRigAnkleBone001 2
+    400006: CATRigAnkleBone001 3
+    400008: CATRigAnkleBone001Bone001
+    400010: CATRigAnkleBone001Bone001 1
+    400012: CATRigAnkleBone001Bone001 2
+    400014: CATRigAnkleBone001Bone001 3
+    400016: CATRigAnkleBone002
+    400018: CATRigAnkleBone002 1
+    400020: CATRigAnkleBone002Bone001
+    400022: CATRigAnkleBone002Bone001 1
+    400024: CATRigAnkleBone002Bone001Bone001
+    400026: CATRigAnkleBone002Bone001Bone001 1
+    400028: CATRigAnkleBone002Bone001Bone001Bone001
+    400030: CATRigAnkleBone002Bone001Bone001Bone001 1
+    400032: CATRigAnkleBone002Bone001Bone001Bone001Bone001
+    400034: CATRigAnkleBone002Bone001Bone001Bone001Bone001 1
+    400036: CATRigHub001
+    400038: CATRigHub001Bone001
+    400040: CATRigHub001Bone002
+    400042: CATRigHub002
+    400044: CATRigLLeg1
+    400046: CATRigLLeg1 1
+    400048: CATRigLLeg1 2
+    400050: CATRigLLeg2
+    400052: CATRigLLeg2 1
+    400054: CATRigLLeg2 2
+    400056: CATRigLLegAnkle
+    400058: CATRigLLegAnkle 1
+    400060: CATRigLLegAnkle 2
+    400062: CATRigLLegPlatform
+    400064: CATRigLLegPlatform 1
+    400066: CATRigLLegPlatform 2
+    400068: CATRigRLeg1
+    400070: CATRigRLeg1 1
+    400072: CATRigRLeg1 2
+    400074: CATRigRLeg2
+    400076: CATRigRLeg2 1
+    400078: CATRigRLeg2 2
+    400080: CATRigRLegAnkle
+    400082: CATRigRLegAnkle 1
+    400084: CATRigRLegAnkle 2
+    400086: CATRigRLegPlatform
+    400088: CATRigRLegPlatform 1
+    400090: CATRigRLegPlatform 2
+    400092: CATRigSpine2
+    400094: CATRigSpineCATRigSpine1
+    400096: CATRigTail1
+    400098: CATRigTail2
+    400100: CATRigTail3
+    400102: CATRigTail4
+    400104: Character001
+    400106: ZhiLiao
+    400108: //RootNode
+    4300000: ZhiLiao
+    7400000: Take 001
+    7400002: Take 002
+    9500000: //RootNode
+    13700000: ZhiLiao
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 87
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: CATRigHub001
+        weight: 1
+      - path: CATRigHub001/CATRigHub001Bone001
+        weight: 1
+      - path: CATRigHub001/CATRigHub001Bone002
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1/CATRigLLeg2 1
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1/CATRigLLeg2 1/CATRigLLegAnkle
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1/CATRigLLeg2 1/CATRigLLegAnkle/CATRigAnkleBone001
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1/CATRigLLeg2 1/CATRigLLegAnkle/CATRigAnkleBone001/CATRigAnkleBone001Bone001
+          1
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1 1
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1 1/CATRigLLeg2
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1 1/CATRigLLeg2/CATRigLLegAnkle 1
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1 1/CATRigLLeg2/CATRigLLegAnkle 1/CATRigAnkleBone001
+          1
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1 1/CATRigLLeg2/CATRigLLegAnkle 1/CATRigAnkleBone001
+          1/CATRigAnkleBone001Bone001
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1 2
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1 2/CATRigLLeg2 2
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1 2/CATRigLLeg2 2/CATRigLLegAnkle 2
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1 2/CATRigLLeg2 2/CATRigLLegAnkle 2/CATRigAnkleBone002
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1 2/CATRigLLeg2 2/CATRigLLegAnkle 2/CATRigAnkleBone002/CATRigAnkleBone002Bone001
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1 2/CATRigLLeg2 2/CATRigLLegAnkle 2/CATRigAnkleBone002/CATRigAnkleBone002Bone001/CATRigAnkleBone002Bone001Bone001
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1 2/CATRigLLeg2 2/CATRigLLegAnkle 2/CATRigAnkleBone002/CATRigAnkleBone002Bone001/CATRigAnkleBone002Bone001Bone001/CATRigAnkleBone002Bone001Bone001Bone001
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1 2/CATRigLLeg2 2/CATRigLLegAnkle 2/CATRigAnkleBone002/CATRigAnkleBone002Bone001/CATRigAnkleBone002Bone001Bone001/CATRigAnkleBone002Bone001Bone001Bone001/CATRigAnkleBone002Bone001Bone001Bone001Bone001
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1/CATRigRLeg2
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1/CATRigRLeg2/CATRigRLegAnkle 1
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1/CATRigRLeg2/CATRigRLegAnkle 1/CATRigAnkleBone002
+          1
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1/CATRigRLeg2/CATRigRLegAnkle 1/CATRigAnkleBone002
+          1/CATRigAnkleBone002Bone001 1
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1/CATRigRLeg2/CATRigRLegAnkle 1/CATRigAnkleBone002
+          1/CATRigAnkleBone002Bone001 1/CATRigAnkleBone002Bone001Bone001 1
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1/CATRigRLeg2/CATRigRLegAnkle 1/CATRigAnkleBone002
+          1/CATRigAnkleBone002Bone001 1/CATRigAnkleBone002Bone001Bone001 1/CATRigAnkleBone002Bone001Bone001Bone001
+          1
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1/CATRigRLeg2/CATRigRLegAnkle 1/CATRigAnkleBone002
+          1/CATRigAnkleBone002Bone001 1/CATRigAnkleBone002Bone001Bone001 1/CATRigAnkleBone002Bone001Bone001Bone001
+          1/CATRigAnkleBone002Bone001Bone001Bone001Bone001 1
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1 1
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1 1/CATRigRLeg2 1
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1 1/CATRigRLeg2 1/CATRigRLegAnkle
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1 1/CATRigRLeg2 1/CATRigRLegAnkle/CATRigAnkleBone001
+          2
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1 1/CATRigRLeg2 1/CATRigRLegAnkle/CATRigAnkleBone001
+          2/CATRigAnkleBone001Bone001 3
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1 2
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1 2/CATRigRLeg2 2
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1 2/CATRigRLeg2 2/CATRigRLegAnkle 2
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1 2/CATRigRLeg2 2/CATRigRLegAnkle 2/CATRigAnkleBone001
+          3
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1 2/CATRigRLeg2 2/CATRigRLegAnkle 2/CATRigAnkleBone001
+          3/CATRigAnkleBone001Bone001 2
+        weight: 1
+      - path: CATRigHub001/CATRigSpineCATRigSpine1
+        weight: 1
+      - path: CATRigHub001/CATRigSpineCATRigSpine1/CATRigSpine2
+        weight: 1
+      - path: CATRigHub001/CATRigSpineCATRigSpine1/CATRigSpine2/CATRigHub002
+        weight: 1
+      - path: CATRigHub001/CATRigTail1
+        weight: 1
+      - path: CATRigHub001/CATRigTail1/CATRigTail2
+        weight: 1
+      - path: CATRigHub001/CATRigTail1/CATRigTail2/CATRigTail3
+        weight: 1
+      - path: CATRigHub001/CATRigTail1/CATRigTail2/CATRigTail3/CATRigTail4
+        weight: 1
+      - path: CATRigLLegPlatform
+        weight: 1
+      - path: CATRigLLegPlatform 1
+        weight: 1
+      - path: CATRigLLegPlatform 2
+        weight: 1
+      - path: CATRigRLegPlatform
+        weight: 1
+      - path: CATRigRLegPlatform 1
+        weight: 1
+      - path: CATRigRLegPlatform 2
+        weight: 1
+      - path: Character001
+        weight: 1
+      - path: ZhiLiao
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Take 002
+      takeName: Take 001
+      firstFrame: 87
+      lastFrame: 210
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0.9859155
+        functionName: Stop
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0
+        functionName: PlayAudio
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: CATRigHub001
+        weight: 1
+      - path: CATRigHub001/CATRigHub001Bone001
+        weight: 1
+      - path: CATRigHub001/CATRigHub001Bone002
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1/CATRigLLeg2 1
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1/CATRigLLeg2 1/CATRigLLegAnkle
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1/CATRigLLeg2 1/CATRigLLegAnkle/CATRigAnkleBone001
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1/CATRigLLeg2 1/CATRigLLegAnkle/CATRigAnkleBone001/CATRigAnkleBone001Bone001
+          1
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1 1
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1 1/CATRigLLeg2
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1 1/CATRigLLeg2/CATRigLLegAnkle 1
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1 1/CATRigLLeg2/CATRigLLegAnkle 1/CATRigAnkleBone001
+          1
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1 1/CATRigLLeg2/CATRigLLegAnkle 1/CATRigAnkleBone001
+          1/CATRigAnkleBone001Bone001
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1 2
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1 2/CATRigLLeg2 2
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1 2/CATRigLLeg2 2/CATRigLLegAnkle 2
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1 2/CATRigLLeg2 2/CATRigLLegAnkle 2/CATRigAnkleBone002
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1 2/CATRigLLeg2 2/CATRigLLegAnkle 2/CATRigAnkleBone002/CATRigAnkleBone002Bone001
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1 2/CATRigLLeg2 2/CATRigLLegAnkle 2/CATRigAnkleBone002/CATRigAnkleBone002Bone001/CATRigAnkleBone002Bone001Bone001
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1 2/CATRigLLeg2 2/CATRigLLegAnkle 2/CATRigAnkleBone002/CATRigAnkleBone002Bone001/CATRigAnkleBone002Bone001Bone001/CATRigAnkleBone002Bone001Bone001Bone001
+        weight: 1
+      - path: CATRigHub001/CATRigLLeg1 2/CATRigLLeg2 2/CATRigLLegAnkle 2/CATRigAnkleBone002/CATRigAnkleBone002Bone001/CATRigAnkleBone002Bone001Bone001/CATRigAnkleBone002Bone001Bone001Bone001/CATRigAnkleBone002Bone001Bone001Bone001Bone001
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1/CATRigRLeg2
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1/CATRigRLeg2/CATRigRLegAnkle 1
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1/CATRigRLeg2/CATRigRLegAnkle 1/CATRigAnkleBone002
+          1
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1/CATRigRLeg2/CATRigRLegAnkle 1/CATRigAnkleBone002
+          1/CATRigAnkleBone002Bone001 1
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1/CATRigRLeg2/CATRigRLegAnkle 1/CATRigAnkleBone002
+          1/CATRigAnkleBone002Bone001 1/CATRigAnkleBone002Bone001Bone001 1
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1/CATRigRLeg2/CATRigRLegAnkle 1/CATRigAnkleBone002
+          1/CATRigAnkleBone002Bone001 1/CATRigAnkleBone002Bone001Bone001 1/CATRigAnkleBone002Bone001Bone001Bone001
+          1
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1/CATRigRLeg2/CATRigRLegAnkle 1/CATRigAnkleBone002
+          1/CATRigAnkleBone002Bone001 1/CATRigAnkleBone002Bone001Bone001 1/CATRigAnkleBone002Bone001Bone001Bone001
+          1/CATRigAnkleBone002Bone001Bone001Bone001Bone001 1
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1 1
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1 1/CATRigRLeg2 1
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1 1/CATRigRLeg2 1/CATRigRLegAnkle
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1 1/CATRigRLeg2 1/CATRigRLegAnkle/CATRigAnkleBone001
+          2
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1 1/CATRigRLeg2 1/CATRigRLegAnkle/CATRigAnkleBone001
+          2/CATRigAnkleBone001Bone001 3
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1 2
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1 2/CATRigRLeg2 2
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1 2/CATRigRLeg2 2/CATRigRLegAnkle 2
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1 2/CATRigRLeg2 2/CATRigRLegAnkle 2/CATRigAnkleBone001
+          3
+        weight: 1
+      - path: CATRigHub001/CATRigRLeg1 2/CATRigRLeg2 2/CATRigRLegAnkle 2/CATRigAnkleBone001
+          3/CATRigAnkleBone001Bone001 2
+        weight: 1
+      - path: CATRigHub001/CATRigSpineCATRigSpine1
+        weight: 1
+      - path: CATRigHub001/CATRigSpineCATRigSpine1/CATRigSpine2
+        weight: 1
+      - path: CATRigHub001/CATRigSpineCATRigSpine1/CATRigSpine2/CATRigHub002
+        weight: 1
+      - path: CATRigHub001/CATRigTail1
+        weight: 1
+      - path: CATRigHub001/CATRigTail1/CATRigTail2
+        weight: 1
+      - path: CATRigHub001/CATRigTail1/CATRigTail2/CATRigTail3
+        weight: 1
+      - path: CATRigHub001/CATRigTail1/CATRigTail2/CATRigTail3/CATRigTail4
+        weight: 1
+      - path: CATRigLLegPlatform
+        weight: 1
+      - path: CATRigLLegPlatform 1
+        weight: 1
+      - path: CATRigLLegPlatform 2
+        weight: 1
+      - path: CATRigRLegPlatform
+        weight: 1
+      - path: CATRigRLegPlatform 1
+        weight: 1
+      - path: CATRigRLegPlatform 2
+        weight: 1
+      - path: Character001
+        weight: 1
+      - path: ZhiLiao
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

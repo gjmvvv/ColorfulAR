@@ -1,0 +1,305 @@
+fileFormatVersion: 2
+guid: e3443ca01dee5824281cf01e06f311ce
+timeCreated: 1476091507
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: b.b root
+    100002: b.Box01
+    100004: b.Box02
+    100006: b.Box04
+    100008: b.Box05
+    100010: b.Box06
+    100012: b.Box07
+    100014: b.Box08
+    100016: b.Box09
+    100018: b.Box10
+    100020: b.Box11
+    100022: b.Box19
+    100024: b.Box20
+    100026: b.Box21
+    100028: b.Box23
+    100030: b.Box24
+    100032: b.Box25
+    100034: b.Box26
+    100036: b.Box27
+    100038: b.Box28
+    100040: b.Box29
+    100042: b.Box30
+    100044: b.Box31
+    100046: b.Box32
+    100048: b.Box33
+    100050: b.Box34
+    100052: b.Box35
+    100054: b.Box36
+    100056: b.Box37
+    100058: b.Box38
+    100060: b.Box39
+    100062: b.Box40
+    100064: b.Box41
+    100066: b.Box42
+    100068: b.Box43
+    100070: b.Box44
+    100072: b.Box45
+    100074: b.Box46
+    100076: b.Box47
+    100078: b.Box48
+    100080: b.Box49
+    100082: b.Box50
+    100084: b.Box51
+    100086: b.Box52
+    100088: b.Box53
+    100090: K01
+    100092: //RootNode
+    400000: b.b root
+    400002: b.Box01
+    400004: b.Box02
+    400006: b.Box04
+    400008: b.Box05
+    400010: b.Box06
+    400012: b.Box07
+    400014: b.Box08
+    400016: b.Box09
+    400018: b.Box10
+    400020: b.Box11
+    400022: b.Box19
+    400024: b.Box20
+    400026: b.Box21
+    400028: b.Box23
+    400030: b.Box24
+    400032: b.Box25
+    400034: b.Box26
+    400036: b.Box27
+    400038: b.Box28
+    400040: b.Box29
+    400042: b.Box30
+    400044: b.Box31
+    400046: b.Box32
+    400048: b.Box33
+    400050: b.Box34
+    400052: b.Box35
+    400054: b.Box36
+    400056: b.Box37
+    400058: b.Box38
+    400060: b.Box39
+    400062: b.Box40
+    400064: b.Box41
+    400066: b.Box42
+    400068: b.Box43
+    400070: b.Box44
+    400072: b.Box45
+    400074: b.Box46
+    400076: b.Box47
+    400078: b.Box48
+    400080: b.Box49
+    400082: b.Box50
+    400084: b.Box51
+    400086: b.Box52
+    400088: b.Box53
+    400090: K01
+    400092: //RootNode
+    4300000: K01
+    7400000: Take 002
+    9500000: //RootNode
+    13700000: K01
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 002
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 18
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 1
+        functionName: Stop
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0
+        functionName: PlayAudio
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: b.b root
+        weight: 1
+      - path: b.b root/b.Box01
+        weight: 1
+      - path: b.b root/b.Box01/b.Box02
+        weight: 1
+      - path: b.b root/b.Box01/b.Box02/b.Box37
+        weight: 1
+      - path: b.b root/b.Box01/b.Box02/b.Box37/b.Box38
+        weight: 1
+      - path: b.b root/b.Box01/b.Box02/b.Box37/b.Box38/b.Box39
+        weight: 1
+      - path: b.b root/b.Box01/b.Box02/b.Box37/b.Box38/b.Box39/b.Box04
+        weight: 1
+      - path: b.b root/b.Box01/b.Box02/b.Box37/b.Box38/b.Box39/b.Box04/b.Box05
+        weight: 1
+      - path: b.b root/b.Box01/b.Box02/b.Box37/b.Box38/b.Box39/b.Box04/b.Box05/b.Box06
+        weight: 1
+      - path: b.b root/b.Box01/b.Box02/b.Box37/b.Box38/b.Box39/b.Box04/b.Box05/b.Box06/b.Box07
+        weight: 1
+      - path: b.b root/b.Box01/b.Box02/b.Box37/b.Box38/b.Box39/b.Box04/b.Box05/b.Box06/b.Box07/b.Box08
+        weight: 1
+      - path: b.b root/b.Box01/b.Box02/b.Box37/b.Box38/b.Box39/b.Box04/b.Box05/b.Box06/b.Box07/b.Box08/b.Box09
+        weight: 1
+      - path: b.b root/b.Box01/b.Box02/b.Box37/b.Box38/b.Box39/b.Box04/b.Box05/b.Box06/b.Box07/b.Box08/b.Box09/b.Box10
+        weight: 1
+      - path: b.b root/b.Box01/b.Box02/b.Box37/b.Box38/b.Box39/b.Box04/b.Box05/b.Box06/b.Box07/b.Box08/b.Box09/b.Box10/b.Box19
+        weight: 1
+      - path: b.b root/b.Box01/b.Box02/b.Box37/b.Box38/b.Box39/b.Box04/b.Box05/b.Box06/b.Box07/b.Box08/b.Box09/b.Box10/b.Box20
+        weight: 1
+      - path: b.b root/b.Box01/b.Box02/b.Box37/b.Box38/b.Box39/b.Box04/b.Box05/b.Box06/b.Box07/b.Box08/b.Box09/b.Box10/b.Box20/b.Box21
+        weight: 1
+      - path: b.b root/b.Box01/b.Box02/b.Box37/b.Box38/b.Box39/b.Box04/b.Box05/b.Box06/b.Box07/b.Box08/b.Box09/b.Box10/b.Box20/b.Box33
+        weight: 1
+      - path: b.b root/b.Box01/b.Box02/b.Box37/b.Box38/b.Box39/b.Box04/b.Box05/b.Box06/b.Box07/b.Box08/b.Box09/b.Box10/b.Box20/b.Box33/b.Box34
+        weight: 1
+      - path: b.b root/b.Box01/b.Box02/b.Box37/b.Box38/b.Box39/b.Box04/b.Box05/b.Box06/b.Box07/b.Box08/b.Box09/b.Box10/b.Box20/b.Box36
+        weight: 1
+      - path: b.b root/b.Box01/b.Box02/b.Box37/b.Box38/b.Box39/b.Box04/b.Box05/b.Box06/b.Box07/b.Box08/b.Box09/b.Box10/b.Box20/b.Box36/b.Box35
+        weight: 1
+      - path: b.b root/b.Box01/b.Box02/b.Box37/b.Box38/b.Box39/b.Box04/b.Box05/b.Box06/b.Box07/b.Box08/b.Box09/b.Box10/b.Box23
+        weight: 1
+      - path: b.b root/b.Box01/b.Box02/b.Box37/b.Box38/b.Box39/b.Box04/b.Box05/b.Box06/b.Box07/b.Box08/b.Box09/b.Box10/b.Box23/b.Box24
+        weight: 1
+      - path: b.b root/b.Box01/b.Box02/b.Box37/b.Box38/b.Box39/b.Box04/b.Box05/b.Box06/b.Box07/b.Box08/b.Box09/b.Box10/b.Box23/b.Box24/b.Box25
+        weight: 1
+      - path: b.b root/b.Box01/b.Box02/b.Box37/b.Box38/b.Box39/b.Box04/b.Box05/b.Box06/b.Box07/b.Box08/b.Box09/b.Box10/b.Box23/b.Box24/b.Box26
+        weight: 1
+      - path: b.b root/b.Box01/b.Box02/b.Box37/b.Box38/b.Box39/b.Box04/b.Box05/b.Box06/b.Box07/b.Box08/b.Box09/b.Box10/b.Box23/b.Box24/b.Box26/b.Box27
+        weight: 1
+      - path: b.b root/b.Box01/b.Box02/b.Box37/b.Box38/b.Box39/b.Box04/b.Box05/b.Box06/b.Box07/b.Box08/b.Box09/b.Box10/b.Box23/b.Box24/b.Box26/b.Box27/b.Box28
+        weight: 1
+      - path: b.b root/b.Box01/b.Box02/b.Box37/b.Box38/b.Box39/b.Box04/b.Box05/b.Box06/b.Box07/b.Box08/b.Box09/b.Box10/b.Box23/b.Box24/b.Box26/b.Box27/b.Box28/b.Box29
+        weight: 1
+      - path: b.b root/b.Box01/b.Box02/b.Box37/b.Box38/b.Box39/b.Box04/b.Box05/b.Box06/b.Box07/b.Box08/b.Box09/b.Box10/b.Box23/b.Box24/b.Box26/b.Box27/b.Box28/b.Box29/b.Box31
+        weight: 1
+      - path: b.b root/b.Box01/b.Box02/b.Box37/b.Box38/b.Box39/b.Box04/b.Box05/b.Box06/b.Box07/b.Box08/b.Box09/b.Box10/b.Box23/b.Box24/b.Box26/b.Box27/b.Box28/b.Box30
+        weight: 1
+      - path: b.b root/b.Box01/b.Box02/b.Box37/b.Box38/b.Box39/b.Box04/b.Box05/b.Box06/b.Box07/b.Box08/b.Box09/b.Box10/b.Box23/b.Box24/b.Box26/b.Box27/b.Box28/b.Box30/b.Box32
+        weight: 1
+      - path: b.b root/b.Box01/b.Box11
+        weight: 1
+      - path: b.b root/b.Box01/b.Box11/b.Box40
+        weight: 1
+      - path: b.b root/b.Box01/b.Box11/b.Box40/b.Box41
+        weight: 1
+      - path: b.b root/b.Box01/b.Box11/b.Box40/b.Box41/b.Box42
+        weight: 1
+      - path: b.b root/b.Box01/b.Box11/b.Box40/b.Box41/b.Box42/b.Box43
+        weight: 1
+      - path: b.b root/b.Box01/b.Box11/b.Box40/b.Box41/b.Box42/b.Box43/b.Box44
+        weight: 1
+      - path: b.b root/b.Box01/b.Box11/b.Box40/b.Box41/b.Box42/b.Box43/b.Box44/b.Box45
+        weight: 1
+      - path: b.b root/b.Box01/b.Box11/b.Box40/b.Box41/b.Box42/b.Box43/b.Box44/b.Box45/b.Box46
+        weight: 1
+      - path: b.b root/b.Box01/b.Box11/b.Box40/b.Box41/b.Box42/b.Box43/b.Box44/b.Box45/b.Box46/b.Box47
+        weight: 1
+      - path: b.b root/b.Box01/b.Box11/b.Box40/b.Box41/b.Box42/b.Box43/b.Box44/b.Box45/b.Box46/b.Box47/b.Box48
+        weight: 1
+      - path: b.b root/b.Box01/b.Box11/b.Box40/b.Box41/b.Box42/b.Box43/b.Box44/b.Box45/b.Box46/b.Box47/b.Box48/b.Box49
+        weight: 1
+      - path: b.b root/b.Box01/b.Box11/b.Box40/b.Box41/b.Box42/b.Box43/b.Box44/b.Box45/b.Box46/b.Box47/b.Box48/b.Box49/b.Box50
+        weight: 1
+      - path: b.b root/b.Box01/b.Box11/b.Box40/b.Box41/b.Box42/b.Box43/b.Box44/b.Box45/b.Box46/b.Box47/b.Box48/b.Box49/b.Box50/b.Box51
+        weight: 1
+      - path: b.b root/b.Box01/b.Box11/b.Box40/b.Box41/b.Box42/b.Box43/b.Box44/b.Box45/b.Box46/b.Box47/b.Box48/b.Box49/b.Box50/b.Box51/b.Box52
+        weight: 1
+      - path: b.b root/b.Box01/b.Box11/b.Box40/b.Box41/b.Box42/b.Box43/b.Box44/b.Box45/b.Box46/b.Box47/b.Box48/b.Box49/b.Box50/b.Box51/b.Box52/b.Box53
+        weight: 1
+      - path: K01
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>10.0.20506</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <RootNamespace></RootNamespace>
+    <ProjectGuid>{B52BD10A-76C2-2711-F815-0AE7FC9180D1}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <AssemblyName>Assembly-CSharp</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <BaseDirectory>Assets</BaseDirectory>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>Temp\bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_4_1;UNITY_5_4;UNITY_5;ENABLE_NEW_BUGREPORTER;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_EDITOR_RETINA;ENABLE_RETINA_GUISTYLES;ENABLE_FRAME_DEBUGGER;ENABLE_GENERICS;ENABLE_HOME_SCREEN;ENABLE_IMAGEEFFECTS;ENABLE_LIGHT_PROBES_LEGACY;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_PLUGIN_INSPECTOR;ENABLE_SHADOWS;ENABLE_SPRITERENDERER_FLIPPING;ENABLE_SPRITES;ENABLE_SPRITE_POLYGON;ENABLE_TERRAIN;ENABLE_RAKNET;ENABLE_UNET;ENABLE_UNITYEVENTS;ENABLE_VR;ENABLE_WEBCAM;ENABLE_WWW;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_COLLAB;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_HUB;ENABLE_CLOUD_PROJECT_ID;ENABLE_CLOUD_SERVICES_CRASH_REPORTING;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_UNET;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_METRICS;ENABLE_EDITOR_METRICS_CACHING;INCLUDE_DYNAMIC_GI;INCLUDE_GI;INCLUDE_IL2CPP;INCLUDE_DIRECTX12;PLATFORM_SUPPORTS_MONO;INCLUDE_PUBNUB;ENABLE_LOCALIZATION;ENABLE_ANDROID_ATLAS_ETC1_COMPRESSION;ENABLE_EDITOR_TESTS_RUNNER;UNITY_ANDROID;UNITY_ANDROID_API;ENABLE_SUBSTANCE;ENABLE_TEXTUREID_MAP;ENABLE_EGL;ENABLE_NETWORK;ENABLE_RUNTIME_GI;ENABLE_CRUNCH_TEXTURE_COMPRESSION;ENABLE_UNITYWEBREQUEST;PLATFORM_SUPPORTS_ADS_ID;UNITY_CAN_SHOW_SPLASH_SCREEN;ENABLE_UNITYADS_RUNTIME;UNITY_UNITYADS_API;ENABLE_MONO;ENABLE_PROFILER;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_WIN;UNITY_TEAM_LICENSE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <NoWarn>0169</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>Temp\bin\Release\</OutputPath>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <NoWarn>0169</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.XML" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="UnityEngine">
+      <HintPath>D:/Program Files/Unity/Editor/Data/Managed/UnityEngine.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor">
+      <HintPath>D:/Program Files/Unity/Editor/Data/Managed/UnityEditor.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+     <Compile Include="Assets\ColorfulAR\Scripts\Common\Global\CollectionHelper.cs" />
+     <Compile Include="Assets\ColorfulAR\Scripts\Common\Global\GameObjectPool.cs" />
+     <Compile Include="Assets\ColorfulAR\Scripts\Common\Global\TransformHelper.cs" />
+     <Compile Include="Assets\ColorfulAR\Scripts\Common\InputController.cs" />
+     <Compile Include="Assets\ColorfulAR\Scripts\Global\Global.cs" />
+     <Compile Include="Assets\ColorfulAR\Scripts\MVC\Ctrl.cs" />
+     <Compile Include="Assets\ColorfulAR\Scripts\MVC\Model.cs" />
+     <Compile Include="Assets\ColorfulAR\Scripts\MVC\UIManager.cs" />
+     <Compile Include="Assets\ColorfulAR\Scripts\MVC\View.cs" />
+     <Compile Include="Assets\ColorfulAR\Scripts\TargetManager\DetectionTargetIsCameraRange.cs" />
+     <Compile Include="Assets\ColorfulAR\Scripts\TargetManager\EasyImageTargetBehaviour.cs" />
+     <Compile Include="Assets\ColorfulAR\Scripts\TargetManager\EasyTargetManager.cs" />
+     <Compile Include="Assets\ColorfulAR\Scripts\TargetManager\TargetAudioBand.cs" />
+     <Compile Include="Assets\ColorfulAR\Scripts\TargetManager\TargetMotor.cs" />
+     <Compile Include="Assets\EasyAR\Scripts\ARBuilder.cs" />
+     <Compile Include="Assets\EasyAR\Scripts\AugmenterBehaviour.cs" />
+     <Compile Include="Assets\EasyAR\Scripts\BarCodeScannerBehaviour.cs" />
+     <Compile Include="Assets\EasyAR\Scripts\CameraDeviceBehaviour.cs" />
+     <Compile Include="Assets\EasyAR\Scripts\EasyARBehaviour.cs" />
+     <Compile Include="Assets\EasyAR\Scripts\ImageTargetBehaviour.cs" />
+     <Compile Include="Assets\EasyAR\Scripts\ImageTrackerBehaviour.cs" />
+     <Compile Include="Assets\EasyAR\Scripts\RealityPlaneBehaviour.cs" />
+     <Compile Include="Assets\EasyAR\Scripts\RenderCameraBehaviour.cs" />
+     <Compile Include="Assets\EasyAR\Scripts\VideoPlayerBehaviour.cs" />
+     <Compile Include="Assets\Test\MoveCtroller.cs" />
+     <Compile Include="Assets\Test\joyStickControl.cs" />
+     <None Include="Assets\Plugins\Android\ShareSDK\res\values\ssdk_oks_strings.xml" />
+     <None Include="Assets\Plugins\NGUI\Examples\Shaders\Unlit - Depth Cutout.shader" />
+     <None Include="Assets\Plugins\Android\ShareRec\res\drawable\srec_share_share_back_left_bottom.xml" />
+     <None Include="Assets\Plugins\NGUI\ReadMe - 3.9.4.txt" />
+     <None Include="Assets\Plugins\NGUI\Resources\Shaders\Unlit - Transparent Masked 1.shader" />
+     <None Include="Assets\Plugins\Android\ShareRec\res\values\srec_errors.xml" />
+     <None Include="Assets\Plugins\NGUI\Resources\Shaders\Unlit - Text 2.shader" />
+     <None Include="Assets\Plugins\Android\ShareRec\res\drawable\smssdk_country_group_scroll_down.xml" />
+     <None Include="Assets\Plugins\NGUI\Resources\Shaders\Unlit - Transparent Masked 2.shader" />
+     <None Include="Assets\Plugins\NGUI\Examples\Models\Orc\Orc Skin.shader" />
+     <None Include="Assets\Plugins\NGUI\Examples\Atlases\Wooden\Arimo20.txt" />
+     <None Include="Assets\Plugins\Android\ShareRec\res\values\srec_styles_base.xml" />
+     <None Include="Assets\Plugins\NGUI\Examples\Atlases\Wooden\Arimo14.txt" />
+     <None Include="Assets\Plugins\Android\ShareRec\res\drawable\srec_video_item_right_top_bg_land.xml" />
+     <None Include="Assets\Plugins\Android\ShareSDK\res\values\ssdk_strings.xml" />
+     <None Include="Assets\Plugins\Android\ShareRec\res\values\ssdk_oks_strings.xml" />
+     <None Include="Assets\Plugins\Android\ShareRec\res\drawable\smssdk_country_group_scroll_up.xml" />
+     <None Include="Assets\Plugins\Android\assets\ShareSDK.xml" />
+     <None Include="Assets\Plugins\Android\ShareRec\res\drawable\srec_bine_phone.xml" />
+     <None Include="Assets\Plugins\Android\ShareRec\res\drawable\srec_share_share_back_right_bottom.xml" />
+     <None Include="Assets\Plugins\Android\ShareRec\res\drawable\smssdk_btn_enable.xml" />
+     <None Include="Assets\Plugins\NGUI\Resources\Shaders\Unlit - Text 1.shader" />
+     <None Include="Assets\Plugins\NGUI\Resources\Shaders\Unlit - Premultiplied Colored (TextureClip).shader" />
+     <None Include="Assets\Plugins\Android\ShareRec\res\values-en\srec_errors.xml" />
+     <None Include="Assets\Plugins\NGUI\Resources\Shaders\Unlit - Transparent Colored (Packed) (TextureClip).shader" />
+     <None Include="Assets\Plugins\NGUI\Resources\Shaders\Unlit - Transparent Colored 2.shader" />
+     <None Include="Assets\Plugins\Android\ShareRec\res\drawable\srec_share_edit_back.xml" />
+     <None Include="Assets\Plugins\NGUI\Examples\Shaders\Unlit - Masked Colored.shader" />
+     <None Include="Assets\ColorfulAR\Plugin\Duck\README.txt" />
+     <None Include="Assets\Plugins\NGUI\Resources\Shaders\Unlit - Premultiplied Colored 3.shader" />
+     <None Include="Assets\Plugins\EasyTouch\Readme_first.txt" />
+     <None Include="Assets\Plugins\Android\ShareRec\AndroidManifest.xml" />
+     <None Include="Assets\Plugins\NGUI\Examples\Atlases\Wooden\Arimo18.txt" />
+     <None Include="Assets\Plugins\Android\ShareRec\res\drawable\smssdk_corners_bg_pre.xml" />
+     <None Include="Assets\Plugins\Android\ShareRec\res\drawable\srec_local_video_upload_back_base.xml" />
+     <None Include="Assets\Plugins\Android\ShareRec\res\drawable\smssdk_corners_bg.xml" />
+     <None Include="Assets\Plugins\Android\ShareRec\res\drawable\smssdk_btn_disenable.xml" />
+     <None Include="Assets\Plugins\Android\ShareRec\res\values-en\ssdk_oks_strings.xml" />
+     <None Include="Assets\Plugins\Android\ShareSDK\res\drawable\ssdk_oks_classic_progressbar.xml" />
+     <None Include="Assets\Plugins\Android\ShareRec\res\drawable\srec_crop_sb_item_back.xml" />
+     <None Include="Assets\Plugins\Android\ShareRec\res\values\srec_plurals.xml" />
+     <None Include="Assets\Plugins\Android\ShareSDK\res\drawable\ssdk_oks_classic_platform_cell_back.xml" />
+     <None Include="Assets\Plugins\Android\ShareRec\res\drawable\ssdk_oks_classic_progressbar.xml" />
+     <None Include="Assets\Plugins\Android\ShareRec\res\drawable\srec_comment_back.xml" />
+     <None Include="Assets\Plugins\Android\ShareRec\res\drawable\srec_share_share_back_right_top.xml" />
+     <None Include="Assets\Plugins\NGUI\Resources\Shaders\Unlit - Transparent Colored (TextureClip).shader" />
+     <None Include="Assets\Plugins\NGUI\Examples\Atlases\SciFi\SciFi Font - Header.txt" />
+     <None Include="Assets\Plugins\Android\ShareRec\res\drawable\srec_video_item_right_bottom_bg_land.xml" />
+     <None Include="Assets\Plugins\Android\ShareSDK\res\values-en\ssdk_strings.xml" />
+     <None Include="Assets\Plugins\Android\ShareRec\res\drawable\srec_share_btn_back.xml" />
+     <None Include="Assets\Plugins\Android\ShareRec\res\drawable\srec_share_thumb_back.xml" />
+     <None Include="Assets\Plugins\Android\ShareRec\res\drawable\srec_ve_progress.xml" />
+     <None Include="Assets\Plugins\Android\ShareRec\res\values\srec_strings.xml" />
+     <None Include="Assets\Plugins\Android\ShareRec\res\drawable\smssdk_corners_bg_nor.xml" />
+     <None Include="Assets\Plugins\Android\ShareRec\res\values\smssdk_colors.xml" />
+     <None Include="Assets\Plugins\Android\ShareRec\res\drawable\srec_signin_btn_back.xml" />
+     <None Include="Assets\Plugins\Android\ShareRec\res\drawable\smssdk_edittext_bg_selector.xml" />
+     <None Include="Assets\Plugins\Android\ShareRec\res\values-en\srec_strings_base.xml" />
+     <None Include="Assets\Plugins\NGUI\Resources\Shaders\Unlit - Transparent Masked 3.shader" />
+     <None Include="Assets\Plugins\Android\ShareSDK\res\values\ssdk_oks_color_drawables.xml" />
+     <None Include="Assets\Plugins\Android\ShareRec\res\drawable\srec_share_panel_back.xml" />
+     <None Include="Assets\Plugins\Android\ShareRec\res\drawable\srec_prt_header_back.xml" />
+     <None Include="Assets\Plugins\NGUI\Resources\Shaders\Unlit - Transparent Colored 1.shader" />
+     <None Include="Assets\Plugins\Android\ShareRec\res\drawable\srec_signout_btn_back.xml" />
+     <None Include="Assets\Plugins\Android\ShareRec\res\drawable\srec_pause_video_icon_base.xml" />
+     <None Include="Assets\Plugins\NGUI\Examples\Atlases\Fantasy\Fantasy Font - Normal.txt" />
+     <None Include="Assets\Plugins\NGUI\Resources\Shaders\Unlit - Transparent Colored 3.shader" />
+     <None Include="Assets\Plugins\NGUI\Examples\Atlases\Refractive\Refractive Font - Normal.txt" />
+     <None Include="Assets\Plugins\NGUI\Resources\Shaders\Unlit - Premultiplied Colored 2.shader" />
+     <None Include="Assets\Plugins\Android\ShareRec\res\drawable\srec_recomm_play_video_circle.xml" />
+     <None Include="Assets\Plugins\Android\ShareRec\res\drawable\srec_local_video_narrator_back.xml" />
+     <None Include="Assets\Plugins\Android\ShareRec\res\values\smssdk_errors.xml" />
+     <None Include="Assets\Plugins\Android\ShareRec\res\drawable\srec_game_news_thumb_back.xml" />
+     <None Include="Assets\Plugins\NGUI\Resources\Shaders\Unlit - Text 3.shader" />
+     <None Include="Assets\Plugins\Android\ShareRec\res\drawable\srec_share_video_platforms_back.xml" />
+     <None Include="Assets\Plugins\NGUI\Resources\Shaders\Unlit - Transparent Packed 2.shader" />
+     <None Include="Assets\Plugins\Android\ShareRec\res\drawable\srec_profile_conf_bg_land.xml" />
+     <None Include="Assets\Plugins\Android\ShareRec\res\values\srec_drawables.xml" />
+     <None Include="Assets\Plugins\NGUI\Resources\Shaders\Unlit - Transparent Packed 1.shader" />
+     <None Include="Assets\Plugins\Android\ShareSDK\res\values\ssdk_instapaper_strings.xml" />
+     <None Include="Assets\Plugins\NGUI\Resources\Shaders\Unlit - Premultiplied Colored 1.shader" />
+     <None Include="Assets\Plugins\NGUI\Resources\Shaders\Unlit - Premultiplied Colored.shader" />
+     <None Include="Assets\Plugins\Android\ShareRec\res\values\smssdk_strings.xml" />
+     <None Include="Assets\Plugins\Android\ShareRec\res\drawable\smssdk_country_bg_selector.xml" />
+     <None Include="Assets\Plugins\Android\ShareRec\res\drawable\srec_share_thumb_back_port.xml" />
+     <None Include="Assets\Plugins\Android\ShareRec\res\drawable\srec_local_video_title_edit_back_base.xml" />
+     <None Include="Assets\Plugins\NGUI\Resources\Shaders\Unlit - Transparent Colored.shader" />
+     <None Include="Assets\Plugins\Android\ShareRec\res\drawable\srec_play_video_circle_base.xml" />
+     <None Include="Assets\Plugins\Android\ShareRec\res\values-en\ssdk_strings.xml" />
+     <None Include="Assets\Plugins\Android\ShareRec\res\drawable\srec_like_liked_back.xml" />
+     <None Include="Assets\Plugins\Android\ShareRec\res\drawable\srec_video_item_left_bg_land.xml" />
+     <None Include="Assets\Plugins\Android\ShareSDK\AndroidManifest.xml" />
+     <None Include="Assets\Plugins\Android\ShareRec\res\values-en\smssdk_errors.xml" />
+     <None Include="Assets\Plugins\Android\ShareRec\res\drawable\srec_profile_nick_bg_land.xml" />
+     <None Include="Assets\Plugins\Android\ShareRec\res\drawable\srec_report_back.xml" />
+     <None Include="Assets\Plugins\NGUI\Resources\Shaders\Unlit - Text.shader" />
+     <None Include="Assets\EasyAR\Resources\Shaders\TransparentVideo.shader" />
+     <None Include="Assets\Plugins\Android\ShareRec\res\values\smssdk_styles.xml" />
+     <None Include="Assets\Plugins\Android\ShareRec\res\drawable\srec_report_cancel_back.xml" />
+     <None Include="Assets\Plugins\NGUI\Resources\Shaders\Unlit - Transparent Packed.shader" />
+     <None Include="Assets\Plugins\Android\ShareRec\res\drawable\srec_add_comment_back_land.xml" />
+     <None Include="Assets\Plugins\NGUI\Resources\Shaders\Unlit - Transparent Packed 3.shader" />
+     <None Include="Assets\Plugins\Android\ShareRec\res\drawable\srec_recomm_play_video_icon.xml" />
+     <None Include="Assets\Plugins\Android\ShareRec\res\drawable\srec_edit_profile_back.xml" />
+     <None Include="Assets\Plugins\Android\ShareRec\res\drawable\srec_ve_progress_bg.xml" />
+     <None Include="Assets\Plugins\Android\ShareRec\res\drawable\srec_share_close_btn_back.xml" />
+     <None Include="Assets\Plugins\Android\ShareRec\res\drawable\srec_signin_account_back.xml" />
+     <None Include="Assets\Plugins\Android\ShareRec\res\values-en\srec_plurals.xml" />
+     <None Include="Assets\Plugins\Android\ShareRec\res\drawable\srec_profile_local_video_back.xml" />
+     <None Include="Assets\Plugins\Android\ShareRec\res\drawable\srec_main_share_progress.xml" />
+     <None Include="Assets\Plugins\Android\ShareRec\res\values\ssdk_strings.xml" />
+     <None Include="Assets\Plugins\Android\ShareRec\res\drawable\srec_sb_item_back.xml" />
+     <None Include="Assets\Plugins\Android\ShareRec\res\values\ssdk_oks_color_drawables.xml" />
+     <None Include="Assets\Plugins\Android\ShareRec\res\drawable\srec_ve_trim_bg.xml" />
+     <None Include="Assets\Plugins\NGUI\Examples\Shaders\Unlit - Additive Colored.shader" />
+     <None Include="Assets\Plugins\Android\ShareRec\res\drawable\srec_gray_circle.xml" />
+     <None Include="Assets\Plugins\Android\ShareRec\res\drawable\smssdk_dialog_btn_back.xml" />
+     <None Include="Assets\Plugins\NGUI\Resources\Shaders\Unlit - Transparent Masked.shader" />
+     <None Include="Assets\Plugins\NGUI\Examples\Atlases\Refractive\Refractive Font - Header.txt" />
+     <None Include="Assets\Plugins\NGUI\Examples\Shaders\Refractive.shader" />
+     <None Include="Assets\Plugins\Android\ShareRec\res\drawable\srec_local_video_title_edit_et_back_base.xml" />
+     <None Include="Assets\Plugins\Android\ShareRec\res\values\srec_strings_base.xml" />
+     <None Include="Assets\Plugins\Android\ShareRec\res\values\smssdk_arrays.xml" />
+     <None Include="Assets\Plugins\Android\ShareRec\res\drawable\srec_share_share_back_left_top.xml" />
+     <None Include="Assets\Plugins\NGUI\Resources\Shaders\Unlit - Text (TextureClip).shader" />
+     <None Include="Assets\Plugins\NGUI\Examples\Shaders\Unlit - Depth.shader" />
+     <None Include="Assets\Plugins\Android\ShareRec\res\values-en\smssdk_arrays.xml" />
+     <None Include="Assets\Plugins\Android\ShareRec\res\values-en\smssdk_strings.xml" />
+     <None Include="Assets\Plugins\NGUI\Examples\Atlases\SciFi\SciFi Font - Normal.txt" />
+     <None Include="Assets\EasyAR\Resources\Shaders\RealityPlane.shader" />
+     <None Include="Assets\Plugins\Android\AndroidManifest.xml" />
+     <None Include="Assets\Plugins\Android\ShareRec\res\drawable\srec_fluency_back.xml" />
+     <None Include="Assets\Plugins\Android\ShareRec\res\values-en\srec_strings.xml" />
+     <None Include="Assets\Plugins\Android\ShareSDK\res\values-en\ssdk_oks_strings.xml" />
+     <None Include="Assets\Plugins\NGUI\Examples\Models\Orc Armor\Orc Armor.shader" />
+     <None Include="Assets\Plugins\Android\ShareRec\res\drawable\srec_like_back.xml" />
+     <None Include="Assets\Plugins\NGUI\Examples\Resources\Localization.txt" />
+     <None Include="Assets\Plugins\Android\ShareRec\res\drawable\ssdk_oks_classic_platform_cell_back.xml" />
+     <None Include="Assets\Plugins\Android\ShareRec\res\drawable\srec_play_video_icon_base.xml" />
+ <Reference Include="Assembly-UnityScript-firstpass">
+ <HintPath>E:/GJM - Helper/GJM - Working/Unity Project/ColorfulAR 0.3/Library/ScriptAssemblies/Assembly-UnityScript-firstpass.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.UI">
+ <HintPath>D:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.Networking">
+ <HintPath>D:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll</HintPath>
+ </Reference>
+ <Reference Include="EasyAR.Unity">
+ <HintPath>E:/GJM - Helper/GJM - Working/Unity Project/ColorfulAR 0.3/Assets/EasyAR/Scripts/EasyAR.Unity.dll</HintPath>
+ </Reference>
+ <Reference Include="LitJson">
+ <HintPath>E:/GJM - Helper/GJM - Working/Unity Project/ColorfulAR 0.3/Assets/Plugins/LitJson.dll</HintPath>
+ </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="Assembly-CSharp-firstpass.csproj">
+      <Project>{095A881D-9483-1428-C7CF-AE57AE9F56F9}</Project>      <Name>Assembly-CSharp-firstpass</Name>    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  
+</Project>
